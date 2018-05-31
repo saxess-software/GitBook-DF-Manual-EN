@@ -1,35 +1,36 @@
-## Über die Software
+## About the Software
 
-_**Was ist DataFactory?**_  
+_**What is DataFactory?**_
 
-DataFactory ist eine flexible Software zur operativen Unternehmensplanung und Steuerung. Sie dient der Erfassung von Plandaten auf operativer Ebene und kann für ein breites Spektrum an Anwendungsfällen verwendet werden:
+DataFactory is a flexible program for operative planning and controlling. It serves to collect and manage planning information on an operative level and can be used for a wide variety of tasks: 
 
-* Vertragsverwaltung sämtlicher im Unternehmen befindlicher Verträge
-* Personalplanung (Budget, Personalbedarf etc.)
-* Liquiditätsplanung
-* Absatzplanung
-* Fuhrparkverwaltung
-* Darlehensverwaltung
-* Investitionsplanung
-* u.v.m. 
+* Contract management for all enterprise-related contracts
+* Personnel management \(budget, personnel allowance, etc.\)
+* Liquid funds management
+* Sales planning
+* Fleet management
+* Credit management
+* Investment planning
 
-In Form von fertigen Solutions bietet DataFactory Lösungen für verschiedene Anwendungsfälle. Darüber hinaus kann DataFactory flexibel auf individuelle Anforderungen angepasst werden.
+and much more.
 
-_**Was kann DataFactory?**_  
+DataFactory offers solutions for many different issues in a ready-to-use form. Thus, DataFactory’s ablities can easily be customized to suit many individual requirements.
 
-DataFactory zeichnet sich aus durch:
+_**What can DataFactory do?**_
 
-* die Nutzung der vertrauten Excel-Umgebung bzw. des vertrauten Web-Browsers
-* die Sicherheit und Geschwindigkeit einer Datenbank
-* Objektorientierung, die feste Strukturen und Standards schafft
-* einen Mehrnutzerbetrieb
-* die Verknüpfung mit Events, die Folgeprozesse nach sich ziehen können
-* ein Berechtigungskonzept
-* Webfähigkeit und damit mobilen Zugriff
-* Updatefähigkeit
-* die Möglichkeit des Imports und Exports aus und in verschiedene Systeme
+DataFactory is characterized by:
 
-_**Wer nutzt DataFactory?**_  
+* The use of the familar Excel work environment and known internet browser interfaces.
+* The efficiency and security of a database
+* Object orientation capable of providing stable structures and standards 
+* Support for multiple concurrent users
+* The ease of connecting events and subsequent processes
+* An authorization concept
+* Internet compatibility and mobile accessibility
+* Capacity for updates
+* Ability to import and export information inside and outside of various systems
 
-Die DataFactory findet idealerweise überall dort Anwendung, wo Plan- und Verwaltungsdaten unterschiedlichster Art durch mehrere Nutzer systematisch erfasst und zentral verwaltet werden sollen. Berater, Projektmanager, Controller und Sachbearbeiter nutzen DataFactory gleichermaßen.
+_**Who can use DataFactory?**_
+
+DataFactory can ideally be used in any enterprise where planning and administration data are to be systematically recorded and made accessible to multiple users. DataFactory is commonly used by consultants, project managers, bureaucrats and administrators.
 
