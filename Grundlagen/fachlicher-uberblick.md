@@ -1,13 +1,14 @@
-## Fachlicher Überblick
+## Functional Overview
 
 In einem Unternehmen lassen sich typischerweise die in den Bereichen Controlling/Finanzen und Verwaltung verwendeten Softwares in einer BI-Pyramide lokalisieren.
 
 ---
+
 ![](/Bilder/BI_Pyramide.png)
 
 ---
 
-Üblicherweise teilt sich die Unternehmenswelt in eine IST- und eine PLAN-Welt. In der IST-Welt existieren eine Reihe von Tools, die belegorientiert Daten auf Einzelebene in ERP-Systemen vorhalten \(bspw. DATEV\). ERP-Systeme ermöglichen sehr wenig Planungsfunktionalitäten auf Belegebene, sodass PLAN-Daten auf unterster Ebene in großem Umfang und für einen längeren Planungshorizont nicht vorliegen. Hier setzt DataFactory an. DataFactory ermöglicht die Erfassung von Plandaten auf unterster, granularster Ebene und ist überall dort angesiedelt, wo Daten auf operativer Ebene entstehen und gesammelt werden.
+Generally, the business world is split into two categories: the ACTUAL category and a PLAN category. The ACTUAL category contains a variety of tools, which archive document-oriented data on singular levels in ERP-systems \(e.g. DATEV\). ERP systems offer little planning functionality at document level, so that PLAN-data on the lowest level is not available in a broad range and for long-term planning. This is where DataFactory finds its use. DataFactory enables the user to access planning data on the lowest and most granular level and can be found in many locations where data is produced and collected on an operative level. 
 
 ## 
 
