@@ -1,12 +1,12 @@
-### Anbindung an weitere Systeme
+### Connection to further Systems
 
-DataFactory bietet die Möglichkeit Daten aus weiteren System in die Datenbank zu importieren und dorthin zu exportieren.
+DataFactory offers the ability to import and export data to and from other systems.
 
-**Manuelle Anbindung**  
-Der manuelle Import von Daten bietet sich immer dann an, wenn die Daten unregelmäßig importiert werden. Der Import kann aus verschiedenen Formaten \(z.B. .csv, xlsx, etc.\) erfolgen.
+**Manual Connection**  
+The manual import of data is the more favourable option when data is imported irregularly. The import can take place using a variety of formats \(e.g. .csv, xlsx, etc.\) 
 
-**Automatische Anbindung**  
-Die direkte Anbindung an eine Datenbank findet dann Anwendung, wenn Daten regelmäßig importiert werden. Die Verbindung kann direkt auf Datenbankebene hergestellt werden und ermöglicht die Anbindung beliebiger Datenbanken von Drittanbietern.
+**Automatic Connection**  
+When data is regularly imported, the data stream can be directly connected for automatic import. The connection can be made directly on the database level and allows third parties to access selected databases. 
 
-Besonders komfortabel gestaltet sich die Anbindung mit Hilfe des SXIntegrators.
+The data connection is especially convenient when used with the help of SX Integrators.
 
