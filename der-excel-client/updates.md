@@ -1,44 +1,38 @@
 ## Updates
 
-### Update des Excel-Clients
+### Updating the Excel Client
 
-Das aktuelle Release des Excel-Clients finden Sie auf <https://planning-factory.com>. Laden Sie ihn dort herunter und installieren Sie Ihn wie in Kapitel [Installation 1.1 & 1.2](installation-und-update.md) beschrieben.
+The current release of the Excel client can be found at [https://planning-factory.com](https://planning-factory.com). Download the new Excel client file and install it as described in the chapter _**Installation 1.1 & 1.2**_.
 
-Die Verbindungen zu Ihren DataFactory-Datenbanken haben Sie bereits über Ihre bisherigen Excel-Client-Versionen definiert. Für jede Datenbankverbindung, die Sie in Ihrem Excel-Client anlegen, wird eine sogenannte Key-File erstellt und in Ihrem DataFactory-Ordner **+** abgelegt. Lesen Sie dazu mehr in Kapitel [Keys](werk/keys.md).
+You have already established the connection to your DataFactory database via your Excel client version. For every database connection you establish, a so-called “key file” will be created and deposited in the DataFactory folder +. Read more on this topic in the chapter _**Keys**_.
 
-Über diese Key-Files können Sie in Ihrer neuen Excel-Client-Version einfach und schnell Ihre Datenbankverbindungen  wiederherstellen. Ihre Key-Files haben Sie wie in Kapitel [Keys](werk/keys.md) erläutert in einem von Ihnen gewählten Ordner gespeichert. In Ihrem neuen Excel-Client muss nun die Information hinterlegt werden, in welchem Ordner  sich die Key-Files befinden. Gehen Sie dazu wie folgt vor.
+Using these key files, you can quickly and easily re-establish the database connection in your new Excel client version. Your key files have already been saved in your selected folder, as explained in the chapter Keys. The information detailing the location of the key files must now be saved into the new Excel client. This can be done as follows.
 
-1) Wählen Sie in der **Werksübersicht** die Option **Neu**.
+1\) In Work **Overview**, select the option **New**.
 
 ---
+
 ![](/assets/iu17.png)
 
 ---
 
-2) In dem sich öffnenden Fenster wählen Sie den Ordner aus, in dem sich Ihre Key-Files befinden und klicken Sie auf **OK**.
+2\) A new window will open, in which you can select the folder containing your key files. Select this folder and click **OK**. 
 
 ---
+
 ![](/assets/iu18.png)
 
 ---
 
-3) In Ihrem Excel-Client werden Ihnen nun Ihre Cluster angezeigt.
+3\) Your clusters will now be displayed in the Excel client.
 
 ---
+
 ![](/assets/iu19.png)
 
 ---
 
-### Update der API
+### Updating the API
 
-Es kann notwendig sein, ein Update der API durchzuführen. Sollte die Versionsnummer der Datei nicht der Versionsnummer des Servers entsprechen, bitten Sie den Administrator diesen zu updaten. Sollten Sie selbst der Administrator sein, lesen Sie in Kapitel [DataFactory-Datenbank](../installation-der-datafactory-datenbank.md) weiter.
-
-
-
-
-
-
-
-
-
+It may be necessary to update the API. If the file’s version number does not match that of the server, ask your system administrator to update the server. If you are the system administrator, please refer to the chapter _**DataFactory Database**_.
 

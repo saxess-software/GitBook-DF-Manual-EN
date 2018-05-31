@@ -1,18 +1,22 @@
-## Struktureller Aufbau
+## Structure
 
-Der strukturelle Aufbau von DataFactory orientiert sich am Konzept der *Abstrakten Fabrik*; einer Art "Schablone" zur Entwicklung von Lösungen im Bereich Softwarearchitektur und -entwicklung. 
+The structure of DataFactory is based on the _concept of the abstract factory_, a type of template for the development of solutions in software architecture and development.
 
-Die Struktur von DataFactory untergliedert sich in vier Ebenen mit den abstrakten Bezeichnungen Werk, Fabrik, Produktlinie und Produkt. Durch die unspezifische Bezeichnung der einzelnen Strukturelemente ist es möglich, die Struktur von verschiedensten Anwendungsfällen bzw. Problemstellungen abzubilden und darauf aufbauend die gewünschte Systemlösung zu designen. Aus diesem Grund kann DataFactory in einem sehr breiten Anwendungsspektrum eingesetzt und flexibel nach individuellen Anforderungen angepasst werden.
+The structure of DataFactory is subdivided into four layers with the abstract titles **Work, Factory, Product Line** and **Product**. Through the nonspecific labelling of the individual structural elements it is possible to illustrate the structure of diverse issues and applications and to design the desired system solutions. Because of this, DataFactory has a very broad usage spectrum and is flexible enough to meet diverse individual needs. 
 
-Die unterste Ebene der Struktur bildet das Produkt. Auf der Ebene des Produkt findet die Datenerfassung statt. Jedes Produkt basiert auf einem sogenannten [Template](templates.md), d.h. einer Vorlage,  auf deren Basis weitere Produkte generiert werden sollen. Ein Template kann als abstraktes Produkt verstanden werden, in welchem nur die Strukturen und Berechnungslogiken eines bestimmten Produkttyps definiert sind. Aus einem Template können beliebig viele konkrete Produkte generiert werden, d.h. Produkte, die konkrete Daten tragen. 
+The lowest level of the structure is the **product**. Data collection takes place on that level. Every product is based on a so-called template, on the basis of which further products are generated. The template can be understood as an abstract product in which only the structures and algorithms of a particular product type are defined. Many concrete products, i.e. products that carry concrete information, can be generated from one template.
 
-Produkte werden auf Produktlinienebene aggregiert und Produktlinien wiederum auf Fabrikebene. Die oberste Aggregationsebene bildet das Werk.
+Products are aggregated on a product line while product lines are aggregated on a factory level. The highest aggregation level is the **work**. 
 
-Auf Fabrik- und Produktlinienebene können die Zugriffsrechte vergeben werden, d.h. dass Benutzer nur für bestimmte Fabriken oder Produktlinien Lese- und/oder Schreibrechte haben. Mehr zu diesem Thema finden Sie im Kapitel [Benutzer verwalten](werk/benutzer-verwalten.md).
+The access rights can be assigned on the factory and product line levels, meaning that the user can only read and edit certain factory and product line information. This subject is further discussed in the chapter _**User Management**_.
 
-Listen und Formate werden auf Werksebene verwaltet und können in allen Hierarchieebenen eingesetzt werden. Mehr dazu lesen Sie im Kapitel [Listen und Formate](listen-und-formate.md).
+Lists and formats are managed on the work level and can be implemented in all levels of the hierarchy. A more detailed description is given in the chapter _**Lists and Formats**_.
 
 ---
+
 ![](/assets/Struktur DF.png)
 
 ---
+
+
+
