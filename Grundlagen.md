@@ -1,3 +1,4 @@
-# Grundlagen
+# Basics
 
-In diesem Kapitel erhalten Sie eine Überblick über die fachlichen und technischen Grundlagen in DataFactory.
+In this chapter you will find an overview of the functional and technical basics of DataFactory.
+
