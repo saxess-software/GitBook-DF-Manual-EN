@@ -1,17 +1,11 @@
-### Datenbank
-Das Herzstück von DataFactory ist eine Datenbank, die auf einem MS-SQL Server liegt. Hierfür existieren 2 Möglichkeiten:
+### Database
 
-1. Die Datenbank liegt im lokalen Intranet.
-1. Die Datenbank liegt in einer Cloud
+The core of DataFactory is a database contained on an MS-SQL server. There are two possibilities for data storage:
+
+1. The database is stored in the local intranet
+2. The database is stored in a Cloud.
 
 ### API
-Auf der Datenbank ist eine API installiert, die als Zugriffsschicht die Logiken der Zugriffsteuerung definiert. Im Grunde genommen ist die API eine Sammlung von Prozeduren (stored procedures), die in der Datenbank angelegt werden und welche die Rechen- und Zugriffslogiken von DataFactory beinhalten und alle Prozesse steuern , die auf der Datenbank stattfinden. Die API stellt das Herz von DataFactory dar. Jede Eingabe bzw. jeder Befehl, der im Excel- oder Web-Client durchgeführt wird, löst im Hintergrund eine Aktion der API aus.
 
-
-
-
-
-
-
-
+An API is installed on the database that defines the logic of the access control system. In simple terms, the API is a collection of stored procedures which are applied to the database. They contain the access and calculation algorithms which govern all of the processes stored within the database. The API creates the core of DataFactory. All information and commands input in the Excel or web client will effect an action by the API.
 
