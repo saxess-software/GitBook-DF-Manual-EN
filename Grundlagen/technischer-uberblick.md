@@ -1,22 +1,22 @@
-## Technischer Überblick
+## Technical Overview
 
-DataFactory basiert nahezu ausschließlich auf Standard Microsoft Technologie. Voraussetzungen sind ein MS SQL Server ab Version 2012 und MS Excel ab Version 2010.
+DataFactory is based almost exclusively on standard Microsoft technology. Requirements are a MS SQL server version 2012 or newer, and MS Excel version 2010 or newer. 
 
-**DataFactory im Intranet**
+**DataFactory in the Intranet**
 
 ---
 
 ![](/Bilder/Technischer_Überblick_Intranet.png)
 
 ---
-**DataFactory in der Cloud**
+
+**DataFactory in the Cloud**
 
 ---
+
 ![](/Bilder/Technischer_Überblick_Cloud.png)
 
 ---
-
-
 
 
 
