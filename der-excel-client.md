@@ -1,10 +1,8 @@
 ![](/Bilder/Logo.png)
 
-# Der Excel-Client
+# The Excel Client
 
-Um Ihr Unternehmen erfolgreich managen zu können, muss Ihre Systemlösung Ihre Geschäftsprozesse möglichst realitätsnah abbilden und Ihnen aussagekräftige, schlanke Berichte auf Basis von belastbaren Daten liefern. Eine effiziente und verlässliche Datenerfassung ist dabei der entscheidende Faktor, von dem die Qualität der Folgeprozesse abhängt. Das Entwickeln von Strukturen und Methodiken im Excel-Client ist deshalb der wichtigste Schritt innerhalb der gesamten Designphase. Hier nehmen Sie die Modellierung Ihrer Geschäftsprozesse vor und entwerfen den Rahmen, innerhalb dessen Sie Ihre Daten erfassen und aufbereiten werden. 
+In order to effectively manage your enterprise, your system solution needs to quickly and efficiently carry out your business processes and deliver concise and essential information obtained from reliable data. An efficient and reliable data acquisition system is the deciding factor which dictates the quality of the output. The development of structures and methods within the Excel client is therefore the most important step of the design phase. During this phase, you will model your business processes and design the frame in which your data will be collected and processed.
 
-In diesem Kapitel erfahren Sie, wie der generelle Aufbau des DataFactory Excel-Client gestaltet ist und wie Sie Ihre eigene Struktur in dieser Software aufbauen können. Darüber hinaus wird beschrieben, welche Funktionen und Werkzeuge Ihnen zur Verfügung stehen und wie Sie diese für die Abbildung Ihrer Anforderungen einsetzen können.
-
- 
+In this chapter you will learn how the general structure of the DataFactory Excel client is designed and how you can implement a custom structure in the software. You will also learn which functions and tools are available to you and how you can use them to map your requirements and visualize your desired outcomes. 
 
