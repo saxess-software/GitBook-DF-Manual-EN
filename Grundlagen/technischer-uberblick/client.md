@@ -1,11 +1,12 @@
 ### Client
-Es existieren 2 Clients, mit denen auf die Datenbank zugegriffen werden kann. Beide Clients arbeiten simultan in der gleichen Datenbank mit identischen Datenstand.
 
-**Excel-Client**  
-Der Excel-Client ist eine Excel-Mappe, die mit jeder Excel Version ab 2010 funktioniert. Es ist keine separate Installation oder das Einbinden von Add-Ins notwendig. Der Excel-Client funktioniert sowohl im lokalen Intranet, als auch für den Cloud Zugriff.
+There are two clients with which the information in the database can be accessed. Both clients work simultaneously in the same database with an identical data inventory. 
 
-Typischerweise wird der Excel-Client vom Designer des Systems verwendet. Er bietet vollumfänglich die Möglichkeit das System aufzubauen, zu gestalten und zu konfigurieren.
+**Excel Client**  
+The Excel client is an Excel portfolio that is compatible with every version of Excel from 2010 onwards. No separate installations or add-ons are required. The Excel client works both in the local intranet and in the Cloud.
 
-**Web-Client**  
-Der Web-Client funktioniert in allen gängigen Browsern. Ein separates Installieren oder Einbinden von Add-Ins ist auch hier nicht nötig. Mit dem Web-Client ist auch der Zugriff von mobilen Endgeräten auf die Datenbank möglich. Soll der Web-Client auch für eine DB im Intranet genutzt werden, ist die Installation eines Webservers (IIS) auf dem Server nötig.
-Der Web-Client wird in der Regel vom den Nutzern verwendet, die Daten lesen und schreiben sollen, das System aber nicht designen.
+Typically, the system designer would use the Excel client. It offers the means to construct, develop and configure the system.
+
+**Web Client**  
+The web client can be used in all mainstream browsers. Separate installations or add-ons are not required. Using the web client, it is also possible for the database to access mobile terminals. If the web client is also to be used for a DB in the intranet, it will be necessary to install a webserver \(IIS\) on the server. The web client is most often used by individuals intending to read and enter data, after the system has already been designed.
+
