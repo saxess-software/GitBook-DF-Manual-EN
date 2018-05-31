@@ -1,8 +1,8 @@
 ![Logo](Bilder/Logo.png)
 
-# Über DataFactory
+# About DataFactory
 
-SX DataFactory ist die Planlösung für Controlling und Finanzen. Sie macht alle vorhandenen Daten für Ihre Planung nutzbar und ist damit das ideale Werkzeug, um Ihr ERP-System oder Ihre BI-Software mit detaillierten Planungsdaten zu ergänzen. SX DataFactory verbindet auf einzigartige Art und Weise die Vorteile von Excel mit den Vorzügen einer datenbankbasierten Lösung.
+SX DataFactory is our solution for Controlling and Finances. It processes all available data for optimal usage in planning, and is therefore an ideal tool to supplement your ERP system or BI software with detailed planning information. SX DataFactory combines the advantages of Excel with those of a database-oriented solution in a new and innovative way. 
 
-In diesem Handbuch erfahren Sie, was SX DataFactory ist und was diese Software kann. Nach einem kurzen Überblick über die Software allgemein sowie den Aufbau des Handbuches werden Ihnen die fachlichen und technischen Grundlagen von SX DataFactory näher gebracht. Im Anschluss erhalten Sie eine detaillierte Beschreibung und Schritt-für-Schritt-Anleitung der vielfältigen Funktionalitäten sowohl vom Excel-Client als auch vom Web-Client von SX DataFactory.
+In this handbook you will learn what SX DataFactory is and the many ways in which the software can be used. After a brief overview of the software’s basic concepts and a description of this handbook, you will learn about the functional and technical basics of SX DataFactory. You will find a detailed description and step-by-step guide to the many functionalities of the DataFactory Excel client as well as the associated web client. 
 
