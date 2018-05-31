@@ -1,7 +1,4 @@
-## Übersicht 
+## Overview
 
-Der Excel-Client ist eine Excel-Mappe, die Sie wie jede andere Excel-Datei mit Excel ab Version 2010 öffnen können. Er ist ein vollumfänglicher Client, der alle Funktionen beinhaltet, die Sie benötigen, um Ihre DataFactory zu designen und auf Ihre individuellen Bedürfnisse anzupassen. Sie lernen in den folgenden Abschnitten die gesamte Palette an Funktionen und Möglichkeiten des Excel-Clients kennen.  
-
-
-
+The Excel client is an Excel portfolio that can be opened with any version of Excel from 2010 onward. It is a comprehensive client that contains all of the functions needed to design your DataFactory and customize it to meet your needs and preferences. In this section you will learn about all of the functions and opportunities the Excel client offers.
 
