@@ -1,14 +1,15 @@
-## Über das Handbuch
+## About the Handbook
 
-Dieses Handbuch beschreibt die Arbeit sowohl mit dem Excel-Client als auch mit dem Web-Client von DataFactory.  
+This handbook describes how to work with DataFactory in the Excel client as well as the web client.
 
-Sofern nicht gesondert erwähnt, beziehen sich die beschriebenen Funktionen auf die im Titel angegebene Version unter Windows. Alle Abbildungen zur Funktionsweise von DataFactory stammen aus dem TemplateStore DE. Der Aufbau des Handbuchs ist darauf ausgelegt, dass DataFactory bereits auf Ihrem Computer installiert und konfiguriert ist.
+Unless otherwise stated, all described functions are related to the Windows version specifed in the title. All illustrations relating to the functionalities of DataFactory are taken from the TemplateStore DE. The structure of the handbook assumes that installation and configuration of DataFactory have already been completed on your computer. 
 
-Bei Fragen, Anmerkungen und Feedback können Sie uns wie folgt erreichen:
+If you have any questions, comments or feedback, please contact us by telephone or e-mail.
 
-**E-Mail**: <datafactory@saxess-software.de>  
-**Telefon**: 0341/218 299-52
+**Email**: [datafactory@saxess-software.de](mailto:datafactory@saxess-software.de)  
+**Phone**: 0341/218 299-52
 
-Das Handbuch können Sie unter der untenstehenden URL erreichen. Dort haben Sie auch die Möglichkeit, das Handbuch als Pdf-Datei zu downloaden.
+A copy of this handbook can also be found at the URL shown below. It can be downloaded from this website as a PDF document.
 
-https://www.gitbook.com/book/saxess-software/datafactory-handbuch
+[https://www.gitbook.com/book/saxess-software/datafactory-manual-english](https://www.gitbook.com/book/saxess-software/datafactory-manual-english)
+
