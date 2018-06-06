@@ -1,26 +1,30 @@
 ### Keys
 
-Keys sind in DataFactory Verbindungen zu Clustern. Physisch gesehen sind Keys spezielle Dateien (.pfk-Dateien), in denen die Verbindungsoptionen zur Datenbank gespeichert sind.  
+In DataFactory, keys are connections to clusters. From a physical perspective, keys are specialized files \(.pfk files\) in which the database connection settings are saved.
 
 ---
+
 ![](/Bilder/Werk/werk11.png)
 
 ---
-Standardmäßig befinden sich die Keys im Ordner "Keys" des „+“-Ordners Ihrer DataFactory.  
-Für jede Verbindung zu einem Cluster wird ein Key angelegt.
 
-Im DataFactory Arbeitsbereich finden Sie das Dropdown-Menü "Keyverzeichnis", über welches Sie auswählen können, auf welchen Key-Ordner Sie zugreifen möchten, um ein Key auszuwählen. Der Key zum Cluster "TemplateStore_DE" befindet sich standardmäßig wie im obenstehenden Bild zu sehen direkt im Ordner "Keys".Im Dropdown-Menü "Keyverzeichnis" wird deshalb der Key-Ordner "default" angezeigt.
+By default, the keys are stored in the folder "Keys" of the „+“ folder of your DataFactory.  
+For every connection to a cluster, a key is created.
 
-Sie können weitere Keys-Unterordner definieren, um Ihren DataFactory Arbeitsbereich zu strukturieren und sich nur bestimmte Cluster anzeigen zu lassen. In dem untenstehenden Beispiel wurde ein Key-Unterordner "Solutions" angelegt.
+In the DataFactory working area you will find the dropdown menu "Key Directory". There you can choose which key folder you want to access to pick a key. By default the key for the cluster "TemplateStore\_EN" is stored directly in the folder "Keys", as you can see in the picture above. In the dropdown menu "Key Directory" therefore the key folder "default" is shown.
+
+You can define further key sub-folder to structure your DataFactory working area and to see only specified clusters. In the example below the key sub-folder "Solutions" was created.
 
 ---
+
 ![](/Bilder/Werk/werk14.png)
 
 ---
 
-Im Dropdown-Menü "Keyverzeichnis" ist dieser Ordner nun wählbar und es werden alle Cluster angezeigt, für die in diesem Unterordner Keys hinterlegt sind. Da in diesem Key-Unterordner momentan noch keine Keys gespeichert wurden, erscheint die Meldung "Keine Keyfiles in Verzeichnis...". Wie Keys hinterlegt werden bzw. wie man sich mit einem Werk verbindet, wird im nächsten Abschnitt "Werk verbinden" beschrieben.
+This folder can now be selected in the drop-down menu **“Key Directory”** and all clusters that are associated with this subfolder will be displayed. Because there are currently no keys saved in this key subfolder, the text **“No key files in directory…”** will be displayed. How to save keys, or connect with a work, is explained in the section **Connecting works**.
 
 ---
+
 ![](/Bilder/Werk/Werk13.png)
 
 ---
