@@ -1,26 +1,30 @@
-### Werksübersicht
+### Work Overview
 
-Die Werksübersicht unterteilt sich in einen **Kopfbereich** und einen **Arbeitsbereich**.
+The Work overview is divided into the **head** and the **body**.
 
 ---
+
 ![](/Bilder/Werk/Werk3.PNG)
 
 ---
 
-Der Kopfbereich bleibt in jeder Ansicht erhalten und enthält Informationen zur verwendeten Version, zum angemeldeten User sowie Informationen zur Navigation. Darüber hinaus enthält der Kopfbereich immer den Button **Werksübersicht**. Über diesen Button gelangt man immer direkt zur Werksübersicht.  
+The head will remain open in every view and contains information on the current version, the current user, and navigation. Furthermore, the button **Work Overview** will be available at all times in the head. Clicking this button will take you directly to the work overview.
 
 ---
+
 ![](/Bilder/Werk/Werk4.PNG)
 
 ---
 
-Im Arbeitsbereich der Werksübersicht befinden sich die zur Verfügung stehenden Cluster sowie die Optionen zur Verbindungs- und Sprachenverwaltung.    
+The body of the work overview contains the available clusters as well as the connection and language options.
 
 ---
+
 ![](/Bilder/Werk/Werk5.PNG)
 
 ---
 
+> **Note:** If there are currently no clusters available, the text “No key files in directory…” will be displayed.
 
->**Hinweis**: Sofern Ihnen noch keine Cluster zur Verfügung stehen, erscheint der Text: „kein Keyfiles in Verzeichnis…“ 
+
 

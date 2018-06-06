@@ -1,40 +1,45 @@
-### Sprache ändern 
+### Language Settings
 
-Um die Sprache zu ändern, gehen Sie wie folgt vor: 
+To change the language, proceed as follows:
 
-1. Klicken Sie auf den ActionLink **Verbindungen und Sprache**.  
+1. Click on the ActionLink** Connections and Language**.  
 
 ---
+
 ![](/Bilder/Werk/werk10.png)
 
 ---
 
-2.	Klicken Sie auf die Option **Sprache ändern**. 
+1. Select the option **Change Language**.
 
 ---
+
 ![](/Bilder/Werk/Werk6.png)
 
 ---
 
-3.	Wählen Sie die gewünschte Sprache und bestätigen Sie mit dem Button **Activate**.  
+1. Choose the desired language and confirm your selection by clicking **Activate**.
 
 ---
+
 ![](/Bilder/Werk/Werk7.png)
 
 ---
 
-Es stehen Ihnen 4 Sprachen für die Benutzeroberfläche zur Verfügung:  
+There are four Languages available for the user interface:
 
-* Deutsch
-* Englisch
-* Niederländisch
-* Russisch
+* German
+* English
+* Dutch
+* Russian
 
-Die Standardsprache der Benutzeroberfläche ist deutsch. Die Umstellung der Standardsprache erfolgt im Verzeichnis +\i18n durch das Setzen eines Unterstrichs vor die gewünschte Sprache. 
+The default language for the user interface is German. In the +\i18n directory, the default language can be changed by adding an underscore \(\_\) in front of your desired language.
 
- ---
-  
+---
+
 ![](/Bilder/Werk/Werk8.png)
 
 ---
+
+
 
