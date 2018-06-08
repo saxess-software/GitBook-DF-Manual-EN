@@ -1,44 +1,48 @@
-### Mehrere Werke organisieren
+### Organizing Multiple Works
 
-Wenn Ihnen eine Reihe von verschiedenen Werken zur Verfügung stehen, empfiehlt sich die Werke in verschiedenen Ordnern zu organisieren.  
+If there are a variety of works at your disposal, it is recommended to organize these works in several folders.
 
+To do this, proceed as follows: 
 
-
-Dazu gehen Sie wie folgt vor:
-
-1) Legen Sie sich Ihre gewünschte Ordnerstruktur in Ihrem Explorer an. 
+1\) Set up your desired folder structure in your explorer.
 
 ---
+
 ![](/Bilder/Werk/werk32.png)
 
 ---
 
-
-2) Verschieben Sie Keyfiles in Ihre Ordnerstruktur.
+2\) Move key files to your folder structure.
 
 ---
+
 ![](/Bilder/Werk/werk30.png)
 
 ---
 
-3) Gehen Sie zur Werksübersicht und klicken Sie auf die Schaltfläche **Neu**.
-
----
-![](/Bilder/Werk/werk31.png)  
+3\) Click on the **New** button in the work overview.
 
 ---
 
-4) Wählen Sie Ihr gewünschtes Verzeichnis und klicken Sie auf den Button **OK**.  
+![](/Bilder/Werk/werk31.png)
 
 ---
+
+4\) Select your desired directory and confirm by clicking the **OK** button.
+
+---
+
 ![](/Bilder/Werk/werk32.png)
 
 ---
 
-5) Ihr Verzeichnis wurde nun hinterlegt. 
+5\) Your directory has now been stored. 
 
---- 
+---
+
 ![](/Bilder/Werk/werk33.png)
 
 ---
+
+
 
