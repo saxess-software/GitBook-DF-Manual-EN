@@ -1,23 +1,25 @@
-### Werk verwalten
+### Administrating a Work
 
-Um ein Werk zu verwalten, müssen Sie zunächst das Werk betreten. In der Übersicht Fabriken und Produktlinien finden Sie den ActionLink mit drei Punkten **...**  
+In order to administrate and manage your work, it is necessary to access it. In the factory and product lines overview you will find an ActionLink with an ellipsis \(…\).
 
 ---
+
 ![](/assets/Werk34.png)
 
 ---
- 
 
-Es stehen Ihnen folgende Optionen zur Verfügung:  
+The following options are available:
 
-| Einstellung | Beschreibung |
-| : | : | 
-| Eigenschaften editieren | Technische Steuerelemente des Werks |
-| Listen editieren | Zentrale Listenverwaltung |
-| Formate editieren| Zentrale Formatverwaltung |
-| Benutzer verwalten | Benutzerverwaltung |
-| Pivot-Ansicht | Erstellt eine Pivot-Auswertung über das gesamte Werk |
-| Import | Import von PF-Daten (z.B. Templates) |
-| Einstellungen | Anpassen der Programmeinstellungen |
-| PowerLaden | Neuberechnung der Produkte und automatische Speicherung (ggf. notwendig nach Import von Daten)|
+| Settings | Desciption |
+| --- | --- |
+| Edit Properties | Technical control elements of the work |
+| Edit Lists | Core list management |
+| Edit Formats | Core format management |
+| Manage Users | User management |
+| Pivot View | Creates a pivot evaluation for the entire work |
+| Import | Import of PF data \(e.g. Templates\) |
+| Settings | Customization of program settings |
+| PowerLoad | Re-calculation of the products and automatic saving \(Possibly necessary after data import\) |
+
+
 
