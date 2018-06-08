@@ -1,26 +1,32 @@
-### Werk umbenennen
+### Renaming a work
 
-Um ein Werk umzubenennen, gehen Sie wie folgt vor:
+To edit the name of a work, proceed as follows:
 
-1) Gehen Sie zur Werksübersicht, klicken Sie auf den ActionLink **Verbindungen und Sprache** und wählen Sie die Option **Verbindungen** verwalten.  
+1\) Navigate to the work overview, click on the ActionLink **Connections and Language** and select the **Connections** option.
 
 ---
+
 ![](/Bilder/Werk/werk24.png)
 
 ---
 
-2) Wählen Sie die Verbindung aus, die Sie umbenennen wollen.  
+2\) Select the connection you wish to rename.
 
 ---
+
 ![](/Bilder/Werk/werk25.png)
 
 ---
 
-3) Geben Sie im Feld **Kachelbezeichnung** den neuen Namen Ihrer Verbindung ein und klicken Sie auf den Button **Speichern**, um Ihr Werk umzubenennen.   
+3\) In the box **Tile Name**, type in the new name of your connection and click on the **Save** button to save the changes.
 
 ---
+
 ![](/Bilder/Werk/werk28.png)
 
 ---
 
-> **Hinweis**: Wenn Sie ein Werk umbenennen, ändert sich nur die Beschriftung der Kachel, die Sie in der Werksübersicht sehen.
+> **Note:** When changing the name of a work, only the label of the tile seen in the work overview changes.
+
+
+

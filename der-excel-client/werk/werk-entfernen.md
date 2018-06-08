@@ -1,42 +1,48 @@
-### Werk entfernen
+### Deleting a Work
 
-Um ein Werk zu entfernen, gehen Sie wie folgt vor:  
+In order to delete a work, proceed as follows:
 
-1) Klicken Sie auf den ActionLink **Verbindungen und Sprache**.  
+1\) Click on the ActionLink **Connections and Language**.
 
 ---
+
 ![](/Bilder/Werk/werk23.png)
 
 ---
 
-2) Klicken Sie auf den Button **Verbindungen verwalten**.  
+2\) Click on the **Manage Connections** button.
 
 ---
+
 ![](/Bilder/Werk/werk24.png)
 
 ---
 
-3) Es öffnet sich der Connection Manager.
+3\) The connections manager will open.
 
-4) Wählen Sie die Verbindung aus, die Sie löschen möchten.  
+4\) Select the connection you wish to delete.
 
 ---
+
 ![](/Bilder/Werk/werk25.png)
 
 ---
 
-5) Klicken Sie auf den Button **Verbindung löschen**.  
+5\) Click on the **Delete Connection **button.
 
 ---
+
 ![](/Bilder/Werk/werk26.png)
 
 ---
 
-
-6) Klicken Sie auf den Button **Ja**, um die Verbindung zu löschen.  
+6\) Confirm by clicking on the **Yes** button to delete the connection.
 
 ---
+
 ![](/Bilder/Werk/werk27.png)
 
 ---
+
+
 
