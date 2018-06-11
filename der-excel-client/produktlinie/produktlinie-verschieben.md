@@ -1,32 +1,38 @@
-### Produktlinie verschieben
+### Move a Product Line
 
-Über die Funktion Produktlinie verschieben, verschieben Sie eine Produktlinie an eine andere Position innerhalb Ihres Werks, d.h. Sie können Produktlinien auch zwischen verschiedenen Fabriken bewegen. Dies geschieht durch die Änderung der **ProduktlinienID**.  
+Via the **Move Product Line** function, you can move a product line to another location within your work. You may also move product lines between different factories. This can be done by changing the **ProductlineID**.
 
-Um eine Produktlinie zu verschieben, gehen Sie wie folgt vor:  
+To move a product line to another location, proceed as follows:
 
-1) Gehen Sie zu der Produktlinie, die Sie verschieben wollen und klicken Sie auf den ActionLink.  
-
----
-![](/assets/pl5.png)
----
-
-2) Klicken Sie auf die Option **Verschieben**.  
+1\) Navigate to the product line you wish to move and click on the ActionLink.
 
 ---
+
+## ![](/assets/pl5.png)
+
+2\) Select the option **Move to**.
+
+---
+
 ![](/assets/pl9.png)
 
 ---
 
-3) Wählen Sie für die Produktlinie eine Zielfabrik, geben Sie eine **ProduktlinienID** ein und bestätigen Sie Ihre Eingabe mit dem Button **Speichern**.  
+3\) Choose the factory you wish to move the product line to and enter a **ProductlineID**. Confirm your entries by clicking the **Save** button.
 
 ---
+
 ![](/assets/pl10.png)
 
 ---
 
-4) Die verschobene Produktlinie sortiert an der entsprechend von Ihnen gewählten Stelle innerhalb Ihres Werkes ein.  
+4\) The moved product line will be sorted into the chosen location within your work.
 
 ---
-![](/assets/pl11.png) 
+
+![](/assets/pl11.png)
 
 ---
+
+
+
