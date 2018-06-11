@@ -24,7 +24,7 @@
     * [Renaming a work](der-excel-client/werk/werk-umbenennen.md)
     * [Organizing Multiple Works](der-excel-client/werk/mehrere-werke-organisieren.md)
     * [Administrating a Work](der-excel-client/werk/werk-verwalten.md)
-    * [Benutzer verwalten](der-excel-client/werk/benutzer-verwalten.md)
+    * [User Management](der-excel-client/werk/benutzer-verwalten.md)
     * [Neue Benutzer anlegen](der-excel-client/werk/neue-benutzer-anlegen.md)
     * [Benutzerrechte ändern](der-excel-client/werk/benutzerrechte-andern.md)
     * [Benutzer löschen](der-excel-client/werk/benutzer-loschen.md)

@@ -1,23 +1,25 @@
-### Benutzer verwalten
+### User Management
 
-DataFactory ermöglicht Ihnen eine komfortable Verwaltung von Benutzern und deren Zugriffsrechten innerhalb der DataFactory. Benutzer werden zentral für ein Werk verwaltet. Es besteht jedoch die Möglichkeit jedem Nutzer individuelle Zugriffsrechte hinunter bis zur Ebene der Produktlinie zu geben. 
+DataFactory offers a comfortable method of managing users and their access rights within DataFactory. User permissions for each work are managed by a central setting. However, it is also possible to grant each user individual access rights on each level down to the product line.
 
-Die Regelung der Zugriffsrechte erfolgt in **3 Stufen**:  
+The access rights are organized into **three levels**:
 
-| Stufe | Recht | Beschreibung |
-| : | : | : |
-| 1 | Deny | keinerlei Rechte |
-| 2 | Read | Leserechte |
-| 3 | Write | Schreib- und Leserechte |
+| Level | Right | Description |
+| --- | --- | --- |
+| 1 | Deny | No permissions |
+| 2 | Read | Read-only |
+| 3 | Write | Reading and editing permissions |
 
-##### Kommentarfunktion
+##### Comment Function
 
-Darüber hinaus haben Sie die Möglichkeit zum Zwecke der Sicherheit und Dokumentation von jedem Nutzer beim Lesen und/oder Ändern von Inhalten in Ihrer DataFactory einen Kommentar zu erzwingen.  
+Furthermore, you have the option to require other users to leave a comment when they read and/or edit data in your DataFactory, benefitting the documentation and security of your data.
 
-| Einstellung | Optionen |
-| : | : |
-| ReadCommentMandatory (0) | Der Nutzer muss beim Lesen von Inhalten keinen Kommentar abgeben. |
-| ReadCommentMandatory (1) | Der Nutzer muss beim Lesen von Inhalten einen Kommentar abgeben. |
-| WriteCommentMandatory (0) | Der Nutzer muss beim Schreiben von Inhalten keinen Kommentar abgeben |
-| WriteCommentMandatory (1) | Der Nutzer muss beim Schreiben von Inhalten einen Kommentar abgeben. |
+| Setting | Options |
+| --- | --- |
+| ReadCommentMandatory \(0\) | The user is not required to leave a comment when reading data. |
+| ReadCommentMandatory \(1\) | The user must leave a comment when reading data. |
+| WriteCommentMandatory \(0\) | The user is not required to leave a comment when editing data. |
+| WriteCommentMandatory \(1\) | The user must leave a comment when editing data. |
+
+
 
