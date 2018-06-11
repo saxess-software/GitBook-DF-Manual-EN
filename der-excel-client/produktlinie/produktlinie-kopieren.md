@@ -1,36 +1,42 @@
-### Produktlinie kopieren
+### Copying a Product Line
 
-Um eine bestehende Produktlinie zu kopieren, gehen Sie wie folgt vor:  
+To copy an existing product line, proceed as follows:
 
-1) Gehen Sie zu der Produktlinie, die Sie kopieren wollen und klicken Sie auf den ActionLink.  
+1\) Navigate to the product line you wish to copy and click on the ActionLink.
 
 ---
+
 ![](/assets/pl5.png)
 
 ---
 
-2) Klicken Sie auf die Option **Kopieren**.  
+2\) Click on the **Copy** option.
 
 ---
-![](/assets/pl6.png)  
 
---- 
-
-3) Geben Sie für die Ziel Produktlinie eine **Zielfabrik**, eine **ProduktlinienID** und einen **Produktliniennamen** ein und klicken Sie anschließend auf **Speichern**.  
+![](/assets/pl6.png)
 
 ---
+
+3\) Enter a **Save Factor**, a **ProductlineID** and a **Productline Name** for the new product line and click on **Save**.
+
+---
+
 ![](/assets/pl7.png)
 
---- 
+---
 
-4) Die neue Produktlinie sortiert sich in die Liste der Produktlinien ein.  
+4\) The new product line will be added to the list of product lines.
 
 ---
+
 ![](/assets/pl8.png)
 
 ---
 
+> **Note 1:** When copying a product line, all associated products and contents will also be copied.
+>
+> **Note 2:** No two ProductlineIDs within one factory can be identical. Should two product lines be given the same ID, an error message will appear.
 
-> **Hinweis 1**: Beim Kopieren einer Produktlinie werden alle zugehörigen Produkte inklusive der darin enthaltenen Inhalte ebenfalls kopiert.
 
-> **Hinweis 2**: Die ProduktlinienIDs innerhalb einer Fabrik müssen eindeutig sein. Es wird sonst eine Fehlermeldung angezeigt.
+
