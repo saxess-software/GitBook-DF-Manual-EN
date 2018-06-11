@@ -1,47 +1,52 @@
-### PowerLaden  
+### Powerload
 
-Die Funktion **PowerLaden** kommt insbesondere dann zur Anwendung, nachdem Sie Daten aus anderen Anwendungen in DataFactory importiert haben und diese als Grundlage für weitere Berechnungen dienen. Die Funktion **PowerLaden** betritt automatisch jedes Produkt, berechnet es und speichert es ab. Es stehen Ihnen folgende Möglichkeiten des PowerLadens zur Verfügung.  
+The **Powerload** function is especially useful when you wish to use data imported into DataFactory from other applications as a basis for further calculations. The **Powerload** function accesses, calculates and saves all products automatically. The following **Powerload** options are available:
 
-| Einstellung | Beschreibung |
-| : | : |
-| Alle PowerLaden | Für alle Produkte wird das PowerLaden durchgeführt |
-| Auswahl PowerLaden | Für ausgewählte Produkte wird das PowerLaden durchgeführt |
-| Unvollendete PowerLaden | Für Produkte, bei denen PowerLaden-Vorgang nicht vollständig ausgeführt wurde, wird das PowerLaden durchgeführt |
-| Fehler Powerladen | Für fehlerhaft geladene Produkte wird das PowerLaden durchgeführt |
+| Setting | Description |
+| --- | --- |
+| Powerload All | Powerload will be executed on all products. |
+| Powerload Selection | Powerload will be executed on the selected products. |
+| Powerload Incomplete | Powerload will be executed on all products on which Powerload was not finished previously. |
+| Powerload Error | Powerload will be executed on all products on which Powerload previously failed to execute properly. |
 
-#### *Ebenen*
+#### _Levels_
 
-Sie können die Funktion **PowerLaden** auf unterschiedlichen Ebenen Ihres Clusters durchführen. Entsprechend der Ebene, die Sie für den PowerLaden-Vorgang ausgewählt haben, reduziert sich Anzahl an Produkten, die Ihnen zum PowerLaden zur Auswahl angeboten werden. 
+You can execute **Powerload** on various levels of your cluster. Depending on the level on which you choose to execute **Powerload**, the number of products to choose from may be reduced.
 
-|Ebene|ActionLink|Menü|
-|-|-|-|
-|Werk|![](/assets/p42.png)|![](/assets/p43.png)|
-|Fabrik|![](/assets/p44.png)|![](/assets/p45.png)|
-|Produktlinie|![](/assets/p40.png)|![](/assets/p41.png)|
-|Produktlinie|![](/assets/p25.png)| ![](/assets/p31.png)| 
+| Level | ActionLink | Menu |
+| --- | --- | --- |
+| Work | ![](/assets/p42.png) | ![](/assets/p43.png) |
+| Factory | ![](/assets/p44.png) | ![](/assets/p45.png) |
+| Product Line | ![](/assets/p40.png) | ![](/assets/p41.png) |
+| Produkt Line | ![](/assets/p25.png) | ![](/assets/p31.png) |
 
+#### _Executing Powerload_
 
-#### *Durchführen des PowerLaden-Vorgangs*
+1\) Select the **Powerload** option via the ActionLink on your desired level. Select all products you wish to update.
 
-1) Nachdem Sie über den ActionLink auf der gewünschten Ebene **PowerLaden** ausgewählt haben, öffnet sich das **PowerLaden-Fenster**. Wählen Sie hier die Produkte aus, die Sie aktualisieren wollen.  
-
-> ** Hinweis**: Indem Sie mit gedrückter linker Maustaste über die gewünschten Produkte fahren, erfolgt eine Mehrfachselektion.
-
----
-![](/assets/p32.png) 
+> ** Note: **By left-clicking and dragging your cursor over your desired products, you can select multiple products at once.** **
 
 ---
 
-2) Wählen Sie im Dropdown-Menü Ihre gewünschte Einstellung und klicken Sie auf **Ausführen**, um die Funktion auszuführen.   
- 
- ---
-![](/assets/p33.png) 
+![](/assets/p32.png)
 
 ---
 
-5) Nach dem Ausführen sehen Sie den Status der geladenen Produkte.
+2\) In the drop-down menu, select the desired settings and click on the **Execute** button to perform the function.
 
 ---
-![](/assets/p34.png) 
+
+![](/assets/p33.png)
 
 ---
+
+5\) After **Powerload** is executed, the status of the loaded products will be shown.
+
+---
+
+![](/assets/p34.png)
+
+---
+
+
+

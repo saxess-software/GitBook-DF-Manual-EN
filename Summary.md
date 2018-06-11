@@ -52,7 +52,7 @@
     * [Copying a Product](der-excel-client/produkt/produkt-kopieren.md)
     * [Moving a product](der-excel-client/produkt/produkt-verschieben.md)
     * [Deleting a Product](der-excel-client/produkt/produkt-loschen.md)
-    * [PowerLaden](der-excel-client/produkt/powerladen.md)
+    * [Powerload](der-excel-client/produkt/powerladen.md)
   * [Templates](der-excel-client/templates.md)
     * [Unikum Templates](der-excel-client/templates/unikum-templates.md)
     * [Allgemeiner Aufbau](der-excel-client/templates/allgemeiner-aufbau.md)
