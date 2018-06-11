@@ -1,8 +1,12 @@
-### Übersicht Fabriken und Produktlinien
+### Factory and Product Line Overview
 
-Wenn Sie sich mit einem Werk verbunden haben, gelangen Sie zur Übersicht der Fabriken und Produktlinien. Fabriken sind in der Übersicht durch dunkelblaue Balken gekennzeichnet. Die Fabrik **Templates** ist in jeder DataFactory enthalten und ist standardmäßig zugeklappt.  
+When you are connected to a work, you will be directed to the factory and product line overview. In this overview, factories are identified by dark blue bars. The **Templates** factory is part of every DataFactory and is closed by default.
 
 ---
+
 ![](/assets/Fabrik1.png)
 
 ---
+
+
+

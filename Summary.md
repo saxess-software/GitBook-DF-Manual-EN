@@ -30,7 +30,7 @@
     * [Deleting a User](der-excel-client/werk/benutzer-loschen.md)
     * [Proxy settings](der-excel-client/werk/proxy-einstellungen.md)
   * [Factory](der-excel-client/fabrik.md)
-    * [Übersicht Fabriken und Produktlinien](der-excel-client/fabrik/ubersicht-fabriken-und-produktlinien.md)
+    * [Factory and Product Line Overview](der-excel-client/fabrik/ubersicht-fabriken-und-produktlinien.md)
     * [Fabrik anlegen](der-excel-client/fabrik/fabrik-anlegen.md)
     * [Fabrik kopieren](der-excel-client/fabrik/fabrik-kopieren.md)
     * [Fabrik verschieben](der-excel-client/fabrik/fabrik-verschieben.md)
