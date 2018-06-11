@@ -1,35 +1,40 @@
-### Neuen Benutzer anlegen
+### Adding a New User
 
-Um einen neuen Benutzer anzulegen, gehen Sie wie folgt vor:
+To add a new user, proceed as follows:
 
-1) Klicken Sie der Übersicht Fabrik und Produktlinien auf den ActionLink mit den drei Punkten **...**.  
+1\) Click on the ActionLink with the ellipsis \(…\) in the Factory and Product Line Overview.
 
 ---
+
 ![](/assets/Werk34.png)
 
 ---
 
-2) Klicken Sie auf die Option **Benutzer verwalten**.  
+2\) Select the option **Manage Users**.
 
 ---
+
 ![](/assets/Benutzer1.png)
 
 ---
 
-3) Klicken Sie auf die Schaltfläche **Neuer Benutzer**.  
+3\) Click on the **New User **button.
 
 ---
+
 ![](/assets/Benutzer2.png)
 
 ---
-  
 
-4) Geben Sie den Namen des neuen Benutzers ein und klicken Sie auf die Schaltfläche **Speichern**, um den Benutzer zu speichern. 
-
----
-![](/assets/Benutzer3.png) 
+4\) Enter the name of the new user and click the **Save** button to save the user.
 
 ---
 
+![](/assets/Benutzer3.png)
 
-> **Hinweis**: Sie haben nun einen neuen Nutzer angelegt. Sie müssen nun dem Nutzer noch die gewünschten Rechte in Ihrer DataFactory einräumen.
+---
+
+> **Note**: You have created a new user. Now you also have to grant the new user the desired rights in your DataFactory.
+
+
+
