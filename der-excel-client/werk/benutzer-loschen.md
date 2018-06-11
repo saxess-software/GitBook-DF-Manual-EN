@@ -1,25 +1,30 @@
-### Benutzer löschen
+### Deleting a User
 
-Um einen Benutzer zu löschen, gehen Sie wie folgt vor:  
+To delete a user, proceed as follows:
 
-1) Gehen Sie zu dem Benutzer, den Sie löschen wollen und klicken Sie in der Spalte **Action** auf den ActionLink.  
+1\) Select the user you wish to delete and click on the ActionLink in the **Action** column
 
 ---
+
 ![](/assets/Benutzer8.png)
 
----   
+---
 
-2) Klicken Sie auf die Option **Löschen**.  
+2\) Click on the **Delete** option.
 
 ---
+
 ![](/assets/Benutzer9.png)
 
----   
+---
 
-3) Klicken Sie auf **Ja**, um den Benutzer endgültig zu löschen.  
+3\) Click on **Yes** to confirm your selection and delete the user permanently.
 
 ---
+
 ![](/assets/Benutzer10.png)
 
 ---
+
+
 

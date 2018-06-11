@@ -27,7 +27,7 @@
     * [User Management](der-excel-client/werk/benutzer-verwalten.md)
     * [Adding a New User](der-excel-client/werk/neue-benutzer-anlegen.md)
     * [Editing User Rights](der-excel-client/werk/benutzerrechte-andern.md)
-    * [Benutzer löschen](der-excel-client/werk/benutzer-loschen.md)
+    * [Deleting a User](der-excel-client/werk/benutzer-loschen.md)
     * [Proxy-Einstellungen](der-excel-client/werk/proxy-einstellungen.md)
   * [Fabrik](der-excel-client/fabrik.md)
     * [Übersicht Fabriken und Produktlinien](der-excel-client/fabrik/ubersicht-fabriken-und-produktlinien.md)
