@@ -1,24 +1,30 @@
-### Fabrik löschen
+### Deleting a Factory
 
-Um eine bestehende Fabrik zu löschen, gehen Sie wie folgt vor:  
+To delete an existing factory, proceed as follows:
 
-1) Gehen Sie zu der Fabrik, die Sie löschen wollen und klicken Sie auf den ActionLink.  
+1\) Navigate to the factory you wish to delete and click on the ActionLink.
 
 ---
-![](/assets/Fabrik12.png)  
+
+![](/assets/Fabrik12.png)
 
 --
 
-2) Klicken Sie auf die Option **Löschen**.  
+2\) Click on the **Delete** button.
 
 ---
+
 ![](/assets/Fabrik13.png)
 
 ---
 
-3) Klicken Sie auf **Ja**, um die Fabrik endgültig zu löschen.  
+3\) Click **Yes** to permanently delete the selected factory.
 
 ---
+
 ![](/assets/Fabrik14.png)
 
 ---
+
+
+
