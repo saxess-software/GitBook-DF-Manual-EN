@@ -39,7 +39,7 @@
     * [Global Attributes](der-excel-client/fabrik/globalattribute.md)
     * [Properties](der-excel-client/fabrik/eigenschaften.md)
     * [Program Settings ](der-excel-client/fabrik/programmeinstellungen.md)
-  * [Produktlinie](der-excel-client/produktlinie.md)
+  * [Product Line](der-excel-client/produktlinie.md)
     * [Produktlinie anlegen](der-excel-client/produktlinie/produktlinie-anlegen.md)
     * [Produktlinie kopieren](der-excel-client/produktlinie/produktlinie-kopieren.md)
     * [Produktlinie verschieben](der-excel-client/produktlinie/produktlinie-verschieben.md)

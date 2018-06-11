@@ -1,6 +1,6 @@
-## Produktlinie
+## Product Line
 
-Die Produktlinien sind die zweite Hierarchieebene innerhalb eines Werkes. Unter einer Fabrik können beliebig viele Produktlinien angelegt werden.
+The product lines are the second hierarchical level within a work. Any number of product lines can be created within a factory.
 
 ---
 
@@ -8,7 +8,7 @@ Die Produktlinien sind die zweite Hierarchieebene innerhalb eines Werkes. Unter 
 
 ---
 
-Eine Produktlinie besitzt eine **ProduktlinienID** und einen **Produktliniennamen**. In Verbindung mit ihrer übergeordneten Fabrik ist eine Produktlinie immer eindeutig innerhalb des Werks zu identifizieren. Darüber hinaus besitzt eine Produktlinie Globalattribute und Eigenschaften.
+A product line has a **ProductLineID** and a **Productline Name**. In combination with the factory it belongs to, a product line can always be precisely identified within a work. Each product line also possesses global attributes and properties. 
 
-In den folgenden Abschnitten wird der Umgang mit Produktlinien beschrieben.
+The handling of product lines is described in the next sections.
 
