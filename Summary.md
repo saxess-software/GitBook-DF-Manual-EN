@@ -47,7 +47,7 @@
     * [Renaming a Product Line](der-excel-client/produktlinie/produktlinie-umbenennen.md)
     * [Global Attributes](der-excel-client/produktlinie/globalattribute.md)
     * [Properties](der-excel-client/produktlinie/eigenschaften.md)
-  * [Produkt](der-excel-client/produkt.md)
+  * [Product](der-excel-client/produkt.md)
     * [Neues Produkt anlegen](der-excel-client/produkt/neues-produkt-anlegen.md)
     * [Produkt kopieren](der-excel-client/produkt/produkt-kopieren.md)
     * [Produkt verschieben](der-excel-client/produkt/produkt-verschieben.md)
