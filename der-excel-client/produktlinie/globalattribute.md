@@ -1,70 +1,80 @@
-### Globalattribute  
+### Global Attributes
 
-Jede Produktlinie besitzt die Globalattribute **Verantwortlicher**, **Bildname** und **Benutzerkommentar**. Darüber hinaus können für jede Produktlinie 25 weitere Globalattribute konfiguriert werden. Diese dienen in späteren Auswertungen als Hierarchie- oder Gliederungsebenen.  
+Each product possesses the global attributes **Responsibility**, **Image Name**, and **User Comments**. It is possible to configure up to 25 further global attributes for each product line. These can serve as hierarchical and structural levels in later evaluation processes.
 
-#### Globalattribute verwalten
+#### Managing Global Attributes
 
-Um Globalattribute zu verwalten, gehen Sie wie folgt vor:  
+To manage global attributes, proceed as follows:
 
-1) Gehen Sie zu der Produktlinie, dessen Globalattribute Sie verwalten wollen und klicken Sie auf den ActionLink.  
-
----
-![](/assets/pl12.png) 
+1\) Navigate to the product line of which you wish to manage the global attributes and click on the ActionLink.
 
 ---
 
-2) Klicken Sie auf die Option **Globalattribut editieren**.  
+![](/assets/pl12.png)
 
 ---
+
+2\) Select the **Edit Global Attributes** option.
+
+---
+
 ![](/assets/pl15.png)
 
 ---
 
-3) Sie können im oberen Bereich Informationen zu den 3 vordefinierten Globalattributen hinzufügen oder entfernen.  
-
----
-![](/assets/pl17.png)   
+3\) Information on the three predefined global attributes can be added or removed in the upper section.
 
 ---
 
-> **Hinweis**: Vergeben Sie in allen Produktlinien, die Sie gemeinsam auswerten wollen ein Globalattribut an gleicher Position (z.B. Kostenstelle als Globalattribut 1 in allen Produktlinien).  
-
-4) Im unteren Bereich können Sie bis zu 25 eigene Globalattribute definieren, indem Sie einen Namen geben und ggf. eine Liste zuordnen. wie Sie Listen definieren wird im Kapitel "Listen und Formate" beschrieben. 
+![](/assets/pl17.png)
 
 ---
+
+> **Note: **Assign the same global attribute to the same position in all product lines you wish to evaluate simultaneously \(e.g. Cost center as global attribute 1 in all product lines\).
+
+4\) You can define up to 25 custom global attributes by entering a name and, if applicable, assigning a list in the bottom section. How to define lists is explained in the chapter “Lists and Formats”.
+
+---
+
 ![](/assets/pl18.png)
 
 ---
 
-5) Klicken Sie auf den Button **Speichern**, um Ihre Eingabe zu sichern.  
+5\) Click on the Save button to **save** your entries.
 
-#### Globalattribute filtern
+#### Filtering Global Attributes
 
-Sie haben die Möglichkeit, die Produktübersicht auf Basis der Globalattribute zu filtern. 
+The product overview can be filtered based on the global attributes.
 
-1) Klicken Sie auf den Dropdown-Pfeil in der Spalte mit dem Globalattribut, nach welchem Sie filtern möchten.
+1\) Click on the drop-down arrow in the column that contains the global attribute by which you wish to filter. 
 
 ---
+
 ![](/assets/pl19.png)
 
 ---
 
-2) Selektieren Sie ein oder mehrere Werte, nach denen Sie filtern möchten und klicken Sie anschließend auf **OK**
+2\) Select one or more values to filter by and click **OK** to confirm.
 
 ---
+
 ![](/assets/pl20.png)
 
 ---
 
-3) Um den Filter wieder zu löschen, klicken Sie erneut auf den Dropdown-Pfeil und markieren Sie entweder das Feld **(Alles auswählen)** oder **Filter löschen aus "..."**.
+3\) To delete the filter, click once again on the drop-down arrow and either check the box \(**Select All**\) or **Delete Filter From** “**…**”.
 
 ---
+
 ![](/assets/pl21.png)
 
 ---
+
 ![](/assets/pl22.png)
 
 ---
 
-> **Hinweis**: Sie können die Filterfunktion wie eben beschrieben auch in den Standardspalten ProduktID, NameShort, Status und Template verwenden.
- 
+> **Note:** You can also use the filter function in the default columns** ProductID**, **NameShort**, **Status** and **Template** as explained above.
+
+
+
