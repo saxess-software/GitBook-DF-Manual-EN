@@ -1,24 +1,30 @@
-### Produktlinie umbenennen
+### Renaming a Product Line
 
-Um einer Produktlinie einen neuen Namen zu geben, gehen Sie wie folgt vor: 
+To edit the name of a product line, proceed as follows:
 
-1) Gehen Sie zu der Produktlinie, die Sie umbenennen wollen und klicken Sie auf den ActionLink.  
-
----
-![](/assets/pl12.png)  
+1\) Navigate to the product line you wish to rename and click on the ActionLink.
 
 ---
 
-2) Klicken Sie auf die Option **Globalattribut editieren**.  
-
----
-![](/assets/pl15.png) 
+![](/assets/pl12.png)
 
 ---
 
-3) Geben Sie im Feld **Produktlinienname** einen neuen Namen für Ihre Produktlinie ein und bestätigen Sie Ihre Eingabe mit dem Button **Speichern**.  
+2\) Click on the **Edit Global Attributes** option.
 
 ---
+
+![](/assets/pl15.png)
+
+---
+
+3\) In the **Productline Name** field, enter a new name for the product line and confirm the changes by clicking the **Save** button.
+
+---
+
 ![](/assets/pl16.png)
 
 ---
+
+
+
