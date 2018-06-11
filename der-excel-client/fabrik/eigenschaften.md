@@ -1,3 +1,4 @@
-### Eigenschaften
+### Properties
 
-Eigenschaften sind in DataFactory technische Steuerelemente. Sie finden vor allem dann Anwendung, wenn DataFactory mit anderen Datenquellen verbunden ist und beim Speichern bzw. Laden von Daten spezielle Aktionen ausgelöst werden sollen.
+Properties in DataFactory are technical control elements. They are principally used when DataFactory is connected to other sources of data and when specific actions are to be executed while loading or saving data.
+

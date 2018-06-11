@@ -1,183 +1,153 @@
-### Programmeinstellungen
-In den Programmeinstellungen können Sie Eigenschaften Ihrer Tabellen, Matrixeinstellungen und den globalen Zoomfaktor anpassen.
+### Program Settings 
 
-1) Klicken Sie in das **...-Kontextmenü**.
+In the program settings, you can edit the properties of your tables and matrices, as well as the global zoom factor.
+
+1\) Click inside the **…-Context menu**.
 
 ---
+
 ![](/assets/p47.png)
 
 ---
 
-2) Wählen Sie die Option **Einstellungen**.
+2\)Select the **Settings** option.
 
 ---
+
 ![](/assets/fa2.png)
 
 ---
 
-3) Es öffnet sich das Fenster **Programmeinstellungen**.
+3\) The **Program Settings** window will open.
 
 ---
+
 ![](/assets/fa3.png)
 
 ---
 
-#### Globaler Zoomfaktor
-Wenn Sie Inhalte in DataFactory über einen Beamer oder im Web präsentieren, kann es notwendig sein, die Darstellungsgröße der Inhalte anzupassen. Über den globalen Zoomfaktor steuern Sie, in welcher Größe Ihnen die Oberfläche von DataFactory angezeigt wird. Der Global Zoomfaktor ist standardmäßig auf 100% Prozent eingestellt. 
+#### _Global Zoom Factor_
 
-Wenn Sie den Zoomfaktor verringern wollen, klicken Sie auf den linken Pfeil. Wenn Sie den Zoomfaktor erhöhen wollen, klicken Sie auf den rechten Pfeil. Sie können den Zoomfaktor aber auch verändern, indem Sie den Schieber nach rechts oder nach links bewegen.
+When presenting data in DataFactory via a projector or in the web, it may be necessary to adjust the display size for your data. You can customize the size in which the interface will be shown via the global zoom factor. The global zoom factor is set to 100% by default.
+
+If you wish to reduce the zoom factor, click on the left arrow. If you wish to increase the zoom factor, click on the right arrow. Alternatively, you can change the zoom factor by moving the slider to the left or right.
 
 ---
+
 ![](/assets/fa4.png)
 
 ---
 
-Der eingestellte Zoomfaktor wird Ihnen anschließend auf der linken Seite angezeigt.
+The current zoom factor will be displayed on the left side.
 
 ---
+
 ![](/assets/fa5.png)
 
 ---
 
-Um den Zoomfaktor auf die Standardeinstellung zurückzusetzen, klicken Sie auf den Button **Standard**.
+To set the zoom factor back to the default settings, click on the **Default** button.
 
 ---
+
 ![](/assets/fa6.png)
 
 ---
 
-#### Tabellenformateinstellungen
+#### _Table Format Settings_
 
-In den Tabelleneinstellung können Sie definieren, wie Ihre Produktübersicht auf der Produktlinien-Ebene dargestellt wird.
+In the table settings you can define how the product overview will be shown on the product line level.
 
 ---
+
 ![](/assets/fa7.png)
 
 ---
 
-|Tabelleneinstellung|Beschreibung|
-| : | : |
-|Wertefarbe|Hintergrundfarbe der Spalten **NameShort**, **Status**,**Template** und der **Globalattribute**.|
-|Wertefarbe nach Änderung| Hintergrundfarbe der Spalten **NameShort**, **Status**,**Template** und der **Globalattribute** wenn ein Wert geändert wurde.|
-|Statische Farbe| Hintergrundfarbe der Spalten **Action**, **ProductID**.|
-|Statische Farbe nach Änderung| Hintergrundfarbe der Spalten **Action**, **ProductID** wenn ein Wert geändert wurde.|
-|Tabellenformat|Layout, in welchem die Tabelle angezeigt wird. Die zur Auswahl stehenden Formate entsprechen den Tabellenformaten, die Ihnen standardmäßig in Excel zur Verfügung stehen. Wenn Sie in Excel eine neue Vorlage für ein Tabellenformat erstellen, steht Ihnen dieses auch an dieser Stelle zur Verfügung.|
+| Table Setting | Description |
+| --- | --- |
+| Value Color | Background color of the **global attributes**, and of the** NameShort**, **Status**, and **Template** columns. |
+| Value Color after Changes | Background color of the global attributes, and of the **NameShort**, **Status**, and **Template** columns, after a value has been changed.  |
+| Static Color | Background color of the **Action** and **ProductID** columns. |
+| Static Color after Changes | Background color of the **Action **and **ProductID **columns after a value has been changed. |
+| Table Format | Layout of the table. The available formats correspond to formats offered by Excel. If a new table format is created in Excel, this format will also be available to you in the DataFactory settings. |
 
-Wenn Sie Änderungen an den Tabelleneinstellungen vornehmen wollen, gehen Sie wie folgt vor.
+If you wish to change the table settings, proceed as follows:
 
-1) Klicken Sie auf den Button mit der Tabelleneinstellung, die Sie ändern wollen.
+1\) Click on the button with the settings you wish to change.
 
 ---
+
 ![](/assets/fa8.png)
 
 ---
 
-2) Wählen Sie in dem sich öffnenden Fenster die gewünschte Farbe aus und Klicken Sie auf **OK**.
+2\) Select your desired color in the displayed window and confirm by clicking **OK**.
 
 ---
+
 ![](/assets/fa9.png)
 
 ---
 
-3) Ihre Farbauswahl wird Ihnen auf der rechten Seite angezeigt. Klicken Sie auf **Anwenden**.
+3\) Your color selection will be displayed on the right side. Click on the **Apply** button
 
 ---
+
 ![](/assets/fa10.png)
 
 ---
 
-4) Ihre Farbauswahl wird Ihnen angezeigt.
+4\) Your color selection will be shown.
 
 ---
+
 ![](/assets/fa11.png)
 
 ---
 
-5) Um die Farbauswahl auf die Standardeinstellung zurückzusetzen, wählen Sie unter Tabelleneinstellung **Standard** und bestätigen Sie mit **Anwenden**.
+5\) To set the color selection back to the default setting, click on **Default** and confirm with **Apply** in the table settings.
 
 ---
+
 ![](/assets/fa12.png)
 
 ---
 
-> **Hinweis**: Sie können die Tabelleneinstellungen auch deaktivieren. Klicken Sie dazu bei den Tabelleneinstellungen im Reiter ***Anzeige*** auf den Button **Deaktivieren** und bestätigen Sie mit **Anwenden**.
+> **Note:** It is also possible to deactivate the table settings. To do this, click on the **Display** tab in the table settings and select **Deactivate**. Confirm by clicking on **Apply**.
 
-#### *Zeilen alternierend einfärben*
+#### _Alternating the Coloring of Rows_
 
-Über die Option **Tabellenformat** haben Sie auch die Möglichkeit Ihre Tabellenzeilen alternierend einzufärben, d.h. das Ihre Zeilen abwechselnd farbig dargestellt werden. Dazu müssen zunächst alle anderen Tabelleneinstellungen deaktiviert werden und unter Tabellenformat eine Auswahl getroffen sein.
+Via the **Table Format **option you have the ability to use an alternating color scheme on the table rows. To do this, all other table settings must be deactivated and a choice must be selected in the table format section.
 
 ---
+
 ![](/assets/fa13.png)
 
 ---
+
 ![](/assets/fa14.png)
 
 ---
 
-#### Matrixeinstellungen
+#### _Matrix Settings_
 
-In den Matrixeinstellungen können Sie festlegen, ob und in welcher Form geänderte Werte in einem Produkt hervorgehoben werden sollen. Setzen Sie dazu einfach im Reiter **Anzeige 2** ein Häkchen bei den gewünschten Optionen.
+In the matrix settings, you can choose whether changed values will be highlighted, and if so, in what manner. To do this, simply select the checkboxes with your desired options in the tab **Display 2**.
 
 ---
+
 ![](/assets/fabrik1.png)
 
 ---
 
-Folgende Optionen stehen Ihnen zur Verfügung:
+The following highlighting options are available:
 
-| Einstellung| Beschreibung |
-| : | : | 
-| Einträge | Werte, die Sie in einer Zelle neu eingeben oder ändern, werden markiert. |
-| Zeilenüberschriften| Zeilenüberschriften, die Sie neu eingeben oder ändern, werden markiert. |
-| Spaltenüberschriften| Spaltenüberschriften, die Sie neu eingeben oder ändern, werden markiert. |
-| Kalkulierte Einträge| Zellen, die Formeln enthalten und die durch Änderung der Bezugswerte neue Ergebnisse berechnen, werden markiert. |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Setting | Description |
+| --- | --- |
+| Entries | New or changed value entries will be highlighted. |
+| Row Titles | New or changed row titles will be highlighted. |
+| Column Titles | New or changed column titles will be highlighted. |
+| Calculated Entries | Cells that contain formulas and calculate new values through a change in their related data will be highlighted. |
 
 
 
