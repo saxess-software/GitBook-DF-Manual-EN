@@ -1,112 +1,118 @@
-### Produkt kopieren
+### Copying a Product
 
-#### Einzelkopie
+#### _Single Copy_
 
-Um ein bestehendes Produkt zu kopieren, gehen Sie wie folgt vor:  
+To copy an existing product, proceed as follows:
 
-1) Gehen Sie zu dem Produkt, das Sie kopieren wollen und klicken Sie auf den ActionLink in der Spalte Action.  
-
----
-
-![](/assets/p7.png)
----
-
-
-2) Klicken Sie auf die Option **Kopieren**.  
+1\) Navigate to the product you wish to copy and click on the ActionLink in the Action column.
 
 ---
 
-![](/assets/p8.png)
----
+## ![](/assets/p7.png)
 
-
-3) Wählen Sie für Ihr Zielprodukt eine **Zielfabrik** und **Zielproduktlinie** aus.  
+2\) Click on the **Copy** option.
 
 ---
+
+## ![](/assets/p8.png)
+
+3\) Choose a **Destination Factory** and **Destination Product Line** as the destination for your new product.
+
+---
+
 ![](/assets/p9.png)
 
 ---
 
-4) Geben Sie für Ihre Zielprodukt eine **ProduktID** und einen **Produktnamen** ein und Klicken Sie auf **Anwenden**, um das Produkt zu kopieren. 
+4\) Enter a **ProductID** and a **Product Name** for your new product and click on **Apply** to copy your product.
 
 ---
+
 ![](/assets/p10.png)
 
 ---
 
-5) Das neue Produkt sortiert sich automatisch in die Liste der Produkte ein.  
+5\) The new product will be automatically sorted into the product list.
 
 ---
+
 ![](/assets/p11.png)
 
 ---
 
+#### _Multiple Copies_
 
-#### *Mehrfachkopie*  
+DataFactory offers the option to create multiple copies of one product simultaneously. To create multiple copies, proceed as follows:
 
-DataFactory bietet die Möglichkeit, gleichzeitig mehrere Kopien eines Produkts anzulegen.  
-Um mehrere Kopien gleichzeitig anzulegen, gehen Sie wie folgt vor:  
-
-1) Gehen Sie zu dem Produkt, das Sie kopieren wollen und klicken Sie auf den ActionLink in der Spalte Action.  
-
----
-![](/assets/p7.png) 
+1\) Navigate to the product you wish to copy and click on the ActionLink in the Action row.
 
 ---
 
-2) Klicken Sie auf die Option **Kopieren**.  
-
----
-![](/assets/p8.png) 
+![](/assets/p7.png)
 
 ---
 
-3) Wählen Sie für Ihr Zielprodukt eine **Zielfabrik** und **Zielproduktlinie** aus.  
+2\) Click on the **Copy** option.
 
 ---
+
+![](/assets/p8.png)
+
+---
+
+3\) Choose the **Destination Factory** and **Destination Product Line** for your new product.
+
+---
+
 ![](/assets/p9.png)
 
----  
+---
 
-4) Klicken Sie auf den Reiter **Serienkopie**.  
+4\) Click on the **Serial Copy** tab.
 
 ---
+
 ![](/assets/p12.png)
 
---- 
+---
 
-5) Geben Sie im Feld **Produktname mit optionalem Platzhalter (#)** einen Produktnamen für Ihre Kopien ein.  
+5\) In the box **Product Name** **with Optional Spacer \(\#\)**, enter a product name for your copies.
 
 ---
+
 ![](/assets/p13.png)
 
----  
+---
 
-> **Hinweis**: Das # - Symbol ist in DataFactory ein Platzhalter. Sie können dem Produktnamen optional einen Platzhalter hinzufügen, um bspw. eine fortlaufende Nummerierung zu erstellen.  
+> **Note:** The \# symbol serves as a spacer in DataFactory. You can add a spacer to the product name, e.g. to create consecutive numbering.
 
-6) Geben Sie im Feld **Anzahl** die Anzahl Ihrer gewünschten Kopien ein und im Feld **Erste Nummer** die erste Nummer Ihrer gewünschten Kopien ein.  
+6\) In the **Quantity** field, enter the number of copies you wish to create. In the **First Index** field, enter a number to represent your first copy. All subsequent copies will be numbered accordingly.
 
 ---
+
 ![](/assets/p14.png)
 
----  
+---
 
-7) Geben Sie im Feld **Produkt ID mit Platzhalter (#)** das gewünschte Format Ihrer Produkt ID ein.  
+7\) In the **ProductID with Spacer \(\#\)** field, enter the desired format of your Product ID.
 
 ---
+
 ![](/assets/p15.png)
 
---- 
+---
 
-> **Hinweis**: Im Feld ProduktID Vorschau sehen Sie einer Vorschau Ihrer getätigten Eingaben.  
+> **Note: ** A preview of your entries is displayed in the ProductID preview box.
 
-8) Klicken Sie auf die Schaltfläche **Anwenden**, um die Kopien zu erstellen.  
+8\) Click on the **Apply** button to create the copies.
 
+9\) The created copies will be automatically sorted into the product list.
 
-9) Die erstellten Kopien sortieren sich in die bestehende Liste der Produkte ein.  
- 
- ---
+---
+
 ![](/assets/p16.png)
 
---- 
+---
+
+
 

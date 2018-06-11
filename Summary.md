@@ -49,7 +49,7 @@
     * [Properties](der-excel-client/produktlinie/eigenschaften.md)
   * [Product](der-excel-client/produkt.md)
     * [Creating a new Product](der-excel-client/produkt/neues-produkt-anlegen.md)
-    * [Produkt kopieren](der-excel-client/produkt/produkt-kopieren.md)
+    * [Copying a Product](der-excel-client/produkt/produkt-kopieren.md)
     * [Produkt verschieben](der-excel-client/produkt/produkt-verschieben.md)
     * [Produkt löschen](der-excel-client/produkt/produkt-loschen.md)
     * [PowerLaden](der-excel-client/produkt/powerladen.md)
