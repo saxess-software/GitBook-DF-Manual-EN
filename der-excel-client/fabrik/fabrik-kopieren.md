@@ -1,35 +1,42 @@
-### Fabrik kopieren
+### Copying a Factory
 
-Um eine bestehende Fabrik zu kopieren, gehen Sie wie folgt vor:
+To copy an existing factory, proceed as follows:
 
-1) Gehen Sie zu der Fabrik, die Sie kopieren wollen und klicken Sie auf den **ActionLink**.  
+1\) Navigate to the factory you wish to copy and click on the **ActionLink**.
 
 ---
+
 ![](/assets/Fabrik5.png)
 
 ---
 
-2) Klicken Sie auf die Option **Kopieren**.  
+2\) Select the **Copy** option.
 
 ---
+
 ![](/assets/Fabrik6.png)
 
 ---
 
-3) Geben Sie für die Zielfabrik eine **FabrikID** und einen **Fabriknamen** ein und klicken Sie anschließend auf **Speichern**.  
+3\) Enter a **FactoryID** and a **Factory name** for the desired factory and click on **Save**.
 
 ---
+
 ![](/assets/Fabrik7.png)
 
 ---
-4) Die neue Fabrik sortiert sich in die Liste der Fabriken ein.  
+
+4\) The new factory will be sorted into the factory list.
 
 ---
+
 ![](/assets/Fabrik8.png)
 
 ---
 
+> **Note 1:** During the copying process, all product lines and products belonging to the factory, including the data contained within them, will be copied as well. 
+>
+> **Note2:** No two FactoryIDs within one work can be identical. Should two factories be given the same ID, an error message will appear.
 
-> **Hinweis 1**: Beim Kopieren einer Fabrik werden alle zugehörigen Produktlinien und Produkte inklusive der darin enthaltenen Inhalte ebenfalls kopiert.
 
-> **Hinweis 2**: Die FabrikIDs innerhalb eines Werks müssen eindeutig sein. Es wird sonst eine Fehlermeldung angezeigt.
+

@@ -1,31 +1,38 @@
-### Fabrik verschieben
+### Moving a Factory
 
-Über die Funktion Fabrik verschieben, verschieben Sie eine Fabrik an eine andere Position innerhalb Ihres Werks. Dies geschieht durch die Änderung der **FabrikID**.  
-Um eine Fabrik zu verschieben, gehen Sie wie folgt vor:
+With the function "Moving a Factory", you move a factory to another position within your work. This is done by changing the **FactoryID**. To move a factory, proceed as follows:
 
-1) Gehen Sie zu der Fabrik, die Sie verschieben wollen und klicken Sie auf den ActionLink.  
+1\) Choose the factory you want to move and click on the **ActionLink** button.
 
 ---
+
 ![](/assets/Fabrik5.png)
 
- --- 
+---
 
-2) Klicken Sie auf die Option **Verschieben**.  
+2\) Click on the option **Move to**
 
 ---
+
 ![](/assets/Fabrik9.png)
 
 ---
-   
-3) Geben Sie für die Zielfabrik eine **FabrikID** ein und klicken Sie anschließend auf **Speichern**.  
+
+3\) Enter a **FactoryID** for the desired factory and click on **Save**.
 
 ---
+
 ![](/assets/Fabrik10.png)
 
 ---
-4) Die Fabrik sortiert sich in die Liste der Fabriken ein.  
+
+4\) The factory will be sorted into the factory list.
 
 ---
+
 ![](/assets/Fabrik11.png)
 
 ---
+
+
+
