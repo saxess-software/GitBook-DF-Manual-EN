@@ -43,7 +43,7 @@
     * [Creating a Product Line](der-excel-client/produktlinie/produktlinie-anlegen.md)
     * [Copying a Product Line](der-excel-client/produktlinie/produktlinie-kopieren.md)
     * [Move a Product Line](der-excel-client/produktlinie/produktlinie-verschieben.md)
-    * [Produktlinie löschen](der-excel-client/produktlinie/produktlinie-loschen.md)
+    * [Deleting a Product Line](der-excel-client/produktlinie/produktlinie-loschen.md)
     * [Produktlinie umbenennen](der-excel-client/produktlinie/produktlinie-umbenennen.md)
     * [Globalattribute](der-excel-client/produktlinie/globalattribute.md)
     * [Eigenschaften](der-excel-client/produktlinie/eigenschaften.md)

@@ -1,25 +1,30 @@
-### Produktlinie löschen
+### Deleting a Product Line
 
-Um eine bestehende Produktlinie zu löschen, gehen Sie wie folgt vor:  
+To delete an existing product line, proceed as follows:
 
-1) Gehen Sie zu der Produktlinie, die Sie löschen wollen und klicken Sie auf den ActionLink.  
-
----
-![](/assets/pl12.png) 
+1\) Navigate to the product line you wish to delete and click on the ActionLink.
 
 ---
 
-2) Klicken Sie auf die Option **Löschen**.  
-
----
-![](/assets/pl13.png)   
+![](/assets/pl12.png)
 
 ---
 
-3) Klicken Sie auf **Ja**, um die Produktlinie endgültig zu löschen.  
+2\) Click on the **Delete** option.
 
 ---
+
+![](/assets/pl13.png)
+
+---
+
+3\) Select **Yes** to permanently delete the product line.
+
+---
+
 ![](/assets/pl14.png)
 
 ---
- 
+
+
+
