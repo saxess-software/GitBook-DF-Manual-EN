@@ -1,26 +1,32 @@
-### Fabrik anlegen
+### Creating a Factory
 
-Um eine neue Fabrik anzulegen, gehen Sie wie folgt vor:
+To create a factory, proceed as follows:
 
-1) Klicken Sie in der Übersicht Fabriken und Produktlinien auf die Schaltfläche **Neue Fabrik**.  
+1\) In the factory and product line overview, click on the **New Factory** button.
 
 ---
+
 ![](/assets/Fabrik2.png)
 
 ---
-2) Geben Sie eine **FabrikID** und einen **Fabriknamen** ein und klicken Sie auf den Button **Speichern**, um Ihre neue Fabrik zu speichern.   
+
+2\) Enter a **FactoryID** and a **Factoryname** and click on the **Save** button to save your new factory.
 
 ---
+
 ![](/assets/Fabrik3.png)
 
 ---
 
-> **Hinweis**: Die FabrikID muss eindeutig sein und darf in jedem Werk nur einmal vorkommen.  
+> **Note:** The FactoryID must be distinct and should not appear more than once in each work.
 
-
-3) Die neue Fabrik sortiert sich alphabetisch in die Liste der Fabriken ein.  
+3\) The new factory will be added alphabetically to the list of factories.
 
 ---
+
 ![](/assets/Fabrik4.png)
 
 ---
+
+
+
