@@ -40,7 +40,7 @@
     * [Properties](der-excel-client/fabrik/eigenschaften.md)
     * [Program Settings ](der-excel-client/fabrik/programmeinstellungen.md)
   * [Product Line](der-excel-client/produktlinie.md)
-    * [Produktlinie anlegen](der-excel-client/produktlinie/produktlinie-anlegen.md)
+    * [Creating a Product Line](der-excel-client/produktlinie/produktlinie-anlegen.md)
     * [Produktlinie kopieren](der-excel-client/produktlinie/produktlinie-kopieren.md)
     * [Produktlinie verschieben](der-excel-client/produktlinie/produktlinie-verschieben.md)
     * [Produktlinie löschen](der-excel-client/produktlinie/produktlinie-loschen.md)

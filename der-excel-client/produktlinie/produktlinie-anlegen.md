@@ -1,25 +1,30 @@
-### Produktlinie anlegen
+### Creating a Product Line
 
-Um eine neue Produktlinie anzulegen, gehen Sie wie folgt vor:  
+To create a new product line, proceed as follows:
 
-1) Gehen Sie zu der Fabrik, in der Sie eine neue Produktlinie anlegen wollen und klicken Sie auf die Schaltfläche **Neue Produktlinie**.  
+1\) Navigate to the factory in which you wish to create a new product line and click the **New product line** button.
 
 ---
+
 ![](/assets/pl2.png)
 
 ---
 
-2) Geben Sie für die neue Produktlinie eine **ProduktlinienID** und einen **Produkliniennamen** ein und klicken Sie anschließend auf **Speichern**.  
+2\) Enter a **ProductlineID** and a **Productline Name** and click on **Save**.
 
 ---
-![](/assets/pl3.png) 
 
---- 
-
-3) Die neue Produktlinie sortiert sich alphabetisch in die Liste der bestehenden Produktlinien ein.  
+![](/assets/pl3.png)
 
 ---
+
+3\) The new product line will be added alphabetically to the list of existing product lines.
+
+---
+
 ![](/assets/pl4.png)
 
 ---
+
+
 
