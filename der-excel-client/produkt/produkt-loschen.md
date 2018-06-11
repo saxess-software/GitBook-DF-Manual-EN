@@ -1,67 +1,76 @@
-### Produkt löschen  
+### Deleting a Product
 
-#### Einzelnes Produkt löschen
+#### Deleting a single Product
 
-1) Gehen Sie zu dem Produkt, das Sie löschen möchten und klicken Sie auf den ActionLink in der Spalte **Action**.  
-
----
-![](/assets/p22.png) 
+1\) Navigate to the product you wish to delete and click on the ActionLink in the **Action** column.
 
 ---
 
-2) Klicken Sie auf die Option **Löschen**.  
-
----
-![](/assets/p23.png) 
+![](/assets/p22.png)
 
 ---
 
-3) Klicken Sie auf **Ja**, um das Produkt endgültig zu löschen.  
-
----
-![](/assets/p24.png) 
+2\) Click on the **Delete** option.
 
 ---
 
-> **Hinweis**: Das Löschen kann nicht rückgängig gemacht werden.  
-
-#### Mehrfachlöschen 
-
-Um mehrere Produkte gleichzeitig zu löschen, gehen Sie wie folgt vor:  
-
-1) Klicken Sie in der Übersicht der Produkte auf den ActionLink über der Spalte **Action**.  
-
----
-![](/assets/p25.png) 
+![](/assets/p23.png)
 
 ---
 
-2) Klicken Sie auf die Option **Mehrfachlöschen**.  
-
----
-![](/assets/p26.png) 
+3\) Click on **Yes** to delete your product permanently.
 
 ---
 
-3) Markieren Sie die Produkte, die Sie löschen wollen und Klicken Sie auf **Löschen all selektierten Produkte**, um die ausgewählten Produkte zu löschen.  
+![](/assets/p24.png)
 
 ---
-![](/assets/p27.png) 
 
----      
+> **Note:** The delete process cannot be reversed.
 
-6) Klicken Sie auf **Ja**, um die Produkte endgültig zu löschen. 
+#### Deleting Multiple Products
 
----
-![](/assets/p28.png) 
+To delete multiple products at once, proceed as follows:
 
---- 
-
-7) Die Produkte wurden aus der Produktübersicht gelöscht.
+1\) In the product overview, click on the ActionLink above the **Action **column.
 
 ---
+
+![](/assets/p25.png)
+
+---
+
+2\) Select the option **Delete Multiple Products**.
+
+---
+
+![](/assets/p26.png)
+
+---
+
+3\) Highlight the products you wish to delete and click on **Delete All Selected Products** to delete the highlighted products.
+
+---
+
+![](/assets/p27.png)
+
+---
+
+6\) Click on **Yes** to delete the products permanently.
+
+---
+
+![](/assets/p28.png)
+
+---
+
+7\) The products have now been deleted from the product overview.
+
+---
+
 ![](/assets/p30.png)
 
---- 
+---
 
-   
+
+
