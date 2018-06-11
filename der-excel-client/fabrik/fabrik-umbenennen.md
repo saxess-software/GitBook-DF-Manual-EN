@@ -1,26 +1,30 @@
-### Fabrik umbenennen
+### Renaming a Factory
 
-Um einer Fabrik einen neuen Namen zu geben, gehen Sie wie folgt vor:  
+To rename a factory, proceed as follows:
 
-1) Gehen Sie zu der Fabrik, die Sie umbenennen wollen und klicken Sie auf den ActionLink.  
-
----
-![](/assets/Fabrik5.png) 
+1\) Navigate to the factory you wish to rename and click on the ActionLink.
 
 ---
 
-2) Klicken Sie auf die Option **Globalattribut editieren**.  
+![](/assets/Fabrik5.png)
 
 ---
+
+2\) Click on the **Edit Global Attributes** option.
+
+---
+
 ![](/assets/Fabrik15.png)
 
 ---
 
-3) Geben Sie in der Spalte **Fabrikname** einen neuen Namen für Ihre Fabrik ein und bestätigen Sie Ihre Eingabe mit dem Button **Speichern**.  
+3\) In the column titled **Factory name**, enter a new name for the selected factory and confirm the changes by clicking on the **Save** button.
 
 ---
+
 ![](/assets/Fabrik16.png)
 
 ---
 
- 
+
+

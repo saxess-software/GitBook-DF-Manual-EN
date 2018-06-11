@@ -35,7 +35,7 @@
     * [Copying a Factory](der-excel-client/fabrik/fabrik-kopieren.md)
     * [Moving a Factory](der-excel-client/fabrik/fabrik-verschieben.md)
     * [Deleting a Factory](der-excel-client/fabrik/fabrik-loschen.md)
-    * [Fabrik umbenennen](der-excel-client/fabrik/fabrik-umbenennen.md)
+    * [Renaming a Factory](der-excel-client/fabrik/fabrik-umbenennen.md)
     * [Globalattribute](der-excel-client/fabrik/globalattribute.md)
     * [Eigenschaften](der-excel-client/fabrik/eigenschaften.md)
     * [Programmeinstellungen](der-excel-client/fabrik/programmeinstellungen.md)
