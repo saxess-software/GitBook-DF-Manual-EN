@@ -1,29 +1,30 @@
-### Proxy-Einstellungen
+### Proxy settings
 
-Um sich mit einem Proxy-Server zu verbinden, können Sie wie folgt vorgehen:
+To connect with a proxy server, proceed as follows:
 
-1) Klicken Sie auf den ActionLink **Verbindungen und Sprache**.  
+1\) Click on the ActionLink **Connections and language**.
 
 ---
+
 ![](/Bilder/Werk/werk10.png)
 
 ---
 
-2) Wählen Sie die Option **Proxy-Einstellungen**.
+2\) Select the option **Proxy Settings**.
 
 ---
+
 ![](/assets/Werk35.png)
 
 ---
 
-3) Geben Sie Ihre Daten in das Fenster ein.
+3\) Enter your information in the window.
 
 ---
+
 ![](/assets/Werk36.png)
 
 ---
-
-
 
 
 

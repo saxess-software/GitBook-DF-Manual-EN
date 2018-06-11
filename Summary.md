@@ -28,7 +28,7 @@
     * [Adding a New User](der-excel-client/werk/neue-benutzer-anlegen.md)
     * [Editing User Rights](der-excel-client/werk/benutzerrechte-andern.md)
     * [Deleting a User](der-excel-client/werk/benutzer-loschen.md)
-    * [Proxy-Einstellungen](der-excel-client/werk/proxy-einstellungen.md)
+    * [Proxy settings](der-excel-client/werk/proxy-einstellungen.md)
   * [Fabrik](der-excel-client/fabrik.md)
     * [Übersicht Fabriken und Produktlinien](der-excel-client/fabrik/ubersicht-fabriken-und-produktlinien.md)
     * [Fabrik anlegen](der-excel-client/fabrik/fabrik-anlegen.md)
