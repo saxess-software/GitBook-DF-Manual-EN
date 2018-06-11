@@ -1,5 +1,6 @@
-## Fabrik 
+## Factory
 
-Eine Fabrik ist die oberste Hierarchieebene innerhalb eines Werkes. Sie ist gekennzeichnet durch eine **FabrikID** und einen **Fabriknamen**. Darüber hinaus können Ihr verschiedene Eigenschaften sowie Globalattribute zugewiesen werden. 
- 
-In den folgenden Abschnitten erfahren Sie alle Funktionen und Möglichkeiten im Umgang mit Fabriken.
+A factory is the topmost hierarchical level within a work. It is identified through a **FactoryID** and a **Factory name**. Various properties and global attributes can also be assigned to a factory.
+
+In the next section, you will learn about how to handle factories, their functions, and the possibilities they present.
+
