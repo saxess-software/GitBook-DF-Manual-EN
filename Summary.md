@@ -50,7 +50,7 @@
   * [Product](der-excel-client/produkt.md)
     * [Creating a new Product](der-excel-client/produkt/neues-produkt-anlegen.md)
     * [Copying a Product](der-excel-client/produkt/produkt-kopieren.md)
-    * [Produkt verschieben](der-excel-client/produkt/produkt-verschieben.md)
+    * [Moving a product](der-excel-client/produkt/produkt-verschieben.md)
     * [Produkt löschen](der-excel-client/produkt/produkt-loschen.md)
     * [PowerLaden](der-excel-client/produkt/powerladen.md)
   * [Templates](der-excel-client/templates.md)
