@@ -1,48 +1,52 @@
-#### *IDs ändern* 
+#### _Changing IDs_
 
-Wenn Sie ein Template neu anlegen bzw. eine neue Spalte in Ihr Template einfügen, wird den Wertreihen bereits eine *Default-ID* zugewiesen, d.h. Sie tragen IDs mit der Bezeichnung *ID1, ID2,...,IDn*. Die IDs können Sie individuell anpassen.
+If you create a new template or add a new column into a template, the value series will be automatically assigned Default-IDs. This means that they possess IDs labelled ID1, ID2,…,IDn. You can customize the IDs individually later.
 
->**Hinweis 1**: Innerhalb eines Products/eines Templates muss jede Spalte eine eindeutige ID tragen. Es ist nicht möglich, dass bspw. zwei Spalten die gleiche ID haben. Wenn möglich, wählen Sie "sprechende" IDs.
+> **Note 1:** Every column within a product or template must possess one unique ID. It is not possible for two columns to carry the same ID. If possible, it is recommended to choose descriptive IDs.
+>
+> **Note 2:** The assigned ID should consist of at least two characters. This means that value series should not be assigned IDs like M, D or J. The one-character value series IDs are used for specific calculations on the database.
 
->**Hinweis 2**: Die von Ihnen vergebene ID sollte **mindestens zweistellig** sein, d.h. vergebenen Sie keine Wertreihen-IDs die bspw. **M**, **D** oder **J** heißen. Die einstelligen Wertreihen-IDs nutzen wir für spezifische Berechnungen auf die Datenbank.
+To change the IDs of your value series, proceed as follows:
 
-Um die IDs Ihrer Wertreihen zu ändern, gehen Sie wie folgt vor: 
-
-1) Klicken Sie in der Spalte, deren ID Sie ändern wollen auf den ActionLink in der Zeile **Aktion**.  
-
----
-![](/assets/t22.png)  
-
----  
-   
-2) Klicken Sie auf die Option **IDs bearbeiten**.  
+1\) Click on the ActionLink in the **Action** row in the column of which you wish to change the ID.
 
 ---
+
+![](/assets/t22.png)
+
+---
+
+2\) Click on the **Edit IDs** option.
+
+---
+
 ![](/assets/t30.png)
 
 ---
 
-3) Sie sehen im Dialog **SerienID Editor** die aktuelle ID und den Kurznamen. Geben Sie in der Spalte Neue ID ihre neuen IDs ein.  
+3\) In the **SeriesID Editor** you will find the current ID and the abbreviated name. In the column **New ID**, enter the new IDs.
 
 ---
+
 ![](/assets/t31.png)
 
 ---
 
-4) Klicken Sie auf die Schaltfläche **Anwenden**, um die neuen IDs zu speichern.  
+4\) Click on the **Apply** button to save the new IDs
 
 ---
+
 ![](/assets/t32.png)
 
 ---
 
-5) Die geänderte ID wird angezeigt und ist bereits gespeichert.
+5\) The edited ID has been saved and will now be displayed.
 
 ---
+
 ![](/assets/t33.png)
 
 ---
 
 
 
- 
