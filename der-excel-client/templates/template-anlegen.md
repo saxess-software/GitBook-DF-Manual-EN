@@ -1,42 +1,50 @@
-### Template anlegen 
+### Creating a Template
 
-Um ein neues Template anzulegen, gehen Sie wie folgt vor:
+To create a new template, proceed as follows:
 
-1) Gehen Sie zur Fabrik **Templates** und klicken Sie auf die Produktlinie, in der Sie ein neues Template anlegen wollen.  
+1\) Navigate to the **Templates** factory and click on the product line in which you wish to create a new template.
 
 ---
+
 ![](/assets/t9.png)
 
 ---
 
-> **Hinweis**: Aus Gründen der Übersichtlichkeit, bietet es sich an, eigene Templates in separaten Produktlinien zu speichern.  
+> **Note:** For clarity purposes, it is recommended to save individual templates in separate product lines.
 
-2) Klicken Sie auf die Schaltfläche **Neues Produkt**. 
+2\) Click on the **New Product** button
 
 ---
+
 ![](/assets/t10.png)
 
 ---
 
-3) Wählen Sie ein bestehendes Template aus, aus dem Ihr neues Template entstehen soll. 
- 
+3\) Select an existing template to base your new template on.
+
 ---
+
 ![](/assets/t11.png)
 
 ---
 
-4)  Geben Sie für Ihr neues Template eine **ProduktID** und einen **Produktnamen** ein und klicken Sie auf den Button **Anwenden**, um Ihr Template zu erzeugen. 
+4\)  Enter a **ProductID** and a **ProductName** for your new template and click on **Apply** to create your new template.
 
 ---
+
 ![](/assets/t12.png)
 
 ---
 
-5) Das neue Template wurde erstellt. 
+5\) The new template has been created.
 
 ---
+
 ![](/assets/t13.png)
 
---- 
+---
 
-> **Hinweis**: Es wird empfohlen in der Spalte "Template" dem neuen Template einen eindeutigen und aussagekräftigen Namen zu geben. Dies ist wichtig, wenn Sie später aus Ihrem Template neue Produkte erzeugen wollen und deren Klasse später wiedererkennen wollen.  
+> **Note:** It is recommended to enter a precise and descriptive name for your new template in the column “Template”. This is important for recognizing the template the next time you wish to create new products based on it.
+
+
+
