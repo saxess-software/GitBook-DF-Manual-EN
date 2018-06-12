@@ -1,33 +1,38 @@
-#### *Wertreihe kopieren*  
+#### _Copying a Value Series_
 
-1) Klicken Sie in der Spalte, die Sie kopieren wollen auf den ActionLink in der Zeile **Aktion**.  
-
----
-![](/assets/t22.png)  
-
----  
-
-2) Klicken Sie auf die Option **Mehrfachkopie**.  
+1\) Click on the ActionLink in the **Action** row in the column you wish to copy.
 
 ---
-![](/assets/t23.png)  
 
----  
-
-3) Geben Sie die Zeile bzw. Spalte ein, vor der Sie die Kopie/n einfügen wollen und geben Sie die Anzahl der Kopien, die Sie erstellen wollen. Klicken Sie auf den Button **Kopieren**, um die Kopien einzufügen.  
+![](/assets/t22.png)
 
 ---
-![](/assets/t24.png)  
+
+2\) Click on the option **Multiple Copies**.
+
+---
+
+![](/assets/t23.png)
+
+---
+
+3\) Enter the row or column before which you wish to add the copies, then enter the number of copies you wish to create. Click on the **Copy** button to create the copies.
+
+---
+
+![](/assets/t24.png)
 
 ---
 
 > **Hinweis**: Wenn Sie bei **Einfügen vor Zeile/Spalte** eine "-1" eingeben, werden die neuen Zeilen/Spalten automatisch am Ende eingefügt.
 
-
-5) Klicken Sie auf die Schaltfläche **Speichern**, um Ihre Kopien endgültig zu speichern.  
+5\) Note: If you enter a “-1” into **Add Before Row/Column**, the new copies will be automatically added at the end.
 
 ---
-![](/assets/t25.png)  
 
----  
+![](/assets/t25.png)
+
+---
+
+
 
