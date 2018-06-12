@@ -1,29 +1,31 @@
-#### *Herkunft ändern*  
+#### _Change Origin_
 
+The **Origin** box shows the origin of the values.
 
-Das Feld **Herkunft** an, woher die Werte stammen
+| Setting | Description |
+| --- | --- |
+| Input | Data input directly in Excel. No limitations. |
+| Link | Option to add a link \(e.g. to a document or website\) |
+| XLS | Values will be calculated by a formula. The Excel formula can be overwritten and edited at any time. |
+| XLS Strict | Values will be calculated by a formula. The Excel formula can only be overwritten and edited when the details are opened. |
 
-| Einstellung | Beschreibung |
-| : | :|
-| Input | Dateneingabe direkt in Excel, keine Einschränkung |
-| Link | Bietet die Möglichkeit einen Link zu hinterlegen (bspw. zu einem Dokument oder einer Website) |
-| XLS | Werte durch eine Formal berechnen lassen. Die Excel-Formel kann immer überschrieben und bearbeitet werden |
-| XLS Strict | Werte durch eine Formel berechnen lassen. Die Excel-Formel kann nur bei aufgeklappten Details überschrieben und bearbeitet werden |
+To change the origin of a value series, proceed as follows:
 
-Um die Herkunft einer Wertreihe zu ändern, gehen Sie wie folgt vor:
-
-1) Gehen Sie zu der Wertreihe, deren Herkunft Sie ändern möchten, öffnen Sie in der Zeile **Herkunft** das Dropdown Menü und wählen Sie Ihre gewünschte Herkunft aus.  
+1\) Navigate to the value series of which you wish to change the origin. Open the drop-down menu in the **Origin** row and select the desired origin.
 
 ---
+
 ![](/assets/t34.png)
 
 ---
 
-2) Klicken Sie auf die Schaltfläche **Speichern**, um Ihre Auswahl zu speichern.  
+2\) Click on the **Save** button to save your changes.
 
 ---
+
 ![](/assets/t35.png)
 
 ---
 
-  
+
+

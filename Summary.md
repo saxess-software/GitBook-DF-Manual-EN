@@ -64,7 +64,7 @@
       * [Moving a Value Series](der-excel-client/templates/template-konfigurieren/wertereihe-verschieben.md)
       * [Defining a Value Type](der-excel-client/templates/template-konfigurieren/werttyp-definieren.md)
       * [Changing IDs](der-excel-client/templates/template-konfigurieren/ids-andern.md)
-      * [Herkunft ändern](der-excel-client/templates/template-konfigurieren/herkunft-andern.md)
+      * [Change Origin](der-excel-client/templates/template-konfigurieren/herkunft-andern.md)
       * [Effekt ändern](der-excel-client/templates/template-konfigurieren/effekt-andern.md)
       * [Werteliste hinzufügen](der-excel-client/templates/template-konfigurieren/werteliste-hinzufugen.md)
       * [Werteformat ändern](der-excel-client/templates/template-konfigurieren/werteformat-andern.md)
