@@ -1,21 +1,23 @@
-### Unikum Templates  
+### Unikum Templates
 
-Unikum Templates sind die allgemeinste Form von Templates. Sie sind standardmäßig Bestandteil jeder DataFactory und im Werk **Templates** in der Produktlinie **Unikum** organisiert.  
+Unikum Templates are the most general form of templates. By default, they are part of every DataFactory and are organized in the work **Templates** in the product line **Unikum**.
 
 ---
+
 ![](/assets/t2.png)
 
 ---
 
-Es stehen Ihnen standardmäßig folgende Templates zur Verfügung:  
+By default, the following templates are available:
 
-* 	Unikum für Monatswerte 2016-2020
-* 	Unikum für Tageswerte 2016-2017
-* 	Unikum für Werktageswerte 2016-2017
-* 	Unikum für 3 Tage pro Monat 2016-2017 
-* 	Unikum für Wochenwerte 2016-2017 
-* 	Unikum für Jahreswerte 1970-2060 
-* 	Einfache Liste
-* 	Gruppierte Liste  
+* Unikum for monthly values 2016-2020
+* Unikum for daily values 2016-2017
+* Unikum for business day values 2016-2017
+* Unikum for three days per month 2016-2017
+* Unikum for weekly values 2016-2017
+* Unikum for yearly values 1970-2060 
+* Simple list 
+* Grouped list   
 
-Sie betreten ein Template, indem Sie auf den Namen des Template klicken.  
+You can access a template by clicking on its name.
+
