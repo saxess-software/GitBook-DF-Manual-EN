@@ -1,6 +1,6 @@
-### Allgemeiner Aufbau
+### General Structure
 
-Ein Template besteht strukturell immer aus drei wesentlichen Bestandteilen: Zeitachse, Wertreihe und Wertebereich.
+A template consists of three structurally essential elements: the time axis, the value series and the values section.
 
 ---
 
@@ -8,9 +8,9 @@ Ein Template besteht strukturell immer aus drei wesentlichen Bestandteilen: Zeit
 
 ---
 
-#### Zeitachse
+#### Time axis
 
-Die Zeitachse eines Template bestimmt den Detailgrad der zeitlichen Dimension bei der Erfassung der Werte \(z.B. Erfassung von Daten auf Tages-, Monats oder Jahresbasis\).
+The time axis of a template dictates the degree of detail of the time element of data collection \(e.g. on a daily, monthly, yearly etc. basis\).
 
 ---
 
@@ -18,9 +18,9 @@ Die Zeitachse eines Template bestimmt den Detailgrad der zeitlichen Dimension be
 
 ---
 
-> **Hinweis**: Die Zeitachse ist nicht an einen Kalender gebunden, sondern sie ist vollkommen individuell konfigurierbar.
+> Note: The time axis is not bound to a calendar and is therefore fully customizable.
 
-Bei der Erfassung von zeitunabhängigen Daten ist die Zeitachse eine sog. Pseudozeitachse und ermöglicht die Erfassung von Listen.
+While gathering time-independent data, the time axis becomes a so-called “pseudo-time-axis”, enabling the recording of lists.
 
 ---
 
@@ -28,9 +28,9 @@ Bei der Erfassung von zeitunabhängigen Daten ist die Zeitachse eine sog. Pseudo
 
 ---
 
-#### Wertreihe
+#### Value Series
 
-Wertreihen definieren die Charaktereigenschaften der Werte, die Sie später in den Wertebereich eingeben. In der Standardansicht eines Template sehen Sie den Namen und die ID einer Wertreihe.
+Value series define the characteristics of the values which will be later entered into the values section. The name and ID of a value series are shown in the standard view of a template.
 
 ---
 
@@ -38,80 +38,80 @@ Wertreihen definieren die Charaktereigenschaften der Werte, die Sie später in d
 
 ---
 
-Jede Wertreihe besitzt eine Reihe von Eigenschaften und Optionen.
+Each value series possesses certain properties and options.
 
-* **Nummer** \| Laufende Nummer der Wertreihe \(kann durch den Nutzer nicht verändert werden\) 
-* **Aktion** \| ActionLink, hinter dem sich weitere Optionen verbergen
+* **Number** \| Sequential number of the series of values \(cannot be changed by the user\). 
+* **Action** \| ActionLink enabling the selection of further options.
 
-| Einstellung | Beschreibung |
+| Setting | Desciption |
 | --- | --- |
-| Neu davor | Fügt eine neue Wertreihe vor der aktuellen Wertreihe ein |
-| Neu danach | Fügt eine neue Wertreihe nach der aktuellen Wertreihe ein |
-| Merhfachkopie | Erstellt mehrere Kopien der aktuellen Wertreihe und fügt sie an der gewünschten Stelle ein |
-| Wertreihe löschen | Löscht die aktuelle Wertreihe |
-| IDs bearbeiten | Öffnet den Dialog zum Bearbeiten der IDs |
-| Kommentar bearbeiten | Öffnet das Kommentarfeld in der Zelle "Name" der Wertreihe |
-| Ausschneiden | Schneidet die aktuelle Wertreihe aus |
+| New before | Adds a new value series before the current value series. |
+| New after | Adds a new value series after the current value series. |
+| Multiple Copy | Creates multiple copies of the current value series and addsthem at the desired destination. |
+| Delete Value Series | Deletes the current value series. |
+| Edit IDs | Opens the options dialog to edit IDs. |
+| Edit Comment | Opens the comment field on the “Name” cell of the value series. |
+| Cut | Cuts out the current value series. |
 
-* **Ist-numerisch** \| Gibt an, ob es sich bei der Eingabe um einen numerischen Wert handelt
+* **Is-Numeric** \| Indicates whether the entry is a numeric value.
 
-| Einstellung | Beschreibung |
+| Setting | Desciption |
 | --- | --- |
-| 0 | Nein, bei der Eingabe handelt es sich nicht um eine numerische Zahl |
-| 1 | Ja, bei der Eingabe handelt es sich um eine numerische Zahl |
+| 0 | No, the input is not a numeral. |
+| 1 | Yes, the input is a numeral. |
 
-* **Sichtbarkeitsstufe** \|  Bietet die Möglichkeit, Spalten für den Nutzer bei der Dateneingabe auszublenden
+* **Level of visibility** \|  Offers the option to hide columns during data entry.
 
-* **Herkunft** \| Gibt an, woher die Werte stammen
+* **Origin** \| Shows the origin of the values.
 
-| Einstellung | Beschreibung |
+| Setting | Desciption |
 | --- | --- |
-| Input | Dateneingabe direkt in Excel, keine Einschränkung |
-| Link | Bietet die Möglichkeit einen Link zu hinterlegen \(bspw. zu einem Dokument oder einer Website\) |
-| XLS | Werte durch eine Formal berechnen lassen. Die Excel-Formel kann immer überschrieben und bearbeitet werden |
-| XLS Strict | Werte durch eine Formel berechnen lassen. Die Excel-Formel kann nur bei aufgeklappten Details überschrieben und bearbeitet werden |
+| Input | Data entry in Excel, no limitations |
+| Link | Provides the option to add a link \(e.g. to a document or website\) |
+| XLS | Computes the values with a formula. The Excel formula canbe overwritten and edited at any time. |
+| XLS Strict | Computes the vales through a formula. The Excel formula can only be overwritten and edited when the details are open. |
 
-* **Werteliste** \| Bietet die Möglichkeit eine Liste mit Werten zu hinterlegen, die im Wertebereich per Dropdown ausgewählt werden können.
+* **Values List** \| Allows the user to deposit a list of values that can be selected from the values section via a drop-down menu. 
 
-* **Werteformat** \| Einstellung eines vordefinierten Werteformats. Sie können individuelle Formate vordefinieren und hier auswählen.
+* **Value Format** \| Choose from a list of pre-defined value formats. You can pre-define individual formats and select them here.
 
-* **Einheit** \| Gibt an, in welcher Einheit die Werte in der Datenbank gespeichert werden. \(z.B. EUR, Kilogramm, Kilometer, Prozent, Stück, Text, USD\). Sie können jederzeit neue Einheiten in der Liste [**sxUnits**](../listen-und-formate.md) frei definieren.
+* **Unit** \| Shows which unit willl be assigned to the saved values \(e.g. EUR, Kilogram, Kilometer, Percent, Text, USD\). You can define new units in the **sxUnits** list at any time.
 
-* **Skalierung** \| Gibt die Skalierung an, in der die Werte in der Datenbank gespeichert werden. Diese Einstellung hat nur Auswirkungen auf numerische Werte.
+* **Scaling** \| Shows the scaling in which the values will be saved into the database. This setting only affects numeric values.
 
-| Einstellung | Beschreibung |
+| Setting | Description |
 | --- | --- |
-| 1 | Keine Nachkommastelle |
-| 10 | Eine Nachkommastelle |
-| 100 | Zwei Nachkommastelle |
-| 1000 | Drei Nachkommastelle |
-| 10000 | Vier Nachkommastelle |
+| 1 | No decimal places |
+| 10 | One decimal place |
+| 100 | Two decimal places |
+| 1000 | Three decimal places |
+| 10000 | Four decimal places |
 
-* **Effekt** \| Beschreibt das betriebswirtschaftlichen Merkmal, das ein Wert innehat.
+* **Effect** \| Describes the economic feature, which possesses a value.
 
-| Einstellung | Beschreibung |
+| Setting | Description |
 | --- | --- |
-| Aktivbestand | Wert geht in die Bilanzaktiva ein |
-| Auszahlung | Reine Auszahlung |
-| Einzahlung | Reine Einzahlung |
-| Ertrag | Einzahlungsunwirksamer Ertrag |
-| Ertrag=Einzahlung | Einzahlungswirksamer Ertrag |
-| Hilfswert | Reiner Hilfswert, dient der Zwischenberechnung |
-| Kosten | Auszahlungsunwirksame Kosten |
-| Kosten=Auszahlung | Auszahlungswirksame Kosten |
-| Menge | Gibt die mengenmäßige Veränderung an |
-| Passivbestand | Wert geht in die Bilanzpassiva ein |
-| Stück | Anzahl |
-| Text | Textwert |
-| Überschrift | Reine Überschrift |
+| Asset | Value will be added to the balance sheet assets |
+| Outpayment | Outpayment only |
+| Inpayment | Inpayment only |
+| Returns | Return invalid for inpayment |
+| Returns=Inpayment | Return valid for inpayment |
+| Support Value | Value used only as support for intermediate calculations |
+| Costs | Costs invalid for outpayment |
+| Costs=Outpayment | Costs valid for outpayment |
+| Amount | Displays the amount of change |
+| Liabilities | Value will be added to the balance sheet liabilities |
+| Quantity | Number detailing quantity |
+| Text | Text value |
+| Title | Title only |
 
-* **Parameter** \| Gibt die Breite der Wertreihe an.
+* **Parameter** \| Shows the range of the value series.
 
-* **Name** \| Bezeichnung der Wertreihe. Es empfiehlt sich, an den Namen einen aussagekräftigen, beschreibenden Kommentar anzufügen, um dem Nutzer die Eingabe zu erleichtern.
+* **Name** \| Name of the value series. It is recommended to add an informative, descriptive comment to the name to make inputting data easier for the user.
 
-* **ID** \| ID der Wertreihe. Kann durch den Nutzer verändert werden. Innerhalb einen Produkts muss die ID der Wertreihe eindeutig sein.
+* **ID** \| ID of the value series. This can be edited by the user. The ID of the value series must be unique within a work.
 
-Die Eigenschaften und Optionen werden durch das Klicken auf die Schaltfläche **Details zeigen** sichtbar.
+The properties and options can be made visible by clicking on the **Show details** button.
 
 ---
 
@@ -119,9 +119,9 @@ Die Eigenschaften und Optionen werden durch das Klicken auf die Schaltfläche **
 
 ---
 
-#### Wertebereich
+#### Values Section
 
-Der Wertebereich ist der Bereich, in dem die konkreten Daten erfasst werden.
+The values section is the section in which the concrete data is collected.
 
 ---
 
@@ -129,13 +129,13 @@ Der Wertebereich ist der Bereich, in dem die konkreten Daten erfasst werden.
 
 ---
 
-Je nachdem wie die Wertreihen definiert sind, können Sie hier Daten frei eingeben und erfassen. Es können sämtliche Excel Formeln genutzt werden.
+Depending on how the values sections are defined, data can be collected and entered freely. All Excel formulas are supported and can be used.
 
-> **Hinweis**: Formeln werden in den Wertreihen nur gespeichert, wenn die Wertreihe vom Typ XLS oder XLS-Strict definiert ist. Andernfalls werden nur die Werte gespeichert.
+> **Note:** Formulas will be saved in the value series only when the value series is defined as XLS or XLS-Strict. Otherwise, only the values will be saved.
 
-#### Orientierung und Namenskonvention
+#### Orientation and Naming Conventions
 
-Ein Template ist entweder horizontal oder vertikal orientiert. Die Orientierung basiert auf einer Namenskonvention und wird durch das angehängte Suffix bestimmt.
+A template is oriented either horizontally or vertically. The orientation is based on a naming convention and will be defined through the added suffix.
 
 ---
 
@@ -143,27 +143,27 @@ Ein Template ist entweder horizontal oder vertikal orientiert. Die Orientierung 
 
 ---
 
-Das Suffix hat sowohl Auswirkung auf die Orientierung als auch auf die Zeitachse und wird an den Namen des Template mit einem „\_“ angehangen. Der erste Buchstabe definiert die Orientierung, der zweite Buchstabe den Detailgrad bei der Anzeige der Zeitachse.
+The suffix affects the orientation as well as the time axis and is added to the name of a template with an underscore \(\_\). The first letter defines the orientation, the second letter the detail level of the time axis.
 
-* ** Erster Buchstabe = V**
+* ** First letter = V**
+
+| Second letter | Suffix | Beschreibung |
+| :--- | :--- | :--- |
+| T | \_VT | Vertical orientation with daily display |
+| M | \_VM | Vertical orientation with monthly display |
+| J | \_VJ | Vertical orientation with yearly display |
+| N | \_VN | Vertical orientation with no time axis |
+
+* ** First letter = H**
 
 | Zweiter Buchstabe | Suffix | Beschreibung |
 | :--- | :--- | :--- |
-| T | \_VT | Vertikale Ausrichtung mit Tagesdarstellung |
-| M | \_VM | Vertikale Ausrichtung mit Monatsdarstellung |
-| J | \_VJ | Vertikale Ausrichtung mit Jahresdarstellung |
-| N | \_VN | Vertikale Ausrichtung ohne Zeitachse |
+| T | \_HT | Horizontal orientation with daily display |
+| M | \_HM | Horizontal orientation with monthly display |
+| J | \_HJ | Horizontal orientation with yearly display |
+| J | \_HN | Horizontal orientation with no time axis |
 
-* ** Erste Buchstabe = H**
-
-| Zweiter Buchstabe | Suffix | Beschreibung |
-| :--- | :--- | :--- |
-| T | \_HT | Horizontale Ausrichtung mit Tagesdarstellung |
-| M | \_HM | Horizontale Ausrichtung mit Monatsdarstellung |
-| J | \_HJ | Horizontale Ausrichtung mit Jahresdarstellung |
-| J | \_HN | Horizontale Ausrichtung ohne Zeitachse |
-
-> **Hinweis**: Die Wahl der Zeitachsendarstellung hat einen Einfluss auf die Darstellungsweise der einzelnen Zeilen. Bei der Tagesdarstellung wird der letzte Tag des Monats vom ersten Tag des darauffolgenden Monats durch eine dicke Rahmenlinie abgegrenzt. Bei der Monatsdarstellung wrid der letzte Monat des Jahres vom ersten Monat des darauffolgenden Jahres auf diese Art abgegrenzt.
+> **Note:** The choice of time axis display affects the way each single column will be presented. In the daily display, the last day of each month will be separated from the first day of the next month by a thick line. In the monthly display the last month of each year will be seperated from the first month of the following year in the same way.
 
 ---
 
@@ -171,11 +171,11 @@ Das Suffix hat sowohl Auswirkung auf die Orientierung als auch auf die Zeitachse
 
 ---
 
-#### _Drehen des Templates_
+#### _Rotating the Template_
 
-Es besteht jederzeit die Möglichkeit, das Template zu drehen. Dies ist zum einen im Template selbst möglich sowie durch die Änderung der Namenskonvention.
+The template can be rotated at any time. This can be in the template itself, or through a change in the naming convention.
 
-Im Template selbst können Sie durch Klick auf den Button **Drehen** zwischen vertikaler und horizontaler Ansicht wechseln. Allerdings ist das Speichern nur in der Ansicht möglich, die durch die Namenskonvention vorgeben wird.
+In the template itself you can switch between vertical and horizontal view by clicking the **Rotate** button. However, saving is only possible in the view governed by the naming convention.
 
 ---
 
@@ -183,7 +183,7 @@ Im Template selbst können Sie durch Klick auf den Button **Drehen** zwischen ve
 
 ---
 
-In der Produktübersicht können Sie die Orientierung des Templates durch Änderung der Namenskonvention ändern. Ersetzen Sie in der Spalte **Template** den ersten Buchstaben des Suffixes durch den gewünschten Buchstaben und klicken Sie auf **Speichern**. Diese Änderung ist permanent.
+The orientation of the template can also be changed in the product overview by changing the naming convention. In the **Template** column, replace the first letter of the suffix with the desired letter and click on **Save**. This change is permanent.
 
 ---
 

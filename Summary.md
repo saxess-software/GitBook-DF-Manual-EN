@@ -55,7 +55,7 @@
     * [Powerload](der-excel-client/produkt/powerladen.md)
   * [Templates](der-excel-client/templates.md)
     * [Unikum Templates](der-excel-client/templates/unikum-templates.md)
-    * [Allgemeiner Aufbau](der-excel-client/templates/allgemeiner-aufbau.md)
+    * [General Structure](der-excel-client/templates/allgemeiner-aufbau.md)
     * [Template anlegen](der-excel-client/templates/template-anlegen.md)
     * [Template konfigurieren](der-excel-client/templates/template-konfigurieren.md)
       * [Neue Wertreihe anlegen](der-excel-client/templates/template-konfigurieren/neue-wertreihe-anlegen.md)
