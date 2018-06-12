@@ -1,10 +1,12 @@
-### Template konfigurieren  
+### Configuring a Template
 
-Sie können jedes Template individuell gestalten und konfigurieren. Um ein Template zu konfigurieren, müssen Sie das Template betreten und auf die Schaltfläche **Details zeigen** klicken.  
+You can design and configure each template individually. To configure a template, navigate to it and click on the **Show Details** button.
 
 ---
+
 ![](/assets/t14.png)
 
 ---
 
-Im Folgenden sind die Funktionen für die Konfiguration von Templates beschrieben. Die Beschreibung der Funktionen beziehen sich auf ein Template mit vertikaler Zeitachse. Das Vorgehen bei horizontaler Zeitachse ist analog.  
+In the following section, the functions for configuring the templates are described. The description is based on a template with a vertical time axis. The steps to configure a horizontal time axis the same. 
+

@@ -1,24 +1,27 @@
-#### *Neue Wertreihe anlegen*
+#### _Creating a New Value Series_
 
-Um eine neue Wertreihe anzulegen, gehen Sie wie folgt vor:  
+To create a new value series, proceed as follows:
 
-1) Klicken Sie in der Zeile **Aktion** auf den ActionLink.  
+1\) Click on the ActionLink in the **Action** row.
 
 ---
+
 ![](/assets/t15.png)
 
 --
 
-2) Klicken Sie auf die Option **Neu davor**, wenn Sie eine neue Spalte vor der aktuellen Spalte oder auf die Option **Neu danach**, wenn Sie eine neue Spalte nach der aktuellen Spalte anlegen wollen.
+2\) Click on the option **New Before** if you wish to create a new column in front of the current one, or on the option **New After** if you wish to create a new column after the current one.
 
 ---
+
 ![](/assets/t16.png)
 
 --
 
-3) Eine neue Wertreihe wurde eingefügt. Klicken Sie auf die Schaltfläche **Speichern**, um die Wertreihe zu sichern.  
+3\) A new value series has been added. Click on the **Save** button to save the value series.
 
 ---
+
 ![](/assets/t17.png)
 
 ---
@@ -26,6 +29,4 @@ Um eine neue Wertreihe anzulegen, gehen Sie wie folgt vor:
 ![](/assets/t18.png)
 
 --
-
-
 
