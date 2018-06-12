@@ -62,7 +62,7 @@
       * [Deleting a Value Series](der-excel-client/templates/template-konfigurieren/wertreihe-loschen.md)
       * [Copying a Value Series](der-excel-client/templates/template-konfigurieren/wertereihe-kopieren.md)
       * [Moving a Value Series](der-excel-client/templates/template-konfigurieren/wertereihe-verschieben.md)
-      * [Werttyp definieren](der-excel-client/templates/template-konfigurieren/werttyp-definieren.md)
+      * [Defining a Value Type](der-excel-client/templates/template-konfigurieren/werttyp-definieren.md)
       * [IDs ändern](der-excel-client/templates/template-konfigurieren/ids-andern.md)
       * [Herkunft ändern](der-excel-client/templates/template-konfigurieren/herkunft-andern.md)
       * [Effekt ändern](der-excel-client/templates/template-konfigurieren/effekt-andern.md)

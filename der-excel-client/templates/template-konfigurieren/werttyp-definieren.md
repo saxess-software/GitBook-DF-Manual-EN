@@ -1,23 +1,23 @@
-### Werttyp definieren
+### Defining a Value Type
 
-Eine Wertreihe kann als numerisch (1) oder nicht-numerisch (0) definiert werden. Die Auswahl treffen Sie in der Zeile **Ist numerisch** über ein Dropdown-Menü in der jeweiligen Wertreihe.
+A value series may be defined as numeric \(1\) or not numeric \(0\). This selection is made in the row** Is Numeric** via a drop-down menu in the chosen value series.
 
-Wählen Sie **numerisch**, wenn Sie:
+Choose **Numeric** if you wish to record:
 
-- Ganze Zahlen
-- Dezimalzahlen
+* Whole numbers
+* Decimal numbers 
 
-erfassen wollen.
+Choose **not numeric** if you wish to record:
 
-Wählen Sie **nicht-numerisch**, wenn Sie:
-
-- Text
-- Datumsangaben
-- Links
-
-erfassen wollen.
+* Text
+* Dates
+* Links
 
 ---
+
 ![](/assets/Temp5.png)
 
 ---
+
+
+
