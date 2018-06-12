@@ -1,5 +1,6 @@
-## Templates  
+## Templates
 
-Templates sind Produkte, die mit Ziel geschaffen werden, als Vorlage für weitere Produkte zu dienen. Aus technischer Sicht sind Templates und Produkte völlig identisch. Templates und Produkte verhalten sich zueinander wie eine Vorlage und eine Kopie (oder aus Sicht eines Programmierers: wie Klasse und Instanz). Nach der Erstellung ist die Kopie unabhängig, d.h. sie kann verändert werden und ändert sich nicht automatisch, wenn sich das Template ändert.  
+Templates are products designed to serve as a blueprint for further products. From a technical point of view, templates are identical to products. All products are either a template or a copy of a template \(or in programming terms, a class or an instance\). A copy is independent from the template after it has been created, so it can be edited as a singular product and will not be changed when the template is edited.
 
-Es empfiehlt sich, thematisch zusammengehörige Templates in jeweils separaten Produktlinien zu organisieren.  
+It is recommended to organize thematically connected templates together in one product line, using different product lines for each theme.
+
