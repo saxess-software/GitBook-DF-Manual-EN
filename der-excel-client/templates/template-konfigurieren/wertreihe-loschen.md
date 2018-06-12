@@ -1,28 +1,28 @@
-#### *Wertreihe löschen*  
+#### _Deleting a Value Series_
 
-Um eine Wertreihe zu löschen, gehen Sie wie folgt vor:
+To delete a value series, proceed as follows:
 
-1) Klicken Sie in der Spalte, die Sie löschen wollen auf den ActionLink in der Zeile **Aktion**.  
-
+1\) Click on the ActionLink in the column you wish to delete.
 
 ---
+
 ![](/assets/t19.png)
 
 --
 
-2) Klicken Sie auf die Option **Wertreihe löschen**.  
+2\) Click on the option **Delete Value Series**.
 
 ---
+
 ![](/assets/t20.png)
 
 --
 
-3) Die Wertreihe ist nun gelöscht.  
+3\) The value series has now been deleted.
 
 ---
+
 ![](/assets/t21.png)
 
 --
-
-
 

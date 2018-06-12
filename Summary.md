@@ -59,7 +59,7 @@
     * [Creating a Template](der-excel-client/templates/template-anlegen.md)
     * [Configuring a Template](der-excel-client/templates/template-konfigurieren.md)
       * [Creating a New Value Series](der-excel-client/templates/template-konfigurieren/neue-wertreihe-anlegen.md)
-      * [Wertreihe löschen](der-excel-client/templates/template-konfigurieren/wertreihe-loschen.md)
+      * [Deleting a Value Series](der-excel-client/templates/template-konfigurieren/wertreihe-loschen.md)
       * [Wertereihe kopieren](der-excel-client/templates/template-konfigurieren/wertereihe-kopieren.md)
       * [Wertereihe verschieben](der-excel-client/templates/template-konfigurieren/wertereihe-verschieben.md)
       * [Werttyp definieren](der-excel-client/templates/template-konfigurieren/werttyp-definieren.md)
