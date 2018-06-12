@@ -1,40 +1,46 @@
-#### *Wertreihe verschieben*  
+#### _Moving a Value Series_
 
-Um eine Wertreihe zu verschieben, gehen Sie wie folgt vor:  
+To move a value series, proceed as follows:
 
-1) Klicken Sie in der Spalte, die Sie verschieben wollen auf den ActionLink in der Zeile **Aktion**.  
-
----
-![](/assets/t22.png)  
-
----  
-
-2) Klicken Sie auf die Option **Ausschneiden**.  
+1\) Click on the ActionLink in the **Action** row in the column you wish to move. 
 
 ---
-![](/assets/t26.png)  
 
----  
-
-3) Die Wertereihe wird markiert.
+![](/assets/t22.png)
 
 ---
-![](/assets/t27.png)  
 
----  
-
-4) Klicken Sie in der Spalte, in die Sie die Wertreihe verschieben auf den ActionLink in der Zeile **Aktion** und klicken Sie auf die Option **Davor einfügen**, wenn Sie die Spalte vor die gewählte Spalte verschieben wollen oder klicken Sie auf die Option **Danach einfügen**, wenn Sie die Spalte nach der gewählten Spalte einfügen wollen.  
+2\) Click on the **Cut** option.
 
 ---
-![](/assets/t28.png)  
 
----  
-
-5) Klicken Sie auf die Schaltfläche **Speichern**, um Ihre Änderung zu sichern.  
+![](/assets/t26.png)
 
 ---
-![](/assets/t29.png)  
 
----  
+3\) The value series is now highlighted.
+
+---
+
+![](/assets/t27.png)
+
+---
+
+4\) In the column you wish to move, click on the ActionLink in the **Action** row and then click on the option **Add before** if you wish to move the column in front of the marked column, or the option** Add after** if you wish to move the column behind the marked column.
+
+---
+
+![](/assets/t28.png)
+
+---
+
+5\) Click on the **Save** button to save your changes.
+
+---
+
+![](/assets/t29.png)
+
+---
+
 
 
