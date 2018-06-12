@@ -34,5 +34,5 @@
 
 ---
 
-
+5\) Click on the **Save** button to save your copies.
 
