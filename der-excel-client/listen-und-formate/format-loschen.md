@@ -1,20 +1,22 @@
-### Format löschen  
+### Deleting a Format
 
-Um ein Format zu löschen, gehen Sie wie folgt vor:  
+To delete a format, proceed as follows:
 
-1) Klicken Sie auf den ActionLink in der Spalte **Action** des Wertes, den Sie löschen möchten und klicken Sie auf die Option **Löschen**.  
+1\) Click on the ActionLink in the **Action** column of the value you wish to delete and select the **Delete** option.
 
 ---
+
 ![](/assets/lf23.png)
 
 ---
 
-2) Klicken Sie auf **Ja**, um das Format endgültig zu löschen.  
+2\) Click **Yes** to permanently delete the format. 
 
 ---
+
 ![](/assets/lf24.png)
 
 ---
 
-  
+
 
