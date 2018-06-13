@@ -1,33 +1,35 @@
-#### *Kommentare einfügen*
+#### _Adding Comments_
 
-Damit der Benutzer möglichst einfach und schnell ein Verständnis für den Inhalt und die Funktionsweise des Templates erlangt, können Sie über die **Kommentarfunktion** jede einzelne Spalte näher beschreiben.
+To help other users understand the detail und functionalities of a template as quickly and easily as possible, you can describe each specific column via the **Comments** function.
 
-1) Klicken Sie in der gewünschten Spalten auf das **...**-Kontextmenü.
+1\) Click on the **…**-**Context Menu** in the column you wish to add a comment to.
 
 ---
+
 ![](/assets/t67.png)
 
 ---
 
-2) Wählen Sie die Option **Kommentar bearbeiten**.
+2\) Select the **Edit Comment** option.
 
---
+--  
 ![](/assets/t68.png)
 
 --
 
-3) Es öffnet sich das **Kommentarfenster** der entsprechenden Spalte in der Zeile "Name", wo Sie Ihren Text eingeben können. 
+3\) A **Comment window** will open in the row “Name”, in which you can enter your text. 
 
---
+--  
 ![](/assets/t69.png)
 
 --
 
-4) Wenn Sie Ihre Eingabe beendet haben, klicken Sie außerhalb des Kommentarfensters in die Excelmappe.
+4\) When you have finished your entry, click outside the comment window in the Excel sheet.
 
-> **Hinweis**: Dass die Spalte einen Kommentar enthält, erkennen Sie an dem **kleinen roten Dreieck** in der oberen rechten Ecke der Zelle, welchen den Spaltennamen trägt. Wenn Sie mit dem Mauszeiger die Zelle berühren, wird Ihnen automatisch das Kommentarfenster angezeigt.
+> **Note:** A small red triangle visible in the top right corner of the cell containing the column name indicates that the column contains a comment. If you touch the cell with the mouse cursor, the comment will automatically be displayed.
 
---
+--  
 ![](/assets/t70.png)
 
 --
+
