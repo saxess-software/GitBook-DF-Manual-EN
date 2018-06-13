@@ -73,7 +73,7 @@
       * [Adding Comments](der-excel-client/templates/template-konfigurieren/kommentare-einfugen.md)
       * [Using an Excel Formula in a Template](der-excel-client/templates/template-konfigurieren/excel-formel-im-template-verwenden.md)
       * [View](der-excel-client/templates/template-konfigurieren/ansicht.md)
-      * [Globalattribute und IDs verwenden](der-excel-client/templates/template-konfigurieren/globalattribute-und-ids-verwenden.md)
+      * [Calculations Using Global Attributes and IDs ](der-excel-client/templates/template-konfigurieren/globalattribute-und-ids-verwenden.md)
       * [Zeitachse erweitern](der-excel-client/templates/template-konfigurieren/zeitachse-erweitern.md)
     * [Senden und Empfangen](der-excel-client/templates/senden-und-empfangen.md)
     * [Solutions](der-excel-client/templates/solutions.md)

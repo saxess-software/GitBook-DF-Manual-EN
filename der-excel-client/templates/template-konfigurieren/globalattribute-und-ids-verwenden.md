@@ -1,61 +1,69 @@
-#### *Globalattribute und IDs zur Berechnung verwenden*
+#### _Calculations Using Global Attributes and IDs_ 
 
-Die für ein Produkt definierten Globalattributwerte sowie die Fabrik-, Produktlinien- und Produkt-ID stehen Ihnen in den ausgeblendeten Spalten des Templates für eine mögliche Weiterverwendung zur Verfügung. 
+The global attributes defined for a product, as well as factory, product line and product IDs, are available to you in the hidden columns of the template. 
 
-Im folgenden Beispiel sind für einige Produkte Globalattributwerte vergeben worden. Diese Globalattribute sowie die die Fabrik-, Produktlinien- und Produkt-ID sollen im Template selbst als Zellwerte für die Weiterverwendung genutzt werden können.
+In the following example, global attributes have been assigned to some products. These global attributes, as well as the factory, product line and product ID, are to be made available for further uses as cell values in the template itself.
 
 ---
+
 ![](/assets/t62.png)
 
 ---
 
-Im Template werden Ihnen die Globalattributwerte zur Information unterhalb der Kommentarzeile angezeigt. Allerdings können Sie die Werte in dieser Form nicht ohne Weiteres in Formel weiterverwenden.
+In the template, the global attributes will be displayed for your information below the comments bar. However, values in this form cannot be used in formulas.
 
 ---
+
 ![](/assets/t63.png)
 
 ---
 
-Die Globalattributwerte werden im Template noch an einer anderen Stelle ausgewiesen. Diese ist allerdings in der Templatestandardansicht nicht sichtbar bzw. ausgeblendet. Um die Globalattributwerte bzw. die Fabrik-, Produktlinien- und Produkt-ID einzublenden gehen Sie wie folgt vor.
+There is another place where the global attributes can be accessed. However, this is not immediately visible in the standard template view, as it is hidden by default. To display the global attributes and the factory, product line and product ID, proceed as follows:
 
-1) Setzen Sie im Excel-Menüband im Reiter **Ansicht** bei der Option **Überschriften** ein Häckchen. Es werden die Spalten- und Zeilennummerierungen eingeblendet.
+1\) Check the **Titles** box in the **View** tab of the Excel menu bar. The column and row numbers have now been unhidden.
 
 ---
+
 ![](/assets/t59.png)
 
 ---
 
-2) Klicken Sie im Excel-Menüband im Reiter **Überprüfen** auf die Option **Blattschutz aufheben**.
+2\) Click on the option **Remove Worksheet Protection** in the **Inspect** tab of the Excel menu ribbon.
 
 ---
+
 ![](/assets/t60.png)
 
 ---
 
-3) Klicken Sie mit der Maus auf die linke Begrenzungslinie der Spalte D, halten Sie diese gedrückt und ziehen Sie mit gedrückter Maustaste die Spalte nach rechts. Es erscheint die Spalte C.
+3\) Click on the left boundary line of column D, hold the mouse button and drag the column to the right. The column C will appear.
 
 ---
+
 ![](/assets/t61.png)
 
 ---
 
-4) Klicken Sie mit der Maus auf die linke Begrenzungslinie der Spalte C, halten Sie diese gedrückt und ziehen Sie mit gedrückter Maustaste die Spalte nach rechts. Es erscheint die Spalte B.
+4\) Click on the left boundary line of column C, hold the mouse button and drag the column to the right. The column B will appear.
 
 ---
+
 ![](/assets/t64.png)
 
 ---
 
-In der **Zelle B22** finden Sie die Fabrik-ID, in **Zelle B23** die Produktlinien-ID und in **Zelle B24** die Produkt-ID. Ab **Zelle B25** werden Ihnen vertikal absteigend die Globalattributwerte des Produkts angezeigt.
+In the **Cell B22** you can find the factory ID, in **Cell B23** the product line ID and in **Cell B24** the product ID. From **Cell B25** onwards, the global attributes will be displayed in vertically decreasing order.
 
 ---
+
 ![](/assets/t65.png)
 
 ---
 
-Die Globalattributwerte sowie die IDs können Sie wie gewohnt per Zellbezug in Ihre Exelformeln einbinden.
+The global attributes as well as the IDs can be integrated into your Excel formula through cell reference commands.
 
 ---
+
 ![](/assets/t66.png)
 
 ---
