@@ -1,79 +1,91 @@
-#### *Ansicht des Templates/ Produkte definieren*
-Wenn Sie ein Template zum ersten Mal betreten, sind die Ansichtseinstellungen ***Fensterfixierung*** und ***Automatisch zum aktuellen Datum scrollen*** bereits vordefiniert. Sie können diese Voreinstellungen im **...-Kontextmenü** unter [Eigenschaften](../../produktlinie/eigenschaften.md) anpassen.
+#### _Defining the Template/Product View_
 
-**Automatisch zum aktuellen Datum scrollen**
-Wenn Sie sich aktuell im Monat März des Jahres 2017 befinden, springt die Zeitleiste beim Betreten des Templates automatisch in diesen Monat. D.h. die erste Zeile, die Ihnen im Wertebereich angezeigt wird, ist der März 2017, selbst wenn die Zeitleiste Ihres Templates vielleicht schon im Januar 2016 beginnt. Wenn Sie diese automatische Scrollen deaktivieren möchten, gehen Sie wie folgt vor:
+When you access a template for the first time, the view settings **Fixed Window** and **Scroll Automatically to Current Date** will be predefined. You can change these settings in the **…-Context** menu in the **Settings** section.
 
-1) Klicken Sie im Produkt auf das **...-Kontextmenü**.
+**Scroll Automatically to Current Date**. If it is currently March 2017, the timeline will skip to this month when accessing the template. This means that the first row that is displayed to you in the values section is March 2017, even if your timeline begins in January 2016. If you wish to deactivate this feature, proceed as follows:
+
+1\) In the product, click on the **…-Context** menu.
 
 ---
+
 ![](/assets/p47.png)
 
 ---
 
-2) Klicken Sie auf die Option **Eigenschaften**.
+2\) Click on the **Properties** option.
 
 ---
+
 ![](/assets/p54.png)
 
 ---
 
-3) Klicken Sie auf den Reiter **Client**.
+3\) Click on the **Client** tab.
 
 ---
+
 ![](/assets/p55.png)
 
---- 
- 
-4) Entfernen Sie das Häckchen **Automatisch zum aktuellen Datum scrollen** und bestätigen Sie mit **Anwenden**.
+---
+
+4\) Uncheck the box **Scroll Automatically to Current Date** and confirm by clicking the **Apply** button.
 
 ---
+
 ![](/assets/p56.png)
 
 ---
 
-**Fensterfixierung**
-Wenn Sie im Wertebereich hoch oder runter, nach rechts oder nach links scrollen, ist stets nur der Überschriften- und der Zeitleistenbereich fixiert. Sie können Ihre Ansichtseinstellungen aber auch so definieren, dass bspw. auch die erste Spalte oder die ersten beiden Zeilen im Wertebereich fixiert sind und Ihnen während des Scrollvorgangs stets angezeigt werden. Gehen Sie dazu wie folgt vor:
- 
-1) Klicken Sie im Produkt auf das **...-Kontextmenü**.
+**Fixed Window Option**  
+If you scroll up, down, left or right in the values section, only the title and timeline area will be fixed. However, you can define your view settings in a way that, for example, the first column or the first two columns will be fixed and always displayed in the values section while scrolling.
+
+1\) In the product, click on the **…-Context** menu.
 
 ---
+
 ![](/assets/p47.png)
 
 ---
 
-2) Klicken Sie auf die Option **Eigenschaften**.
+2\) Click on the **Properties** option.
 
 ---
+
 ![](/assets/p54.png)
 
 ---
 
-3) Klicken Sie auf den Reiter **Client**.
+3\) Click on the **Client** tab.
 
 ---
+
 ![](/assets/p55.png)
 
 ---
 
-4) Geben Sie die Anzahl der Spalten und Zeilen ein, um die Sie die Fixierung gegenüber der der Ausgangsposition verschieben möchten und klicken Sie auf **Anwenden**.
+4\) Enter the number of rows and columns by which you wish to move the fixed area in relation to its initial position. Click on **Apply**.
 
 ---
+
 ![](/assets/p58.png)
 
 ---
 
-5) Die neue Fixierung wurde auf das Template angewendet.
+5\) The new fixation settings have now been applied to the template.
 
 ---
+
 ![](/assets/p59.png)
 
 ---
 
-> **Hinweis**: Sie erkennen den Fixierungsbereich an den dünnen grauen horizontalen und vertikalen Linien.
+> **Note:** You can identify the fixed area by slim gray horizontal and vertical lines.
 
 ---
+
 ![](/assets/p60.png)
 
 ---
+
+
 
