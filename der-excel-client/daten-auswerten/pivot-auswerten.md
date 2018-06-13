@@ -1,50 +1,58 @@
-### Pivot Auswertung  
+### Pivot Evaluation 
 
-Pivot Auswertungen lassen sich in DataFactory Werksebene, Fabrikebene und auf der Ebene der Produktlinien erstellen und beinhalten alle Informationen der gewählten sowie der darunterliegenden Ebenen.  
+Pivot evaluations can be set up on DataFactory work, factory and product line levels, and contain all information of the selected work, factory or product line as well as that of the levels below. 
 
-Bei einer http-Verbindung wird bei der Erstellung einer Pivot Auswertung eine .csv-Datei mit allen numerischen Werten generiert, die in den Produkten der gewählten Hierarchieebene erfasst sind. Die .csv-Datei wird im Ordner csv im Quellverzeichnis Ihrer DataFactory abgespeichert. Falls Sie eine DataFactory-Datenbank auf Ihrem eigenen SQL-Server nutzen, wird eine Verbindung in Excel hinterlegt, die sich direkt über den Server aktualisiert.
+When an http-connection is created, a .csv file is generated with all numeric values recorded in the products of the selected hierarchical level. The .csv file is saved in the csv folder in the source directory of your DataFactory. If you are using a DataFactory database on your own SQL server, a connection with Excel will be established that updates directly over the server.
 
-#### Pivot Auswertung auf Werksebene  
+#### Pivot Evaluation on the Work Level
 
-Um eine Pivot-Auswertung auf Werksebene zu erstellen, gehen Sie wie folgt vor:  
+To create a pivot evaluation on the work level, proceed as follows:
 
-1) Klicken Sie in der Übersicht Fabriken und Produktlinien auf den ActionLink. wählen Sie die Option **Pivot Ansicht**.  
-
----
-![](/assets/lf1.png) 
+1\) In the factory and product overview, click on the ActionLink. 
 
 ---
 
-2) Wählen Sie die Option **Pivot Ansicht**.  
+![](/assets/lf1.png)
 
 ---
+
+2\) Select the **Pivot View** option.
+
+---
+
 ![](/assets/piv1.png)
 
 ---
 
-3) Falls Sie eine DataFactory-Datenbank auf Ihrem eigenen SQL-Server nutzen, öffnet sich automatisch die Pivot-Ansicht. Nutzen Sie allerdings eine http-Verbindung, öffnet sich ein Dialogfeld, wo sie aus folgenden Optionen auswählen können.
+3\) If you are using a DataFactory Database on your own SQL server, the pivot view will open automatically. If you are using an http-connection, a dialog box will open in which you can choose from the following options:
 
 ---
+
 ![](/assets/piv2.png)
 
 ---
 
-|Auswahl|Beschreibung|
-|-|-|
-|CSV für numerische Werte herunterladen und Pivot-Tabelle herunterladen|Eine .csv-Datei wird heruntergeladen und im DataFactory-Ordner **"csv"** abgelegt. In Ihrer Excel-Mappe wird ein neues Tabellenblatt angelegt, welches die Pivot-Tabelle enthält.|
-|CSV für numerische Werte herunterladen|Eine .csv-Datei wird heruntergeladen und im DataFactory-Ordner **"csv"** abgelegt.|
-|Pivot-Tabelle aus lokaler CSV erstellen|Der DataFactory-Ordner **"csv"** öffnet sich und Sie können eine .csv-Datei auswählen, die Sie in Ihrer Excelmappe anzeigen lassen wollen.|
+| Selection | Description |
+| --- | --- |
+| Download CSV for numeric values and download pivot table | A .csv file will be downloaded and saved in the DataFactory folder "csv". A new spreadsheet containing the pivot table will be created in your Excel folder. |
+| Download CSV for numeric values | A .csv file will be downloaded and saved in the DataFactory folder “**csv**”. |
+| Generate pivot table from local CSV | The DataFactory “**csv**” will open. You may then select a .csv file to show in your Excel folder.  |
 
 ---
+
 ![](/assets/piv4.png)
 
 ---
 
-4) In der Pivot-Tabelle werden Ihnen alle Werte über alle Fabriken und Produktlinien hinweg angezeigt.
+4\) All values for all factories and product lines will be displayed in the pivot table. 
 
 ---
+
 ![](/assets/piv3.png)
 
 ---
 
-> **Hinweis**: Sie können sich Ihre Pivot Tabelle frei nach Ihren Wünschen gestalten und anpassen.  
+> **Note:** The pivot table can be customized according to your preferences.
+
+
+

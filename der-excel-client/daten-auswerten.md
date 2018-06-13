@@ -1,5 +1,6 @@
-## Daten auswerten  
+## Evaluating Data
 
-DataFactory bietet eine Vielzahl von Möglichkeiten, Daten auszuwerten. Standardmäßig in jeder DataFactory implementiert ist die Möglichkeit, Daten direkt über Pivot Tabellen und Pivot Diagramme auszuwerten.  
+DataFactory offers many options for evaluating data. The option to evaluate data directly over pivot tables and pivot diagrams is implemented in every DataFactory by default. 
 
-Darüber hinaus können Daten aus DataFactory individuell über gesonderte ReportingMappen oder durch die Anbindung an dritte System ausgewertet werden.  
+Data from DataFactory can also be evaluated using separate **Reporting Portfolios** or by connecting a third system. 
+
