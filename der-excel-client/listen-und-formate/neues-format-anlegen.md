@@ -1,47 +1,53 @@
-### Neues Format anlegen  
+### Creating a New Format
 
-Um ein neues Format anzulegen, gehen Sie wie folgt vor:  
+To create a new format, proceed as follows:
 
-1) Gehen Sie zur Übersicht Fabriken und Produktlinien und klicken Sie auf den ActionLink.  
-
----
-![](/assets/lf1.png) 
+1\) Navigate to the factories and product lines overview and click on the ActionLink.
 
 ---
 
-2) Klicken Sie auf die Option **Formate editieren**.  
+![](/assets/lf1.png)
 
 ---
+
+2\) Click on the **Edit Formats** option.
+
+---
+
 ![](/assets/lf18.png)
 
 ---
 
-3) Klicken Sie auf die Schaltfläche **Neues Format**.  
- 
+3\) Click on the **New Format** button.
+
 ---
+
 ![](/assets/lf19.png)
 
 ---
 
-4) Geben Sie in der Spalte **FormatID** eine FormatID ein.  
+4\) Enter a Format ID in the column **FormatID**.
 
 ---
+
 ![](/assets/lf20.png)
 
 ---
 
-> **Hinweis**: Achten Sie bei der Eingabe auf die Verwendung des korrekten Präfixes.  
+> **Note:** Make sure you use the correct prefixes.
 
-5) Wählen Sie in der Spalte **BackColor** ggf. eine Hintergrundfarbe, FontColor eine Schriftfarbe und bestimmen Sie in der Spalte **ValueFormat** ggf. ein Anzeigeformat ein.  
+5\) In the column **BackColor**, select, if applicable, a background color or font color. In the **ValueFormat** column, select a display format \(if applicable\).
 
 ---
+
 ![](/assets/lf21.png)
 
 ---
 
-6) Klicken Sie auf die Schaltfläche **Speichern**, um das neue Format zu speichern.  
+6\) Click on the **Save **button to save your changes.
 
 ---
+
 ![](/assets/lf22.png)
 
 ---

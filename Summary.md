@@ -80,7 +80,7 @@
   * [Lists and Formats](der-excel-client/listen-und-formate.md)
     * [Creating a New List](der-excel-client/listen-und-formate/neue-listen-anlegen.md)
     * [Deleting a List](der-excel-client/listen-und-formate/liste-loschen.md)
-    * [Neues Format anlegen](der-excel-client/listen-und-formate/neues-format-anlegen.md)
+    * [Creating a New Format](der-excel-client/listen-und-formate/neues-format-anlegen.md)
     * [Format löschen](der-excel-client/listen-und-formate/format-loschen.md)
   * [Datenerfassung](der-excel-client/datenerfassung.md)
     * [Manuelle Eingabe](der-excel-client/datenerfassung/manuelle-eingabe.md)
