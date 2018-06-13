@@ -1,23 +1,30 @@
-### *Geänderte Werte anzeigen*
-Wenn Sie in einem Produkt Werte neu eingetragen, geändert oder gelöscht haben, können Sie sich die vorgenommenen Änderungen anzeigen lassen
+### Showing Changed Values
 
-1) Klicken Sie im Produkt auf das **...-Kontextmenü**.
+If you have entered, changed or deleted values within a product table, you may choose to display the changes made.
+
+1\) Click on the **…-Context Menu** within the product.
 
 ---
+
 ![](/assets/p47.png)
 
 ---
 
-2) Wählen Sie **Geänderte Werte**.
+2\) Select the **Changed Values** option.
 
 ---
+
 ![](/assets/p50.png)
 
 ---
 
-3) Alle Zellen, in denen Sie Änderungen vorgenommen haben, sind nun **orange** markiert.
+3\) All cells in which you have made changes will be highlighted in **orange**.
 
 ---
+
 ![](/assets/p51.png)
 
 ---
+
+
+
