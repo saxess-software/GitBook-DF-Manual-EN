@@ -1,13 +1,13 @@
 ### Solutions
 
-Solutions sind branchenspezifische Musterlösung für DataFactory und beinhalten eine Reihe von vordefinierten Templates für ausgewählte Anwendungsfälle.  
-Derzeit existieren Solutions für folgende Anwendungsbereiche:
+Solutions are sector-specific model solutions for DataFactory and contain a variety of pre-defined templates for selected applications.  
+Currently solutions are available for the following applications:
 
-* Personalverwaltung
-* Vertragsverwaltung  
-* Kreditverwaltung 
-* Fuhrparkverwaltung
-* Windparkverwaltung
+* Personnel management
+* Contract management
+* Credit management
+* Vehicle fleet management
+* Wind farm management
 
-Weitere Solutions sind in der kontinuierlichen Entwicklung.
+Further solutions will continue to be developed.
 
