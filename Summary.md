@@ -71,7 +71,7 @@
       * [Changing the Column \(Value Series\) Width](der-excel-client/templates/template-konfigurieren/spaltenbreite-andern.md)
       * [Hiding a Column \(Value Series\)](der-excel-client/templates/template-konfigurieren/spalten-ausblenden.md)
       * [Adding Comments](der-excel-client/templates/template-konfigurieren/kommentare-einfugen.md)
-      * [Excel-Formel im Template verwenden](der-excel-client/templates/template-konfigurieren/excel-formel-im-template-verwenden.md)
+      * [Using an Excel Formula in a Template](der-excel-client/templates/template-konfigurieren/excel-formel-im-template-verwenden.md)
       * [Ansicht](der-excel-client/templates/template-konfigurieren/ansicht.md)
       * [Globalattribute und IDs verwenden](der-excel-client/templates/template-konfigurieren/globalattribute-und-ids-verwenden.md)
       * [Zeitachse erweitern](der-excel-client/templates/template-konfigurieren/zeitachse-erweitern.md)
