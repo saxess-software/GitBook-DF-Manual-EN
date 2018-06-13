@@ -88,7 +88,7 @@
     * [FlexSearch](der-excel-client/datenerfassung/flexsuche.md)
     * [Comments](der-excel-client/datenerfassung/bemerkungen.md)
     * [Showing Changed Values](der-excel-client/datenerfassung/geanderte-werte-anzeigen.md)
-    * [Zellkommentare](der-excel-client/datenerfassung/zellkommentare.md)
+    * [Cell Comments](der-excel-client/datenerfassung/zellkommentare.md)
   * [Daten auswerten](der-excel-client/daten-auswerten.md)
     * [Pivot auswerten](der-excel-client/daten-auswerten/pivot-auswerten.md)
   * [Import und Export](der-excel-client/import-und-export.md)

@@ -1,18 +1,24 @@
-### *Zellkommentare*
-Wenn Sie Werte im Wertebereich eines Produkts pflegen, können Sie in den Zellen, in denen Sie Werte eingetragen haben, Kommentare hinzufügen.
+### Cell Comments
 
-1) Klicken Sie mit der rechten Maustaste in die Zelle, in der Sie bereits einen Wert eingetragen haben. Es öffnet sich ein Menü, in dem Sie die Option ** Kommentar bearbeiten** wählen.
+If you add values in the values section of a product, you may choose to add comments to the cells with the new data.
+
+1\) Right-click inside the cells in which you have newly entered a value. A menu will open. Select the **Edit Comment** option.
 
 ---
+
 ![](/assets/p52.png)
 
 ---
 
-2) Die Zelle erhält eine rote Markierung in der rechten oberen Ecke und es öffnet sich das Kommentarfeld, in welches Sie hineinklicken und Ihren Kommentar eintragen.
+2\) A red mark will appear in the upper right corner of the cell, and a comment field will open. If you click inside this field, you can enter a comment.
 
 ---
+
 ![](/assets/p53.png)
 
 ---
 
-> **Hinweis**: Um das Kommentarfeld zu schließen, klicken Sie in irgendeine Zelle des Wertebereichs. Um sich den Kommentar in einer Zelle anzeigen zu lassen, setzen Sie den Mauszeiger auf die entsprechende Zelle (ohne Klicken).
+> **Note:** To close the comment field, click on any cell in the values section. To show a comment in a cell, move the mouse cursor over the selected cell \(without clicking\).
+
+
+
