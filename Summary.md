@@ -66,7 +66,7 @@
       * [Changing IDs](der-excel-client/templates/template-konfigurieren/ids-andern.md)
       * [Change Origin](der-excel-client/templates/template-konfigurieren/herkunft-andern.md)
       * [Changing \(Economic\) Effect](der-excel-client/templates/template-konfigurieren/effekt-andern.md)
-      * [Werteliste hinzufügen](der-excel-client/templates/template-konfigurieren/werteliste-hinzufugen.md)
+      * [Adding a Value List](der-excel-client/templates/template-konfigurieren/werteliste-hinzufugen.md)
       * [Werteformat ändern](der-excel-client/templates/template-konfigurieren/werteformat-andern.md)
       * [Spaltenbreite ändern](der-excel-client/templates/template-konfigurieren/spaltenbreite-andern.md)
       * [Spalten ausblenden](der-excel-client/templates/template-konfigurieren/spalten-ausblenden.md)
