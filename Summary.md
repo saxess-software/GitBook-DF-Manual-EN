@@ -69,7 +69,7 @@
       * [Adding a Value List](der-excel-client/templates/template-konfigurieren/werteliste-hinzufugen.md)
       * [Changing the Value Format](der-excel-client/templates/template-konfigurieren/werteformat-andern.md)
       * [Changing the Column \(Value Series\) Width](der-excel-client/templates/template-konfigurieren/spaltenbreite-andern.md)
-      * [Spalten ausblenden](der-excel-client/templates/template-konfigurieren/spalten-ausblenden.md)
+      * [Hiding a Column \(Value Series\)](der-excel-client/templates/template-konfigurieren/spalten-ausblenden.md)
       * [Kommentare einfügen](der-excel-client/templates/template-konfigurieren/kommentare-einfugen.md)
       * [Excel-Formel im Template verwenden](der-excel-client/templates/template-konfigurieren/excel-formel-im-template-verwenden.md)
       * [Ansicht](der-excel-client/templates/template-konfigurieren/ansicht.md)

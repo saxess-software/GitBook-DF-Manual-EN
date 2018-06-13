@@ -1,22 +1,26 @@
-#### *Spalte (Wertreihe) ausblenden*  
+#### _Hiding a Column \(Value Series\)_
 
-Sie können Wertreihen ausblenden, sodass diese bei eingeklappten Details nicht zu sehen ist.  
+You can hide value series so that they will not be displayed by collapsing the details.
 
-Um eine Spalte auszublenden, gehen Sie wie folgt vor:  
+To hide a column, proceed as follows:
 
-1) Gehen Sie zu der Wertreihe, die Sie ausblenden wollen und wählen Sie in der Zeile **Sichtbarkeitsstufe** den Wert „0“.   
+1\) Navigate to the value series you wish to hide and select “0” in the row **Visibility level**.
 
 ---
+
 ![](/assets/t42.png)
 
 ---
 
-2) Klicken Sie auf die Schaltfläche **Speichern**, um Ihre Auswahl zu speichern.  
+2\) Click on the **Save** button to save your selection.
 
 ---
+
 ![](/assets/t43.png)
 
 ---
 
-> **Hinweis**: Wenn Sie einen Wertebereich markieren, der sowohl sichtbare als auch unsichtbare Spalten enthält, werden beim Löschvorgang nur die Werte in den sichtbaren Spalten entfernt.
+> **Note:** If you highlight a values section which contains visible and hidden columns, only the visible columns will be deleted during a deletion process.
+
+
 
