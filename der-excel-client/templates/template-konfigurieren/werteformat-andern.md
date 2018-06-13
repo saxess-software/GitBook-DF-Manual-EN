@@ -1,20 +1,24 @@
-#### *Werteformat ändern* 
+#### _Changing the Value Format_
 
-Um das Werteformat einer Wertereihe zu ändern, gehen Sie wie folgt vor:  
+To change the value format of a value series, proceed as follows:
 
-1) Gehen Sie zu der Wertreihe, deren Werteformat Sie ändern möchten, öffnen Sie in der Zeile **Werteformat** das Dropdown Menü und wählen Sie Ihr gewünschtes Werteformat aus.  
+1\) Navigate to the value series of which you wish to change the value format. In the row **Value Format**, open the drop-down menu and select the desired value format.
 
 ---
+
 ![](/assets/t39.png)
 
 ---
 
-> **Hinweis**: Es stehen Ihnen standardmäßig eine Reihe von Werteformaten zur Verfügung. Sie können jedoch auch eigene Werteformate anlegen (vgl. Kap. 3.6).  
+> **Note:** There are several default value formats available for selection. However, you may also add your own value formats \(see chapter 3.6\).
 
-2) Klicken Sie auf die Schaltfläche **Speichern**, um Ihre Auswahl zu speichern.  
+2\) Click on the **Save** button to save your selection.
 
 ---
+
 ![](/assets/t40.png)
 
 ---
+
+
 
