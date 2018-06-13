@@ -1,139 +1,152 @@
-## Neue Liste anlegen  
+## Creating a New List
 
-Um eine neue Liste anzulegen, gehen Sie wie folgt vor:  
+To create a new list, proceed as follows:
 
-1) Gehen Sie zur Übersicht Fabriken und Produktlinien und klicken Sie auf den ActionLink.  
-
----
-![](/assets/lf1.png) 
+1\) Navigate to the factory and product line overview and click on the ActionLink.
 
 ---
 
-2) Klicken Sie auf die Option **Listen editieren**.  
-
----
-![](/assets/lf2.png) 
+![](/assets/lf1.png)
 
 ---
 
-3) Klicken Sie auf die Schaltfläche **Neue Liste**.  
-
----
-![](/assets/lf3.png) 
-
----
- 
-
-4) Geben Sie in der Spalte **ListID** eine ListeID ein.  
-
----
-![](/assets/lf4.png) 
-
----
-  
-
-> **Hinweis**: Achten Sie bei der Eingabe auf die Verwendung des korrekten Präfixes.  
-
-5) Fügen Sie der Liste ggf. weitere Einstellungen hinzu (**NameShort**, **CommentUser**) und ändern Sie ggf. den Datentyp.  
-
- ---
-![](/assets/lf5.png) 
+2\) Click on the **Edit List** option.
 
 ---
 
-6) Klicken Sie auf die Schaltfläche **Speichern**.  
-
----
-![](/assets/lf6.png) 
+![](/assets/lf2.png)
 
 ---
 
-
-7) Die Liste ordnet sich automatisch in die Übersicht der Listen ein.  
-  
----
-![](/assets/lf7.png) 
+3\) Click on the **New List** button.
 
 ---
 
-Sie haben nun eine neue Liste angelegt. Diese enthält allerdings noch keine Werte.  
-
-
-#### *Werte zu einer Liste hinzufügen*   
-
-Um Werte zu einer Liste hinzuzufügen, gehen Sie wie folgt vor:  
-
-1) Klicken Sie auf die Liste, zu der Sie Werte hinzufügen wollen.  
-
----
-![](/assets/lf7.png) 
+![](/assets/lf3.png)
 
 ---
 
-2) Klicken Sie auf die Schaltfläche **Neuer Eintrag** und geben Sie in der Spalte **ValueText** Ihren neuen Wert ein.  
-
----
-![](/assets/lf9.png) 
+4\) Enter a ListID in the **ListID** column.
 
 ---
 
-3) Geben Sie ggf. in die Spalte **ValueComment** einen Kommentar und in die Spalte **FormatID** das gewünschte Format ein.  
-
----
-![](/assets/lf8.png) 
+![](/assets/lf4.png)
 
 ---
 
-4) Klicken Sie auf die Schaltfläche **Speichern**.  
+> **Note:** Make sure you use the correct prefixes.
 
----
-![](/assets/lf11.png) 
-
----
-
-#### *Werte aus einer Liste löschen*   
-
-Um Werte aus einer Liste zu löschen, gehen Sie wie folgt vor:  
-
-1) Klicken Sie auf die Liste, aus der Sie Werte löschen wollen.  
-
----
-![](/assets/lf7.png) 
+5\) Configure further options \(**NameShort, CommentUser**\) and change the data type if required.
 
 ---
 
-2) Klicken Sie auf den ActionLink des Wertes, den Sie löschen möchten und klicken Sie auf die Option **Löschen**.  
-
----
-![](/assets/lf12.png) 
+![](/assets/lf5.png)
 
 ---
 
-3) Klicken Sie auf **Ja**, um den Wert endgültig zu löschen.  
-
----
-![](/assets/lf13.png) 
+6\) Click on the **Save** button.
 
 ---
 
-> **Hinweis**: Wenn Sie einen Wert löschen, der an irgendeiner Stelle Ihrer Factory verwendet wird, so bleibt der Wert bestehen. Das Löschen eines Wertes aus einer Liste hat keinen Einfluss auf seine bisherige Verwendung.  
-
-#### *Liste verwenden*
-
-Nachdem Sie die Liste angelegt und die Listenwerte definiert haben, können Sie die Liste in Ihren Templates/ Produkten und Ihren Globalattributen verwenden.
-
-* **in Templates/ Produkten über Wertelisten**
+![](/assets/lf6.png)
 
 ---
+
+7\) The list will be automatically sorted into the list overview.
+
+---
+
+![](/assets/lf7.png)
+
+---
+
+A new list has now been created. At this time, it does not yet contain any values.
+
+#### _Adding Values to a List_
+
+To add values to a list, proceed as follows:
+
+1\) Click on the list to which you wish to add values.
+
+---
+
+![](/assets/lf7.png)
+
+---
+
+2\) Click on the **New Entry** button and enter the new value into the **ValueText** column.
+
+---
+
+![](/assets/lf9.png)
+
+---
+
+3\) If required, enter a comment into the **ValueComment** column and the desired format into the **FormatID** column.
+
+---
+
+![](/assets/lf8.png)
+
+---
+
+4\) Click on the **Save **button.
+
+---
+
+![](/assets/lf11.png)
+
+---
+
+#### _Deleting Values from a List_
+
+To delete values from a list, proceed as follows:
+
+1\) Click on the list from which you wish to delete values.
+
+---
+
+![](/assets/lf7.png)
+
+---
+
+2\) Click on the ActionLink of the value you wish to delete and select the **Delete** option.
+
+---
+
+![](/assets/lf12.png)
+
+---
+
+3\) Click **Yes** to permanently delete the value.
+
+---
+
+![](/assets/lf13.png)
+
+---
+
+> **Note:** If you delete a value that is currently in use by a factory, the value within the factory will not be affected. The deletion of a value from a list has no bearing on the previous application of the value.
+
+#### _Using a List_
+
+Once a list has been created and its values defined, the list can be used in your templates/products and in your global attributes. 
+
+* **in Templates/ Products via Value Lists**
+
+---
+
 ![](/assets/lf14.png)
 
 ---
 
-* **in Globalattributen**
+* **in Global Attributes**
 
 ---
+
 ![](/assets/lf15.png)
 
 ---
 
-   
+
+
