@@ -1,38 +1,42 @@
-#### *(betriebswirtschaftlichen) Effekt ändern*  
+#### Changing \(Economic\) Effect
 
-Der Effekt beschreibt das betriebswirtschaftlichen Merkmal, das ein Wert innehat.
+This effect desribes the economic feature which contains a value.
 
-| Einstellung | Beschreibung |
-| : | :|
-| Aktivbestand | Wert geht in die Bilanzaktiva ein |
-| Auszahlung | Reine Auszahlung |
-| Einzahlung | Reine Einzahlung|
-| Ertrag | Einzahlungsunwirksamer Ertrag |
-| Ertrag=Einzahlung | Einzahlungswirksamer Ertrag |
-| Hilfswert| Reiner Hilfswert, dient der Zwischenberechnung |
-| Kosten| Auszahlungsunwirksame Kosten|
-| Kosten=Auszahlung| Auszahlungswirksame Kosten|
-| Menge| Gibt die mengenmäßige Veränderung an |
-| Passivbestand| Wert geht in die Bilanzpassiva ein |
-| Stück| Anzahl |
-| Text| Textwert|
-| Überschrift| Reine Überschrift|
+| Setting | Description |
+| --- | --- |
+| Asset | Value will be added to the balance sheet assets |
+| Outpayment | Outpayment only |
+| Inpayment | Inpayment only |
+| Returns | Return invalid for payment |
+| Returns=Inpayment | Return valid for payment |
+| Support Value | Value used only as support for intermediate calculations |
+| Costs | Costs invalid for outpayment |
+| Costs=Outpayment | Costs valid for outpayment |
+| Amount | Displays the amount of change |
+| Liabilities | Value will be added to the liabilities |
+| Quantity | Number detailing quantity |
+| Text | Text value |
+| Title | Title only |
 
-Um den betriebswirtschaftlichen Effekt einer Wertreihe zu ändern, gehen Sie wie folgt vor:  
+To change the economic effect of a value series, proceed as follows:
 
-1) Gehen Sie zu der Wertreihe, deren Effekt Sie ändern möchten, öffnen Sie in der Zeile **Effekt** das Dropdown Menü und wählen Sie Ihren gewünschten Effekt aus.  
+1\) Navigate to the value series of which you wish to change the effect. Open the drop-down menu in the Effect row and select the desired effect.
 
 ---
+
 ![](/assets/t36.png)
 
 ---
 
-> **Hinweis**: Eine Beschreibung der betriebswirtschaftlichen Effekte finden Sie in Kapitel 3.5.2.  
+> **Note:** A description of the economic effect can be found in chapter 3.5.2.
 
-2) Klicken Sie auf die Schaltfläche **Speichern**, um Ihre Auswahl zu speichern.  
+2\) Click on the Save button to **save** your selection.
 
- ---
+---
+
 ![](/assets/t35.png)
 
 ---
+
+
 
