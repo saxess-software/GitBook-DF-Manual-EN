@@ -1,185 +1,210 @@
-### Dateneingabe mittels Rechner   
+### Data Entry by Calculator
 
-In DataFactory haben Sie die Möglichkeit, Ihre Daten komfortabel über einen Rechner einzugeben. Der Rechner bietet folgende Rechenoperationen.  
+Data in DataFactory can be comfortably added via a calculator. The calculator offers the following operations:
 
-|Rechenoperation|Beschreibung|
-| - | -: |
-|**=**|Fügt den angegebenen Wert in die markierte/n Zelle/n ein.|
-|**+**|Addiert den eingegebenen Wert zu jedem Wert in der/den markierten Zelle/n hinzu.|
-|**-**|Subtrahiert den eingegebenen Wert von jedem Wert in der/den markierten Zelle/n.|
-|*****|Multipliziert den eingegebenen Wert mit jedem Wert in der/den markierten Zelle/n.|
-|**/**|Dividiert jeden Wert in der/den markierten Zelle/n mit dem eingegebenen Wert.|
-|**Gleichverteilung**|Verteilt den eingegebenen Wert im gleichen Verhältnis auf die markierte/n Zelle/n.|
-|**Verhältnis**|Verteilt den eingegebenen Wert im Verhältnis der derzeit markierten Werte.|
+| Operation | Description |
+| --- | ---: |
+| **=** | Places the entered value into the highlighted cell\(s\) |
+| **+** | Adds the entered value to each value in the highlighted cell\(s\) |
+| **-** | Subtracts the entered value from each value in the highlighted cell\(s\) |
+| **\*** | Multiplies each value in the highlighted cell\(s\) by the entered value |
+| **/** | Divides each value in the highlighted cell\(s\) by the entered value |
+| **Equal Distribution** | Distributes the entered value equally over the highlighted cell\(s\) |
+| **Proportionate Distribution** | Distributes the entered value in proportion to the values in the highlighted cell\(s\) |
 
-#### *Einfügen von Werten (=)* 
+#### _Entering Values \(=\)_
 
-Um Werte mit Hilfe des Rechners einzufügen, gehen Sie wie folgt vor: 
+To enter values with the help of the calculator, proceed as follows:
 
-1) Öffnen Sie den Rechner, indem Sie mit der rechten Maustaste in ein Feld des Wertebereichts klicken.
+1\) Open the calculator by right-clicking in a field on the values section.
 
 ---
+
 ![](/assets/d3.png)
 
 ---
 
-2) Geben Sie im Feld **Wert** den Wert ein, den Sie einfügen wollen.  
+2\) In the **Value** field, type in the value you wish to enter.
 
 ---
+
 ![](/assets/d4.png)
 
 ---
 
-3) Markieren Sie die Zellen, in den Sie den Wert einfügen wollen und klicken Sie auf den Button **=**.  
+3\) Highlight the cells into which you wish to enter the value and click on the = button.
 
 ---
+
 ![](/assets/d5.png)
 
 ---
 
-4) Der eingegebene Wert wird jedem Wert in den markierten Zellen eingefügt.  
+4\) The highlighted cells will be populated with the entered value.
 
 ---
+
 ![](/assets/d6.png)
 
 ---
 
-#### *Addition (+)*
+#### _Addition \(+\)_
 
-Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:  
+To add values with the help of the calculator, proceed as follows:
 
-1) Geben Sie im Feld **Wert** den Wert ein, den Sie Addieren wollen. 
+1\) In the **Value** field, enter the value you wish to add.
 
 ---
+
 ![](/assets/d7.png)
 
 ---
 
-2) Markieren Sie die Zellen, zu denen Sie den Wert addieren wollen und klicken Sie auf den Button **+**.  
-   
+2\) Highlight the cells to which you wish to add the entered value and click on the + button.
+
 ---
+
 ![](/assets/d8.png)
 
 ---
-3) Der eingegebene Wert wird jedem Wert in den markierten Zellen hinzu addiert.  
+
+3\) The entered value will be added to each value in the highlighted cells.
 
 ---
+
 ![](/assets/d9.png)
 
 ---
 
-#### *Subtraktion (-)*  
+#### _Subtraction \(-\)_
 
-1) Geben Sie im Feld **Wert** den Wert ein, den Sie subtrahieren wollen.  
+1\) Enter the value you wish to subtract in the **Value** field.
 
 ---
+
 ![](/assets/d10.png)
 
 ---
 
-2) Markieren Sie die Zellen, von denen Sie den Wert subtrahieren wollen und klicken Sie auf den Button **-**.  
+2\)  Highlight the cells from which you wish to subtract the entered value and click on the – button.
 
 ---
+
 ![](/assets/d11.png)
 
---- 
+---
 
-3) Der eingegebene Wert wird von jedem Wert in den markierten Zellen subtrahiert.  
+3\) The entered value will be subtracted from each value in the highlighted cells.
 
 ---
+
 ![](/assets/d12.png)
 
 ---
 
-#### *Multiplikation ( ** )* 
+#### _Multiplication \( \*\* \)_
 
-1) Geben Sie im Feld **Wert** den Wert ein, mit dem Sie multiplizieren wollen.   
+1\) Enter the value by which you wish to multiply in the **Value** field.
 
 ---
+
 ![](/assets/d13.png)
 
 ---
 
-2) Markieren Sie die Zellen, die mit dem Wert multipliziert werden sollen und klicken Sie auf den Button *.  
+2\) Highlight the cells you wish to multiply the entered value and click on the \* button.
 
 ---
+
 ![](/assets/d14.png)
 
----  
+---
 
-3) Der eingegebene Wert wird mit jedem Wert in den markierten Zellen multipliziert.  
+3\) The values in the highlighed cells will be multiplied by the entered value.
 
 ---
+
 ![](/assets/d15.png)
 
 ---
- 
-### *Division (/)* 
 
-1) Geben Sie im Feld **Wert** den Wert ein, durch den Sie dividieren wollen.  
+### _Division \(/\)_
+
+1\) Enter the value by which you wish to divide in the **Value** field.
 
 ---
+
 ![](/assets/d16.png)
 
 ---
-2) Markieren Sie die Zellen, die durch den Wert dividiert werden sollen und klicken Sie auf den Button **/**.  
+
+2\) Highlight the cells you wish to divide by the entered value and click on the / button.
 
 ---
+
 ![](/assets/d17.png)
 
 ---
 
-3) Jeder der markierten Werte wird durch den eingegebenen Wert dividiert. 
+3\) Each value in the highlighted cells will be divided by the entered value.
 
 ---
+
 ![](/assets/d18.png)
 
 ---
 
-### *Gleichverteilung*  
+### _Equal Distribution_
 
-1) Geben Sie im Feld **Wert** den Wert ein, den Sie gleichverteilen wollen.  
+1\) Enter a value in the **Value** field that you wish to distribute.
 
 ---
+
 ![](/assets/d19.png)
 
 ---
 
-2) Markieren Sie die Zellen, in denen Wert gleichverteilt werden soll und klicken Sie auf den Button **Gleichverteilung**.  
+2\) Highlight the cells into which you wish to distribute the entered value and click the **Distribute Equally** button.
 
- ---
+---
+
 ![](/assets/d20.png)
 
 ---
 
-3) Der eingegebene Wert wird in jede Zelle gleichverteilt. Werte, die sich zuvor in den markierten Zellen befanden, werden überschrieben. 
+3\) The entered value will be distributed equally into each cell. Any values already occupying the highlighted cells will be overwritten.
 
 ---
+
 ![](/assets/d21.png)
 
 ---
 
-### *Verhältnis*  
+### _Proportionate Distribution_
 
-1) Geben Sie im Feld **Wert** den Wert ein, den Sie verteilen wollen.  
+1\) Enter a value in the **Value** field that you wish to distribute.
 
 ---
+
 ![](/assets/d22.png)
 
 ---
 
-2) Markieren Sie die Zellen, deren Verhältnis Sie als Grundlage für die Verteilung nutzen wollen und klicken Sie auf den Button **Verhältnis**.  
+2\) Highlight the cells with the content you wish to use as a basis for the distribution and click on the **Proportionate Distribution** button.
 
 ---
+
 ![](/assets/d23.png)
 
 ---
 
-3) Der eingegebene Wert wird auf Basis des Verhältnisses der markierten Zellen verteilt.  
+3\) The entered value will be distributed proportionately based on the highlighted cells.
 
 ---
+
 ![](/assets/d24.png)
 
 ---
 
-  
+
+
