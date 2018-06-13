@@ -85,7 +85,7 @@
   * [Data Collection](der-excel-client/datenerfassung.md)
     * [Manual Entry](der-excel-client/datenerfassung/manuelle-eingabe.md)
     * [Data Entry by Calculator](der-excel-client/datenerfassung/dateneingabe-mittels-rechner.md)
-    * [FlexSuche](der-excel-client/datenerfassung/flexsuche.md)
+    * [FlexSearch](der-excel-client/datenerfassung/flexsuche.md)
     * [Bemerkungen](der-excel-client/datenerfassung/bemerkungen.md)
     * [Geänderte Werte anzeigen](der-excel-client/datenerfassung/geanderte-werte-anzeigen.md)
     * [Zellkommentare](der-excel-client/datenerfassung/zellkommentare.md)

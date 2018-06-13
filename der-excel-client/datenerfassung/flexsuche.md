@@ -1,36 +1,38 @@
-### *FlexSuche*  
+### _FlexSearch_
 
-Bei der FlexSuche handelt es sich um ein "intelligentes Suchfeld", d.h. ein Suchfeld, welches um eine automatische Vorschlagsliste erweitert wurde. Der Listeninhalt kann von Produkt zu Produkt variieren, da Ihnen nur Inhalte anzeigt werden, die für das ausgewählte Produkt relevant sind.
+FlexSearch utilises a so-called “intelligent search bar”, or a search bar which expands with an automatic list of search suggestions. The list contents vary from product to product, as only content relevant to the selected product is displayed. 
 
-1) Klicken Sie mit der rechten Maustaste in die Zelle, in welche Sie einen Wert mithilfe der FlexSuche einfügen wollen und wählen Sie **FlexSuche**. 
+1\) Right-click inside the cell in which you wish to enter a value with the help of FlexSearch and select the **FlexSearch** option.
 
 ---
+
 ![](/assets/p36.png)
 
 ---
 
-2) Es öffnet sich das FlexSuche-Fenster, in welchem Sie oberhalb eine Zeile für Ihre Sucheingabe finden und darunter einen Bereich, in dem Ihnen die Vorschlagsliste für Ihre Auswahl angezeigt wird.
+2\) The **FlexSearch** window will open, in which you will find a line for your search entry and a scrollable suggestions list to choose from. 
 
 ---
+
 ![](/assets/p37.png)
 
 ---
 
-3) Geben Sie die ersten Zeichen Ihres Suchbegriffs in die Suchzeile ein. Bei einem Treffer werden Ihnen sofort alle möglichen Resultate in der Vorschlagsliste angezeigt.
+3\) Enter the first character of your search term into the search bar. If a match is found, all possible results will be displayed in the suggestions list.
 
 ---
+
 ![](/assets/p39.png)
 
 ---
 
-4) Markieren Sie den gewünschten Begriff in der Liste mit einem einfachen Klick und bestätigen Sie anschließend Ihre Auswahl mit **Anwenden**.
+4\) Click on your desired term and confirm your selection using the **Apply** button.
 
 ---
+
 ![](/assets/p38.png)
 
 ---
 
-5) Ihre Auswahl wird in die markierte Zelle eingefügt.
-
-
+5\) Your selection will be inserted into the selected cell.
 
