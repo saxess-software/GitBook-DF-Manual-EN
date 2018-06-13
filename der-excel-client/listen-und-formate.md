@@ -1,13 +1,14 @@
-## Listen und Formate  
+## Lists and Formats
 
-Listen und Formate werden in DataFactory zentral für ein Werk verwaltet und sind in allen Hierarchieebenen gleichermaßen einsetzbar. Es existieren in DataFactory jeweils 3 Typen von Listen, die jeweils durch ein bestimmtes Präfix gekennzeichnet sind.  
+Lists and formats in DataFactory are centrally managed for each work and can be implemented in all hierarchical levels. Three types of lists exist in DataFactory, each of which is identifiable by a respective prefix.
 
-> **Hinweis**: Legen Sie eigene Listen und Formate immer mit dem Präfix **c** an. 
+> **Note:** Lists and formats must always begin with the prefix c.
 
-|Präfix|Name|Beschreibung|
-|:|:|:|
-|**sx**|Saxess|Listen und Formate mit dem Präfix "sx" stehen für Systemlisten bzw. -formate und werden Saxess-standardmäßig mitgeliefert.|
-|**su**|Solution|Listen und Formate mit dem Präfix "su" stehen für Solutionlisten bzw. -formate. Diese werden mit einzelnen Solutions mitgeliefert.|
-|**c**|Solution|Listen und Formate mit dem Präfix "c" stehen für Customerlisten bzw. -formate und können individuell von Ihnen angelegt werden.|
+| Prefix | Name | Description |
+| --- | --- | --- |
+| **sx** | Saxess | Lists and formats with the prefix “sx” stand for system lists and formats, and are provided by Saxess by default.  |
+| **su** | Solution | Lists and formats with the prefix “su” stand for solution lists and formats. These will be delivered as part of individual solutions. |
+| **c** | Solution | Lists and formats with the prefix “c” stand for customer lists and format. These can be created and customized by the user. |
 
-Wie Sie ihre Listen und Formate verwalten können, erfahren Sie im folgenden Abschnitt.  
+In the next section you will learn how to apply lists and formats.
+

@@ -77,7 +77,7 @@
       * [Expanding the Time Axis](der-excel-client/templates/template-konfigurieren/zeitachse-erweitern.md)
     * [Sending and Receiving Templates](der-excel-client/templates/senden-und-empfangen.md)
     * [Solutions](der-excel-client/templates/solutions.md)
-  * [Listen und Formate](der-excel-client/listen-und-formate.md)
+  * [Lists and Formats](der-excel-client/listen-und-formate.md)
     * [Neue Listen anlegen](der-excel-client/listen-und-formate/neue-listen-anlegen.md)
     * [Liste löschen](der-excel-client/listen-und-formate/liste-loschen.md)
     * [Neues Format anlegen](der-excel-client/listen-und-formate/neues-format-anlegen.md)
