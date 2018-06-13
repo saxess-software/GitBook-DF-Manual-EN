@@ -83,7 +83,7 @@
     * [Creating a New Format](der-excel-client/listen-und-formate/neues-format-anlegen.md)
     * [Deleting a Format](der-excel-client/listen-und-formate/format-loschen.md)
   * [Data Collection](der-excel-client/datenerfassung.md)
-    * [Manuelle Eingabe](der-excel-client/datenerfassung/manuelle-eingabe.md)
+    * [Manual Entry](der-excel-client/datenerfassung/manuelle-eingabe.md)
     * [Dateneingabe mittels Rechner](der-excel-client/datenerfassung/dateneingabe-mittels-rechner.md)
     * [FlexSuche](der-excel-client/datenerfassung/flexsuche.md)
     * [Bemerkungen](der-excel-client/datenerfassung/bemerkungen.md)

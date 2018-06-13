@@ -1,26 +1,32 @@
-### Manuelle Eingabe
+### Manual Entry
 
-Sie können Daten mittels der Eingabe über Ihre Tastatur erfassen, indem Sie die Werte direkt in die gewünschten Zellen eingeben.  
+Data can be manually entered via your keyboard by typing the values directly into the desired cells.
 
 ---
+
 ![](/assets/d1.png)
 
 ---
-  
-Sie können für die Eingabe Ihrer Daten auch Excel-Formeln verwenden.  
+
+Excel formulas can also be used for data entry. 
 
 ---
+
 ![](/assets/d2.png)
 
 ---
-  
-> **Hinweis**: Nur, wenn die Wertreihe bei der Einstellung Herkunft vom Typ XLS oder XLS-Strict definiert ist, bleibt die Formel im Wertebereich bestehen. Andernfalls wird die Formel beim Speichern durch den Wert ersetzt.   
 
-Wenn Sie mit der rechten Maustaste in eine Zelle klicken, haben Sie die Möglichkeit Inhalte auszuschneiden, zu kopieren, einzufügen oder zu löschen. Werte, die Sie in der Zwischenablage gespeichert haben, können Sie über die Auswahl **Einfügen** in die markierte Zelle einfügen.
+> **Note:** The formula will only continue to exist as long as the values section is defined as XLS or XLS-Strict. Otherwise, the formula will be replaced by the value when the data is saved.
+
+If you right-click on a cell, you have the option to cut, copy, paste or delete the contents of the cell. Values copied to the clipboard can be pasted into the highlighted cells using the Paste option.
 
 ---
+
 ![](/assets/p35.png)
 
 ---
 
-> **Hinweis**: Mit der Tastenkombination **Alt + Enter** können Sie innerhalb einer Zelle einen **Zeilenumbruch** einfügen.
+> **Note:** Using the keyboard shortcut Alt + Enter, you can create a line break within a cell.
+
+
+
