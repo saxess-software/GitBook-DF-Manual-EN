@@ -82,7 +82,7 @@
     * [Deleting a List](der-excel-client/listen-und-formate/liste-loschen.md)
     * [Creating a New Format](der-excel-client/listen-und-formate/neues-format-anlegen.md)
     * [Deleting a Format](der-excel-client/listen-und-formate/format-loschen.md)
-  * [Datenerfassung](der-excel-client/datenerfassung.md)
+  * [Data Collection](der-excel-client/datenerfassung.md)
     * [Manuelle Eingabe](der-excel-client/datenerfassung/manuelle-eingabe.md)
     * [Dateneingabe mittels Rechner](der-excel-client/datenerfassung/dateneingabe-mittels-rechner.md)
     * [FlexSuche](der-excel-client/datenerfassung/flexsuche.md)

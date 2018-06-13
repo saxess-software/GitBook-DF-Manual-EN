@@ -1,18 +1,20 @@
-## Datenerfassung  
+## Data Collection
 
-DataFactory bietet verschiedene Möglichkeiten der Datenerfassung. Die Datenerfassung erfolgt im Wertebereich der DataFactory.  
+DataFactory offers several methods of collecting data. Data collection is carried out in the values section of DataFactory.
 
 ---
+
 ![](/assets/t7.png)
 
 ---
 
-Sie können die Daten:
+Data can be entered into the values section by:
 
-* manuell über Ihre Tastatur oder über Kopieren und Einfügen
-* mithilfe des Rechners
-* unter Verwendung der FlexSuche
+* manually using your keyboard, or by copying and pasting
+* with the help of a calculator
+* by use of FlexSearch.
 
-in den Wertebereich eingeben.
+> **Note: **All data collected by the user is only temporarily saved in the web browser. Is is copied into the database when you click on the **Save** button.
 
-> **Hinweis**: Alle von Ihnen erfassten Daten sind zunächst nur temporär in Excel gespeichert. Erst wenn Sie auf die Schaltfläche **Speichern** klicken, werden die Daten in die Datenbank übertragen.  
+
+
