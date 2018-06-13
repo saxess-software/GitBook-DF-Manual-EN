@@ -79,7 +79,7 @@
     * [Solutions](der-excel-client/templates/solutions.md)
   * [Lists and Formats](der-excel-client/listen-und-formate.md)
     * [Creating a New List](der-excel-client/listen-und-formate/neue-listen-anlegen.md)
-    * [Liste löschen](der-excel-client/listen-und-formate/liste-loschen.md)
+    * [Deleting a List](der-excel-client/listen-und-formate/liste-loschen.md)
     * [Neues Format anlegen](der-excel-client/listen-und-formate/neues-format-anlegen.md)
     * [Format löschen](der-excel-client/listen-und-formate/format-loschen.md)
   * [Datenerfassung](der-excel-client/datenerfassung.md)

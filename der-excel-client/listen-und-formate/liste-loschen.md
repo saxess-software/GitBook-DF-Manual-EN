@@ -1,19 +1,22 @@
-### Liste löschen 
+### Deleting a List
 
-Um eine Liste zu löschen, gehen Sie wie folgt vor:  
+To delete a list, proceed as follows:
 
-1) Klicken Sie auf den ActionLink der Liste, die Sie löschen wollen und klicken Sie auf die Option **Löschen**.  
+1\) Click on the ActionLink of the list you wish to delete and select the **Delete** option.
 
 ---
+
 ![](/assets/lf16.png)
 
 ---
 
-2) Klicken Sie auf **Ja**, um die Liste zu löschen.  
+2\) Click **Yes** to delete the list.
 
 ---
+
 ![](/assets/lf17.png)
 
 ---
+
 
 
