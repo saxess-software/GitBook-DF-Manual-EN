@@ -1,115 +1,126 @@
-### Templates senden und empfangen
+### Sending and Receiving Templates
 
-Templates dienen als Vorlage für Produkte. Sie verhalten sich zueinander wie eine Vorlage und eine Kopie. Nach der Erstellung ist die Kopie unabhängig, d.h. sie kann verändert werden und ändert sich nicht automatisch, wenn sich das Template ändert. 
+Templates serve as blueprints for products. The template and the new product may be understood as an original and a copy. After a copy is created, it is independent from the original. This means that it can be changed without changing the template, and that it will not be changed when the template is edited.
 
-Mit der Funktion **Templates senden** und **Templates empfangen** haben Sie die möglich Änderungen an Ihren Templates/Vorlagen vorzunehmen und diese Änderungen an die entsprechenden Produkten zu vererben.
+With the **Send Templates** and **Receive Templates** functions you have the option to edit templates and pass these changes on to the associated products.
 
-**Vererbt werden**:
+**The following edits will be passed on:**
 
-* Formatänderungen
-* Änderungen der Berechnungslogik
-* Änderungen der Sichtbarkeitsstufe, des Datentyps, der Herkunft, der Skalierung und des Effekts
-* Änderungen in der Spaltenbreite
-* Änderungen am Spaltenname und -ID
-* Änderungen der Zeitachse
-* gelöschte und hinzugefügte Spalten
+* Changes in format
+* Changes in algorithms and logic
+* Changes in visibility levels, data type, origin, scaling and economic effect
+* Changes in column width
+* Changes in column name and ID
+* Changes to the time axis
+* Deleted and added columns
 
-> **Hinweis**: Im Produkt manuell eingegebene Daten werden nicht gelöscht oder überschrieben.
+> **Note:** Data entered into the product manually will not be deleted or overwritten.
 
-#### Template empfangen
+#### Receiving a Template
 
-Sie können für ein Produkt definieren, von welchem Template es alle Eigenschaften und Logiken übernehmen soll.
+For each product, you can define from which template all its settings and logics are to be taken over.
 
-1) Klicken Sie auf den ActionLink Ihres ausgewählten Produkts und wählen Sie **Template empfangen**.
+1\) Click on the ActionLink of your selected product and select **Receive Template**. 
 
 ---
+
 ![](/assets/t47.png)
 
 ---
 
-2) In dem sich öffnenden Fenster wird Ihnen das Zielprodukt angezeigt, welches das Template empfangen soll.
+2\) In the opened window, the product which will receive the template is displayed.
 
 ---
+
 ![](/assets/t48.png)
 
 ---
 
-3) Wählen Sie über die Dropdown-Felder das Template aus, welches auf das ausgewählte Produkt ausgerollt werden soll.
+3\) Select the template you wish to apply to the selected product via the drop-down menus.
 
 ---
+
 ![](/assets/t49.png)
 
 ---
 
-4) Standardmäßig werden bei dieser Funktion die Spalten im Template und im Produkt anhand der Spalten-ID identifiziert und die Spalten, welche über die gleichen ID verfügen, hinsichtlich Änderungen miteinander verglichen. Wenn Sie die Identifizierung allerdings anhand des Spaltennamens durchführen wollen, setzen Sie bei **Anhand des Namens statt der ID vergleichen** ein Häkchen.
+4\) In this function, by default, the columns in the template and in the product will be identified based on the column IDs, and the columns with these same IDs are then compared to each other with regard to the changes. Should you wish to execute the identification process based on the column names, check the box **Compare by Name Instead of ID**.
 
 ---
+
 ![](/assets/t50.png)
 
 ---
 
-5) Klicken Sie auf **Anwenden**. Das Produkt hat nun die Eigenschaften des Templates übernommen.
+5\) Click on **Apply**. The product has now taken on the properties of the template.
 
 ---
+
 ![](/assets/t51.png)
 
 ---
 
-#### Template senden
+#### Sending a Template
 
-Sie können ein Template auswählen und dessen Eigenschaften und Logiken an ein oder mehrere Produkte übergeben.
+You may choose a template and apply its properties and logic to one or more products.
 
-1) Klicken Sie auf den ActionLink Ihres ausgewählten Templates und wählen Sie **Template senden**.
+1\) Click on the ActionLink of your chosen template and select** Send Template**%%.
 
 ---
+
 ![](/assets/t52.png)
 
 ---
 
-2) In dem sich öffnenden Fenster wird Ihnen das Template angezeigt, welches als Quelle verwendet werden soll
+2\) A window will open displaying the template you have chosen to use as a source. 
 
 ---
+
 ![](/assets/t53.png)
 
 ---
 
-3) Wählen Sie über die Reiter aus, ob Sie das Template an ein einzelnes Produkt (**Single**) oder an mehrere Produkte (**Multi**) vererben wollen.
+3\) In the tab, choose whether the template is to be applied to one product \(**Single**\) or multiple products \(**Multi**\).
 
 ---
+
 ![](/assets/t54.png)
 
 ---
 
-3.1) Wenn Sie das Template nur an ein einzelnes Produkt senden wollen, wählen Sie über das Dropdown-Menü im Reiter **Single** das entsprechende Produkt aus.
+3.1\) Should you wish to send the template to a single product, select the product in the drop-down menu of the **Single** tab. 
 
 ---
+
 ![](/assets/t55.png)
 
 ---
 
-3.2) Wenn Sie das Template an mehrere Produkte senden wollen, müssen Sie über das Dropdown-Menü im Reiter **Multi** auswählen, an welche Fabrik, an welche Produktlinie und an welche Template-Arten Sie das Template vererben wollen.
+3.2\) Should you wish to send the template to multiple products, open the drop-down menu from the **Multi** tab. You must then select the factory, product line and template types to which you wish to send the template. 
 
-> **Hinweis**: Wenn Sie ein Feld frei lassen, bedeutet das, dass Sie alle auswählen. D.h. wenn Sie bspw. als Fabrik "BK-Vertragsverwaltung" wählen, die Produktlinie und das Template aber frei lassen, vererben Sie das Template an alle Produkte in allen Produktlinien der Fabrik "BK-Vertragsverwaltung".
+> **Note:** If one of these fields is left empty, it means that all factories, product lines, or template types will be selected. For example, if you enter “BK-Vertragsverwaltung” as a factory but leave the product line and template fields empty, the template will be applied to all products in all product lines of the factory “BK-Vertragsverwaltung”.
 
 ---
+
 ![](/assets/t56.png)
 
 ---
 
-4) Standardmäßig werden bei dieser Funktion die Spalten im Template und im Produkt anhand der Spalten-ID identifiziert und die Spalten, welche über die gleichen ID verfügen, hinsichtlich Änderungen miteinander verglichen. Wenn Sie die Identifizierung allerdings anhand des Spaltennamens durchführen wollen, setzen Sie bei **Anhand des Namens statt der ID vergleichen** ein Häkchen.
+4\) In this function, by default, the columns in the template and in the product are identified with regard to the column ID, and the columns possessing the same ID will be compared with each other with respect to their changes. Should you wish to execute the identification process based on the column names, check the box **Compare by Name Instead of ID**. 
 
 ---
+
 ![](/assets/t58.png)
 
 ---
 
-5) Klicken Sie auf **Anwenden**. Das Produkt hat nun die Eigenschaften des Templates übernommen.
+5\) Click on **Apply**. The properties of the template have now been applied to the product.
 
 ---
+
 ![](/assets/t57.png)
 
 ---
-
 
 
 
