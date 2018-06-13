@@ -68,7 +68,7 @@
       * [Changing \(Economic\) Effect](der-excel-client/templates/template-konfigurieren/effekt-andern.md)
       * [Adding a Value List](der-excel-client/templates/template-konfigurieren/werteliste-hinzufugen.md)
       * [Changing the Value Format](der-excel-client/templates/template-konfigurieren/werteformat-andern.md)
-      * [Spaltenbreite ändern](der-excel-client/templates/template-konfigurieren/spaltenbreite-andern.md)
+      * [Changing the Column \(Value Series\) Width](der-excel-client/templates/template-konfigurieren/spaltenbreite-andern.md)
       * [Spalten ausblenden](der-excel-client/templates/template-konfigurieren/spalten-ausblenden.md)
       * [Kommentare einfügen](der-excel-client/templates/template-konfigurieren/kommentare-einfugen.md)
       * [Excel-Formel im Template verwenden](der-excel-client/templates/template-konfigurieren/excel-formel-im-template-verwenden.md)
