@@ -1,248 +1,268 @@
-## Import und Export
+## Importing and Exporting 
 
-Sie haben die Möglichkeit, sowohl Templates bzw. Produkte als auch komplette Produktlinien oder Fabriken im Excel-Client zu exportieren und zu importieren.
+Templates and products, as well as entire factories and product lines, can be imported and exported in the Excel client.
 
-### *1) Import und Export eines Templates/Produktes*
+### _1\) Importing and Exporting Templates/Products_
 
 #### Export
 
-Der Export von Templates/Produkten findet auf Produktebene statt. 
+The export of templates/products takes place on the product level.
 
-1) Öffnen Sie das Produkt, welches Sie exportieren möchten und klicken Sie auf den ActionLink.
+1\) Open the product you wish to export and click on the ActionLink.
 
 ---
+
 ![](/assets/ex1.png)
 
 ---
 
-2) Wählen Sie **Exportieren**.
+2\) Select **Export**
 
 ---
+
 ![](/assets/ex2.png)
 
 ---
 
-3) Es öffnet sich ein Fenster, in dem Sie auswählen können, wo und unter welchem Namen das Produkt gespeichert werden soll. Darüber hinaus müssen Sie angeben, ob Sie das Produkt als .pfe-Datei oder als .sql-Datei speichern wollen.
+3\) A window will open in which you can choose where and with what name the product will be saved. Furthermore, you are required to select whether you wish to save the product as a .pfe or .sql file.
 
-Wenn Sie die Datei im Excel-Client wieder importieren wollen, speichern Sie die Datei als .pfe-Datei. Wenn Sie die Datei in Ihrem SQL Management Studio öffnen und weiterverwenden möchten, speichern Sie die Datei als .sql-Datei.
+If you intend to import the file again in the Excel client, save the file as a .pfe-file. If you wish to use and open the file in your SQL Management Studio, save it as an .sql-file.
 
 ---
+
 ![](/assets/ex3.png)
 
 ---
 
 #### Import
 
-Der Import von Templates/Produkten findet auf Werksebene statt. 
+The import of templates/products takes place on the work level.
 
-1) Klicken Sie auf Werksebene auf den ActionLink.
+1\)  Click on the ActionLink on the work level.
 
 ---
+
 ![](/assets/ex4.png)
 
 ---
 
-2) Wählen Sie **Importieren**.
+2\) Select **Import**.
 
 ---
+
 ![](/assets/ex5.png)
 
 ---
 
-3) Es öffnet sich ein Fenster für den Import. Klicken Sie zunächst auf **Datei öffnen**, um das zu importierende Template/Produkt auszuwählen.
+3\) A window for the import function will open. Click on **Open File** to select the template/product you wish to import.
 
 ---
+
 ![](/assets/ex6.png)
 
 ---
 
-4) Wählen Sie das Template/Produkt (.pfe-Datei) aus, welche Sie importieren möchten und klicken Sie auf **OK**.
+4\) Choose the template/product \(.pfe-file\) you wish to import and click on **OK**.
 
 ---
+
 ![](/assets/ex7.png)
 
 ---
 
-5) Das Import-Fenster wird befüllt und eine Zielstruktur automatisch vorgegeben. Diese Zielstruktur können Sie über die Dropdown-Menüs und das Eingabefeld anpassen. Klicken Sie dann auf **Anwenden**.
+5\) The import window will be filled and a destination structure automatically assigned. This destination structure can be customized via the drop-down menus and the entry field. Click on **Apply** to complete the import.
 
 ---
+
 ![](/assets/ex8.png)
 
 ---
 
-6) Das Template/Produkt wurde in die von Ihnen vorgegebene Zielstruktur importiert.
+6\) The template/product has been imported into the selected destination structure.
 
-### *2) Import und Export einer Produktlinie*
+### _2\) Importing and Exporting Product Lines_
 
 #### Export
 
-Der Export von Produktlinien findet auf Werks- oder Produktlinienebene statt. 
+The export of product lines takes place on either the work or product line level.
 
 **Option A**
 
-1) Öffnen Sie die Produktlinie, welches Sie exportieren möchten und klicken Sie auf den ActionLink.
+1\) Open the product line you wish to export and click on the ActionLink. 
 
 ---
+
 ![](/assets/ex9.png)
 
 ---
 
-2) Wählen Sie **Exportieren**.
+2\) Click on **Export**.
 
 ---
+
 ![](/assets/ex10.png)
 
 ---
 
-3) Es öffnet sich ein Fenster, in dem Sie auswählen können, wo und unter welchem Namen das Produkt gespeichert werden soll. Darüber hinaus müssen Sie angeben, ob Sie das Produkt als .pfe-Datei oder als .sql-Datei speichern wollen.
+3\) A window will open in which you can choose where and with what name the product will be saved. Furthermore, you are required to select whether you want to save the product as a .pfe or .sql-file.
 
-Wenn Sie die Datei im Excel-Client wieder importieren wollen, speichern Sie die Datei als .pfe-Datei. Wenn Sie die Datei in Ihrem SQL Management Studio öffnen und weiterverwenden möchten, speichern Sie die Datei als .sql-Datei.
+If you intend to import the file again in the Excel client, save the file as a .pfe-file. If you wish to use and open the file in your SQL Management Studio, save it as an .sql-file.
 
 ---
+
 ![](/assets/ex11.png)
 
 ---
 
 **Option B**
 
-1) Klicken Sie in der Ansicht *Fabriken und Produktlinien* auf den **...-ActionLink**.
+1\) Click on the **…-ActionLink** in the Factory and Product Lines view. 
 
 ---
+
 ![](/assets/ex12.png)
 
 ---
 
-2) Wählen Sie **Exportieren**.
+2\) Select **Export**.
 
 ---
+
 ![](/assets/ex13.png)
 
 ---
 
-3) Es öffnet sich ein Fenster, in dem Sie auswählen können, wo und unter welchem Namen die Produktlinie gespeichert werden soll. Darüber hinaus müssen Sie angeben, ob Sie das Produkt als .pfe-Datei oder als .sql-Datei speichern wollen.
+3\) A window will open in which you can choose where and with what name the product line will be saved. Furthermore, you are required to select whether you wish to save the product as a .pfe or .sql-file.
 
-Wenn Sie die Datei im Excel-Client wieder importieren wollen, speichern Sie die Datei als .pfe-Datei. Wenn Sie die Datei in Ihrem SQL Management Studio öffnen und weiterverwenden möchten, speichern Sie die Datei als .sql-Datei.
+If you intend to import the file again in the Excel client, save the file as a .pfe-file. If you wish to use and open the file in your SQL Management Studio, save it as an .sql-file.
 
 ---
+
 ![](/assets/ex11.png)
 
 ---
 
 #### Import
 
-Der Import von Produktlinien findet auf Werksebene statt. 
+The import of product lines takes place on the work level.
 
-1) Klicken Sie auf Werksebene auf den ActionLink.
+1\) Click on the ActionLink in the work level.
 
 ---
+
 ![](/assets/ex4.png)
 
 ---
 
-2) Wählen Sie **Importieren**.
+2\) Select **Import**.
 
 ---
+
 ![](/assets/ex5.png)
 
 ---
 
-3) Es öffnet sich ein Fenster für den Import. Klicken Sie zunächst auf **Datei öffnen**, um die zu importierende Produktlinie auszuwählen.
+3\) A window for the import function will open. Click on **Open File** to select the product lines you wish to import. 
 
 ---
+
 ![](/assets/ex6.png)
 
 ---
 
-4) Wählen Sie die Produktlinie (.pfe-Datei) aus, welche Sie importieren möchten und klicken Sie auf **OK**.
+4\) Choose the product lines \(.pfe-file\) you wish to import and click on **OK**.
 
 ---
+
 ![](/assets/ex14.png)
 
 ---
 
-5) Das Import-Fenster wird befüllt und eine Zielstruktur automatisch vorgegeben. Diese Zielstruktur können Sie über die Dropdown-Menüs und das Eingabefeld anpassen. Klicken Sie dann auf **Anwenden**.
+5\) The import window will be filled and a destination structure automatically assigned. This destination structure can be customized via the drop-down menus and the entry field.  Click on **Apply** to complete the import.
 
 ---
+
 ![](/assets/ex15.png)
 
 ---
 
-6) Die Produktlinie wurde in die von Ihnen vorgegebene Zielstruktur importiert.
+6\) The product lines have now been imported into the selected destination structure.
 
-
-### *3) Import und Export einer Fabrik*
+### _3\) Importing and Exporting Factories_
 
 #### Export
 
-Der Export von Fabriken findet auf Werksebene statt. 
+The export of factories takes place on a work level.
 
-1) Klicken Sie in der Ansicht *Fabriken und Produktlinien* auf den **...-ActionLink**.
+1\) Click on the **…-ActionLink** in the Factory and Product Lines view.
 
 ---
+
 ![](/assets/ex16.png)
 
 ---
 
-2) Wählen Sie **Exportieren**.
+2\) Select **Export**.
 
 ---
+
 ![](/assets/ex17.png)
 
 ---
 
-3) Es öffnet sich ein Fenster, in dem Sie auswählen können, wo und unter welchem Namen das Produkt gespeichert werden soll. Darüber hinaus müssen Sie angeben, ob Sie die Fabrik als .pfe-Datei oder als .sql-Datei speichern wollen.
+3\) A window will open in which you can choose where and with what name the product will be saved. Furthermore, it is required to select whether you want to save the product as .pfe or .sql-file.
 
-Wenn Sie die Datei im Excel-Client wieder importieren wollen, speichern Sie die Datei als .pfe-Datei. Wenn Sie die Datei in Ihrem SQL Management Studio öffnen und weiterverwenden möchten, speichern Sie die Datei als .sql-Datei.
+If you wish to import the file in the Excel client, save the file as a .pfe-file. If you wish to use and open the file in your SQL Management Studio, save it as a .sql-file.
 
 ---
+
 ![](/assets/ex18.png)
 
 ---
 
 #### Import
 
-Der Import von Fabriken findet auf Werksebene statt. 
+The import of factories takes place on the work level.
 
-1) Klicken Sie auf Werksebene auf den ActionLink.
+1\) Click on the ActionLink on the work level. 
 
 ---
+
 ![](/assets/ex4.png)
 
 ---
 
-2) Wählen Sie **Importieren**.
+2\) Select **Import**.
 
 ---
+
 ![](/assets/ex5.png)
 
 ---
 
-3) Es öffnet sich ein Fenster für den Import. Klicken Sie zunächst auf **Datei öffnen**, um die zu importierende Fabrik auszuwählen.
+3\)  A window for the import function will open. Click on **Open File** to choose the factory you wish to import.
 
 ---
+
 ![](/assets/ex6.png)
 
 ---
 
-4) Wählen Sie die Fabrik (.pfe-Datei) aus, welche Sie importieren möchten und klicken Sie auf **OK**.
+4\) Select the factory \(.pfe-file\) you wish to import and click on **OK**.
 
 ---
+
 ![](/assets/ex19.png)
 
 ---
 
-5) Das Import-Fenster wird befüllt und eine Zielstruktur automatisch vorgegeben. Diese Zielstruktur können Sie über die Dropdown-Menüs und das Eingabefeld anpassen. Klicken Sie dann auf **Anwenden**.
+5\) The import window will be filled and a destination structure will be automatically assigned. This destination structure can be customized via the drop-down menus and entry fields. Click on **Apply** to complete the import. 
 
 ---
+
 ![](/assets/ex20.png)
 
 ---
 
-6) Die Fabrik wurde in die von Ihnen vorgegebene Zielstruktur importiert.
-
-
-
-
-
-
+6\) The factory has been imported into the selected destination structure.
 
