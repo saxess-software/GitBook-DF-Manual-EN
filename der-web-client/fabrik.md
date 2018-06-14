@@ -1,4 +1,4 @@
-## Fabrik
+## Factory
 
-Alle Fabriken, die im Excel-Client für ein Werk definiert wurden und für die Sie Zugriffsrechte erhalten haben, werden Ihnen angezeigt. Im Web-Client können Sie Fabriken weder hinzufügen noch löschen noch bearbeiten.
+All factories that have been defined in the Excel client for a work, and to which you have access permissions, will be displayed. In the web client you can neither add, edit nor delete factories.
 

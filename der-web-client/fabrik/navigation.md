@@ -1,8 +1,9 @@
 ### Navigation
 
-Durch Klick auf den Dropdown-Pfeil links neben einer Fabrik werden Ihnen die zugeordneten Produktlinien angezeigt.
+By clicking on the drop-down arrow to the left of a factory, the associated product lines will be displayed.
 
 ---
+
 ![](/assets/f1.png)
 
 ---
@@ -11,14 +12,13 @@ Durch Klick auf den Dropdown-Pfeil links neben einer Fabrik werden Ihnen die zug
 
 ---
 
-Durch Klick auf eine Fabrik werden Ihnen darunter die zugeordneten Produktlinien angezeigt und es öffnet sich im Wertebereich die **Pivot-Ansicht**. In den folgenden Kapiteln wird beschrieben, wie Sie die verschiedenen Funktionalitäten der Pivot-Ansicht nutzen können, um aussagekräftige Berichte zu kreieren.
+By clicking on a factory, the associated product lines will be displayed below the factory and the **Pivot View** will open in the values section. How to use the various functionalities of the pivot view to create concise reports will be explained in the following chapters.
 
 ---
+
 ![](/assets/f3.png)
 
 ---
 
-Hinter den Namen der Fabriken finden Sie in Klammern stehend die ID der Fabriken.
-
-
+After the name of each factory, the factory ID will be shown in brackets. 
 
