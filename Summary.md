@@ -95,7 +95,7 @@
   * [Designing DataFactory on the Drawing Board](der-excel-client/datafactory-auf-dem-reissbrett.md)
 * [The Web Client](der-web-client.md)
   * [Overview](der-web-client/ubersicht.md)
-  * [Zugang](der-web-client/zugang.md)
+  * [Access](der-web-client/zugang.md)
   * [Werk](der-web-client/werk.md)
   * [Fabrik](der-web-client/fabrik.md)
     * [Navigation](der-web-client/fabrik/navigation.md)
