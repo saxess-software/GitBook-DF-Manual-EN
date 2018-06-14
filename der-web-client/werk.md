@@ -1,65 +1,74 @@
 ## Werk
 
-#### Allgemein
+#### General
 
-Im Gegensatz zum Excel-Client können Sie sich im Web-Client nur ein einzelnes Werk anzeigen lassen. Die Möglichkeit der Werksübersicht steht Ihnen nur im Excel-Client zur Verfügung.
+In contrast to the Excel client, in the web client you can only have one single work displayed at one time. The work overview is only accessible in the Excel client.
 
 ---
+
 ![](/assets/w1.png)
 
 ---
 
-#### Übersicht eines Werks
+#### Overview of a Work
 
-Nachdem Sie Ihr Werk über den Web-Client aufgerufen haben, sehen Sie in der Eingangsoberfläche die **Navigationsleiste**, die **Konfigurationsleiste** und den **Wertebereich**.
+After accessing your work in the web client, you will see the **navigation bar**, the **configuration bar **and the **values section**.
 
-**1) Navigationsleiste**
+**1\) Navigation bar **
 
-In der Navigationsleiste wird Ihnen die Fabrik- und Produktlinienstrutur angezeigt, welche in Ihrem Werk enthalten ist. Durch Aufklappen einer Fabrik werden Ihnen die darunterliegenden Produktlinien angezeigt.
+In the navigation bar, the factory and product line structure contained within your work will be displayed. If you open a factory, the subordinated product lines will be displayed.
 
 ---
+
 ![](/assets/w3.png)
 
 ---
 
-***Ein- und Ausblenden der Navigationsleiste***
+_**Hiding and Showing the Navigation bar**_
 
-Sie haben die Möglichkeit die Navigationsleiste mit dem Strukturbaum einzuklappen und so das gesamte Browser-Fenster für die Darstellung der Pivottabelle bzw. der Produktlinien- oder Produktansicht zu nutzen.
+You have the option to collapse the navigation bar with the structure tree and use the whole browser window to display the pivot table, or to use the product line or product display.
 
-Klicken Sie dazu in der grauen vertikalen Leiste auf den kleinen Pfeil, der sich in der Mitte der Leiste befindet.
+To do this, click on the small arrow located in the centre of the gray vertical bar.
 
 ---
+
 ![](/assets/wfab2.png)
 
 ---
 
-Um die Navigationsleiste wieder einzublenden klicken Sie wieder auf den kleinen Pfeil in der Mitte der grauen vertikalen Leiste, welche sich nun am äußeren linken Rand des Browser-Fensters befindet.
+To unhide the navigation bar, click on the small arrow in the centre of the gray vertical line, which is now located at the left side of your browser window.
 
 ---
+
 ![](/assets/wfab3.png)
 
 ---
 
-**2) Konfigurationsleiste**
+**2\)  Configuration Bar **
 
-In der Konfigurationsleiste haben Sie die Möglichkeit:
+In the configuration bar you have the option to:
 
-* die Sprache zu ändern (Deutsch, Englisch)
-* sich abzumelden
-* eine Verbindungsdatei herunterzuladen
+* Change the language \(German, English\)
+* Log out
+* Download a connection file.
 
 ---
+
 ![](/assets/w2.png)
 
 ---
 
-**3) Wertebereich**
+**3\) Values Section **
 
-Im Wertebereich können Sie sich entsprechend Ihrer Auswahl Daten anzeigen lassen und auch Daten auf Produktebene erfassen.
+In the values section you may choose how to display your data, and also collect data on a product level.
 
 ---
+
 ![](/assets/w4.png)
 
 ---
 
-> **Hinweis**: Sie können die Breite von Navigations- und Wertebereich anpassen, indem Sie auf die Trennlinie zwischen beiden Bereichen klicken und mit gedrückter Maustaste die Trennlinie in die gewünschte Richtung ziehen.
+> **Note:** You can edit the width of the navigation and values sections by clicking on the separation line between these two areas and dragging the line in the desired direction while holding the mouse button.
+
+
+

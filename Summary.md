@@ -96,7 +96,7 @@
 * [The Web Client](der-web-client.md)
   * [Overview](der-web-client/ubersicht.md)
   * [Access](der-web-client/zugang.md)
-  * [Werk](der-web-client/werk.md)
+  * [Work](der-web-client/werk.md)
   * [Fabrik](der-web-client/fabrik.md)
     * [Navigation](der-web-client/fabrik/navigation.md)
     * [Pivot-Ansicht](der-web-client/fabrik/pivot-ansicht.md)
