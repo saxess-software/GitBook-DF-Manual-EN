@@ -1,74 +1,78 @@
-### Feldliste
+### Field List
 
-Die Feldliste enthält die Elemente, die in die Zeilen-, Spalten- und Datenfelder einer Pivot-Tabelle gezogen werden können.
+The field list contains the elements that may be dragged into the line, column and data fields of a pivot. 
 
 ---
+
 ![](/assets/f5.png)
 
 ---
 
-Der Feldlisten-Bereich unterteilt sich in einen Primär- und einen Sekundärbereich. Je nachdem welches Feld Sie im Primärbereich gewählt haben, wird Ihnen im Sekundärbereich eine andere Auswahl an Feldern angezeigt.
+The field list section is subdivided into a primary and secondary region. The options in the secondary region will change depending on which field you have selected in the primary region. 
 
-#### Primärbereich
+#### Primary Region
 
-Durch die Auswahl eines Feldes im Primärbereich werden die aus der Datenbank ausgelesen Daten bereits vorgefiltert. Die Felder sind Summary, Profit, Cash, Balance, Text und Numeric und ihr Filtermerkmale werden in der untenstehenden Tabelle beschrieben.
+The data from the database will be automatically filtered based on the field you choose in the primary region. The available fields are Summary, Profit, Cash, Balance, Text and Numeric. Their filter characteristics are described in the table below. 
 
-Darüber hinaus wird Ihnen im Primärbereich ein Reiter **Data Factory** angezeigt, der den aktuellen Inhalt der [DataFactory-Homepage](www.datafactory.co) darstellt. 
+In the primary region, a Data Factory%% tab will be shown displaying the current contents of the [DataFactory Homepage](http:\\www.datafactory.co).
 
 ---
+
 ![](/assets/wfab1.png)
 
 ---
 
-|Feld|Filtermerkmal|
-|-|-|
-|Summary|Es werden alle numerischen Werte für die ausgewählte Fabrik angezeigt. Die Auswahl der Sekundärfelder ist bei dieser Option stark reduziert.| 
-|Profit|Es werden alle numerischen Werte für die ausgewählte Fabrik angezeigt, denen der betriebswirtschaftliche Effekt "Ertrag" oder "Kosten" zugeordnet wurde.|
-|Cash|Es werden alle numerischen Werte für die ausgewählte Fabrik angezeigt, denen der betriebswirtschaftliche Effekt "Einzahlung" oder "Auszahlung" zugeordnet wurde.|
-|Balance|Es werden alle numerischen Werte für die ausgewählte Fabrik angezeigt, denen der betriebswirtschaftliche Effekt "Aktivbestand" oder "Passivbestand" zugeordnet wurde.|
-|Text|Es werden alle nicht-numerischen Werte für die ausgewählte Fabrik angezeigt|
-|Numeric|Es werden alle numerischen Werte für die ausgewählte Fabrik angezeigt. Die Auswahl der Sekundärfelder ist bei dieser Option nicht eingeschränkt.|
-|DataFactory|Es wird der Inhalt der [DataFactory-Homepage](www.datafactory.co) angezeigt.|
+| Field | Characteristics |
+| --- | --- |
+| Summary | All numeric values for the selected factory will be shown. The selection of secondary fields is greatly limited by this option.  |
+| Profit | All numeric values for the selected factory that have been sorted into the economic effects “**Income**” or “**Costs**” will be shown.  |
+| Cash | All numeric values for the selected factory that have been sorted into the economic effects “Inpayment” or “Outpayment” will be shown. |
+| Balance | All numeric values for the selected factory that have been sorted into the economic effects “**Assets**” or “**Liabilities**” will be shown. |
+| Text | All non-numeric values for the selected factory will be shown. |
+| Numeric | All numeric values for the selected factory will be shown. The selection of secondary fields is not limited by this option. |
+| DataFactory | The contents of the [DataFactory Homepage](http:\\www.datafactory.co) will be shown. |
 
+#### Secondary Region
 
-
-#### Sekundärbereich
-
-Nach der Auswahl eines Feldes im Primärbereich stehen Ihnen im Sekundärbereich verschiedene Felder zur Verfügung, die Sie als Zeilen-, Spalten- und Datenfelder in Ihrer Pivot-Tabelle verwenden können.
+After selecting a field in the primary region, several fields in the secondary region are available for use as line, column and data fields in your pivot table. 
 
 ---
+
 ![](/assets/f8.png)
 
 ---
 
-##### *Felder ein- und ausblenden*
+##### _Showing and Hiding Fields_
 
-Sie haben die Möglichkeit, die Auswahl an angezeigten Feldern im Sekundärbereich anzupassen. Klicken Sie dazu mit der rechten Maustaste auf das entsprechende Feld und wählen Sie **Ausblenden**
+You have the option to customize the selection of visible fields in the secondary region. To hide a field, right-click on it and select **Hide**. 
 
 ---
+
 ![](/assets/f10.png)
 
 ---
 
-Um ein Feld wieder einzublenden, klicken Sie mit der rechten Maustaste in den Sekundärbereich und wählen Sie **Feldliste einblenden**
+To unhide a field, right-click in the secondary region and select **Show Field List**.
 
 ---
+
 ![](/assets/f13.png)
 
 ---
 
-Es öffnet sich ein Fenster, in dem Ihnen alle Felder angezeigt werden, die Sie ausgeblendet haben. 
+A window will open showing all fields that have been hidden.
 
 ---
+
 ![](/assets/f14.png)
 
 ---
 
-Klicken Sie auf das Feld, welches Sie einblenden wollen und ziehen Sie es mit gedrückter linker Maustaste zurück in den Sekundärbereich. Platzieren Sie das Feld an der gewünschten Stelle im Sekundärbereich und lassen Sie die linke Maustaste los. Das Feld wird an dieser Stelle eingefügt.
+Select the field you wish to unhide, and click and drag it back into the secondary region. Place the field in your desired position in the secondary region and release the mouse button. The field will be inserted in your desired position. 
 
 ---
-![](/assets/f15.png)
----
+
+## ![](/assets/f15.png)
 
 
 

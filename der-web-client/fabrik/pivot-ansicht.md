@@ -1,8 +1,9 @@
-### Pivot-Ansicht
+### Pivot View
 
-Die Pivot-Ansicht unterteilt sich in drei verschiedene Bereiche. Diese sind **Feldliste**, **Pivot-Tabelle** und **Pivot-Diagramm**.
+The pivot view is divided into three different areas: the **field list**, the **pivot table** and the **pivot chart**. 
 
 ---
+
 ![](/assets/f4.png)
 
 ---
@@ -10,3 +11,6 @@ Die Pivot-Ansicht unterteilt sich in drei verschiedene Bereiche. Diese sind **Fe
 ![](/assets/f6.png)
 
 ---
+
+
+
