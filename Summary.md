@@ -92,7 +92,7 @@
   * [Evaluating Data](der-excel-client/daten-auswerten.md)
     * [Pivot Evaluation ](der-excel-client/daten-auswerten/pivot-auswerten.md)
   * [Importing and Exporting](der-excel-client/import-und-export.md)
-  * [DataFactory auf dem Reißbrett](der-excel-client/datafactory-auf-dem-reissbrett.md)
+  * [Designing DataFactory on the Drawing Board](der-excel-client/datafactory-auf-dem-reissbrett.md)
 * [Der Web-Client](der-web-client.md)
   * [Übersicht](der-web-client/ubersicht.md)
   * [Zugang](der-web-client/zugang.md)
