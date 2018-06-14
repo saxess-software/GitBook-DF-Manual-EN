@@ -1,16 +1,8 @@
-## Übersicht 
+## Overview
 
-Der Web-Client ist eine Web-Applikation, die Sie mit jeder Art von Webbrowser öffnen können. Die Strukturen und Methodiken des Web-Clients basieren auf den Strukturen und Methodiken, die Sie zuvor im Excel-Client entwickelt haben. Excel-Client und Web-Client greifen auf dieselbe Datenbank zu, weshalb Sie alle Strukturen und Daten, die Sie im Excel-Client finden auch im Web-Client wiederfinden. 
+The web client is a web application that can be opened in any kind of web browser. The structures and methods of the web-cleint are based on the structures and methods you have previously developed in the Excel client. The Excel client and the web client access the same database; therefore, you will find all structures and data from the Excel client in the web client as well.
 
-Im Gegensatz zum Excel-Client können Sie im Web-Client nur Daten erfassen und visualisieren. Das heißt, Sie können im Web-Client keine neuen Fabriken oder Produktlinien anlegen. Im Web-Client können Sie ausschließlich Objekte (Produkte) kreieren und auf Objekten Daten erfassen.
+In contrast to the Excel client, you can only collect and visualize data in the web client. This means that you cannot create new factories or product lines. In the web client you can only create and gather data on objects \(products\).
 
-Sie lernen in den folgenden Kapiteln die gesamten Funktionen und Möglichkeiten des Web-Clients kennen.
-
-
-
-
-
-
-
-
+In the following chapter you will learn about all the functions and capabilities of the web client.
 

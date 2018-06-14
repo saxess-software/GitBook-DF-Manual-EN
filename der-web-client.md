@@ -1,7 +1,8 @@
 ![](/Bilder/Logo.png)
 
-# Der Web-Client
+# The Web Client
 
-Mit dem Excel-Client haben Sie die Modellierung Ihrer Prozesse in DataFactory vorgenommen und die dazugehörigen Strukturen, Methodiken und Daten wurden in Ihrer Datenbank gespeichert. User, die ebenfalls über den Excel-Client verfügen, können sich mit Ihrer Datenbank verbinden und diese Strukturen, Methodiken und Daten entsprechenden Ihrer Berechtigungen abrufen, bearbeiten oder löschen.
+Using the Excel client, you have performed the modelling of your processes in DataFactory, and the corresponding structures, methods and data have been saved to your database. Other users who have access to the Excel client can connect to your database and load, edit or delete these structures, methods and data.
 
-Nun gibt es darüber hinaus auch User, die grundsätzlich Excel als Software nicht nutzen oder User, die temporär keinen Zugang zum Excel-Client auf ihrem Rechner haben. Mit dem Web-Client haben diese Usern die Möglichkeit, auch ohne Excel-Zugang Daten in DataFactory erfassen und visualisieren zu können. 
+There may be users who do not regularly use the Excel software, or users who are currently unable to access the Excel client on their computers. These users can use the web client to collect and visualize data in DataFactory without access to the Excel software.
+
