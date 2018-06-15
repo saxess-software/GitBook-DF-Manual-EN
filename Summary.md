@@ -113,7 +113,7 @@
     * [Navigation](der-web-client/produktlinie/navigation.md)
     * [Product Overview](der-web-client/produktlinie/produktubersicht.md)
       * [Produkttabellenbereich](der-web-client/produktlinie/produktubersicht/produkttabelle.md)
-        * [Gruppieren](der-web-client/produktlinie/produktubersicht/produkttabelle/gruppierung.md)
+        * [Grouping](der-web-client/produktlinie/produktubersicht/produkttabelle/gruppierung.md)
         * [Filtern](der-web-client/produktlinie/produktubersicht/produkttabelle/filter.md)
         * [Verschieben und Ausblenden](der-web-client/produktlinie/produktubersicht/produkttabelle/verschieben-und-ausblenden.md)
         * [Sortieren](der-web-client/produktlinie/produktubersicht/produkttabelle/sortieren.md)

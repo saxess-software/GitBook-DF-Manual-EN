@@ -1,121 +1,138 @@
-### Gruppieren
+### Grouping
 
-#### Gruppierung einfügen
+#### Add Grouping
 
-Die Spaltenüberschriften Ihrer Produkttabelle können als Attribute Ihrer Produkte verstanden werden. Indem Sie Spaltenüberschriften aus Ihrer Produkttabelle in die Gruppierungsfeld ziehen, können Sie Ihre Tabelle nach diesen Attributen gruppieren und mehr Übersichtlichkeit in Produktreihe bringen. Diese Funktion ist bei Tabellen mit einer großen Anzahl an Produkten sehr nützlich.
+The column titles of your product table can be understood as attributes of your products. By pulling column titles from the product table into the grouping field, you can group your table based on these attributes for a better overview of the product line. This function is especially useful in tables with a large number of products.
 
 ---
+
 ![](/assets/wpl7.png)
 
 ---
 
-1) Sie haben zwei Optionen, um Ihre Tabelle nach Attributen zu gruppieren. 
+1\) There are two options for sorting your table by its attributes.
 
 **Option A**:
 
-Klicken Sie mit der linken Maustaste in die Spaltenüberschrift, nach der Sie Ihre Spalte gern gruppieren möchten und halten Sie diese gedrückt. Ziehen Sie nun das ausgewählte Feld in das Gruppierungsfeld und lassen Sie die linke Maustaste los.
+Click and hold the column title by which you wish to group your column. Drag the selected field into the grouping field and release the mouse button. 
 
 ---
+
 ![](/assets/wpl9.png)
 
 ---
 
 **Option B**:
 
-Klicken Sie mit der rechten Maustaste in die Spaltenüberschrift, nach der Sie Ihre Spalte gern gruppieren möchten und wählen Sie aus dem Menü **Nach dieser Spalte gruppieren**. 
+Right-click the column title by which you with to group your column and select the menu option **Group by this Column**.
 
 ---
+
 ![](/assets/wpl15.png)
 
 ---
 
-2) Die Tabelle ist nun nach dem gewünschten Attribut gruppiert.
+2\) The table is now grouped by the selected attribute.
 
 ---
+
 ![](/assets/wpl10.png)
 
 ---
 
-3) Sie haben zwei Optionen, Ihre Gruppierungen auf- und zuzuklappen. 
+3\) There are two options to show or collapse your groupings.
 
-**Option A**: Wenn Sie nur eine einzelne Gruppierung öffnen wollen, klicken Sie auf den kleinen Pfeil links der Gruppierungen. Damit können Sie die Gruppierung aufklappen (und auch wieder zuklappen). 
+**Option A:** To show only one grouping, click on the small arrow to the left of the grouping. This allows you to show or collapse the grouping. 
 
 ---
+
 ![](/assets/wpl11.png)
 
 ---
 
-**Option B**: Wenn Sie alle Gruppierungen auf einmal aufklappen (zuklappen) möchten, klicken Sie mit der rechten Maustaste auf das Attribut und wählen sie **Alles erweitern** (oder **alles zuklappen**)
+**Option B:** To open or collapse all groupings at once, right-click on the attribute and select **Show All** or **Collapse All**.
 
 ---
+
 ![](/assets/wpl44.png)
 
 ---
 
-4) Ihnen werden dann alle Produkte angezeigt, die der ausgewählten Ausprägung des Attributs zugeordnet sind.
+4\) All products corresponding to the expression of the selected attribute will be displayed.
 
 ---
+
 ![](/assets/wpl12.png)
 
 ---
 
-5) Sie können innerhalb der bereits vorgenommenen Gruppierung weitere Untergruppierungen vornehmen. Ziehen Sie dazu wie in Schritt 1 beschrieben die gewünschte Spaltenüberschrift in das Gruppierungsfeld.
+5\) You may choose to further sub-group products below the original grouping. As described in Step 1, click and drag your desired column title into the grouping field. 
 
 ---
+
 ![](/assets/wpl13.png)
 
 ---
+
 ![](/assets/wpl14.png)
 
 ---
 
-#### Gruppierung aufheben
+#### Undo Grouping
 
-1) Sie haben zwei Optionen, um die Gruppierung in Ihrer Tabelle wieder aufzuheben. 
+1\) There are two options to undo the groupings in your table.
 
 **Option A**:
 
-Klicken Sie mit der rechten Maustaste in das Attribut im Gruppierungsfeld und wählen Sie aus dem Menü **Aufheben der Gruppierung**
+Right-click on the attribute in the grouping field and select **Undo Grouping** from the menu. 
 
 ---
+
 ![](/assets/wpl16.png)
 
 ---
 
 **Option B**:
 
-Klicken Sie mit der rechten Maustaste in die Spaltenüberschrift Ihrer Produkttabelle und wählen Sie aus dem Menü **Aufheben der Gruppierung**
+Right-click in the column title of the product table and select **Undo Grouping** from the menu. 
 
 ---
+
 ![](/assets/wpl17.png)
 
 ---
 
-2) Die Gruppierung nach dem ausgewählten Attribut wurde nun aus der Tabelle entfernt.
+2\) The grouping by the chosen attribute has now been removed from the table.
 
 ---
+
 ![](/assets/wpl18.png)
 
 ---
 
-#### Gruppierungsfeld ausblenden
+#### Hiding the Grouping Field
 
-Klicken Sie mit der rechten Maustaste in das Gruppierungsfeld oder in eine Spaltenüberschrift und wählen Sie aus dem Menü **Gruppierungsfeld **
+Right-click in the grouping field or in a column title and select **Grouping Field** from the menu. 
 
 ---
+
 ![](/assets/wpl19.png)
 
 ---
+
 ![](/assets/wpl20.png)
 
 ---
 
-#### Gruppierungsfeld einblenden
+#### Show Grouping Field
 
-Klicken Sie mit der rechten Maustaste in eine Spaltenüberschrift und wählen Sie aus dem Menü **Gruppierungsfeld **
+Right-click in a column title and select **Grouping Field** from the menu. 
 
 ---
+
 ![](/assets/wpl21.png)
 
 ---
+
+
 
