@@ -1,6 +1,6 @@
 ### Design of the Pivot Table
 
-The pivot table is made up of three sections: **line fields**, **column fields** and Line Fields. Each of these sections can be filled with one or more fields from the secondary region of the field list.
+The pivot table is made up of three sections: **line fields**, **column fields** and **data fields**. Each of these sections can be filled with one or more fields from the secondary region of the field list.
 
 ---
 
@@ -8,11 +8,11 @@ The pivot table is made up of three sections: **line fields**, **column fields**
 
 ---
 
-#### _Zeilenfelder_
+#### _Line Fields_
 
-In den BereichLine FieldsLineFieldlenfelder ziehen Sie aus dem Sekundärbereich der Feldliste die Felder, für welche Sie sich gern Werte anzeigen lassen möchten.
+In the line fields section, the fields for which you wish to display data are drawn from the secondary region of the field list. 
 
-1\) Klicken Sie mit der linken Maustaste auf das Feld, welches Sie in den Bereich Zeilenfeld einfügen wollen und halten Sie die Taste gedrückt.
+1\) Using the mouse, click and hold the field you wish to enter into the line field section.
 
 ---
 
@@ -20,7 +20,7 @@ In den BereichLine FieldsLineFieldlenfelder ziehen Sie aus dem Sekundärbereich 
 
 ---
 
-2\) Ziehen Sie das Feld in den Bereich Datenfeld und lassen Sie die linke Maustaste los.
+2\) Drag this field into the data field section and release the mouse button.
 
 ---
 
@@ -28,7 +28,7 @@ In den BereichLine FieldsLineFieldlenfelder ziehen Sie aus dem Sekundärbereich 
 
 ---
 
-> **Hinweis**: Sie können weitere Felder aus dem Sekundärbereich der Feldliste in den Bereich Zeilenfelder ziehen. Gehen Sie dazu wie oben beschrieben vor und platzieren Sie das Feld an der gewünschten Stelle und lassen Sie dann erst die linke Maustaste los. Das Feld wird an dieser Stelle eingefügt.
+> **Note:** Further fields may also be dragged from the secondary region of the field list. To do this, follow the above steps, place the field in the desired position, and release the mouse button. The field will be placed in the desired position.
 
 ---
 
@@ -36,11 +36,11 @@ In den BereichLine FieldsLineFieldlenfelder ziehen Sie aus dem Sekundärbereich 
 
 ---
 
-#### _Spaltenfelder_
+#### _Column Fields_
 
-In den Bereich spaltenfelder ziehen Sie aus dem Sekundärbereich der Feldliste die Felder, für welche Sie sich gern Werte anzeigen lassen möchten.
+In the column fields section, the fields for which you wish to display data are drawn from the secondary region of the field list.
 
-1\) Klicken Sie mit der linken Maustaste auf das Feld, welches Sie in den Bereich Spaltenfeld einfügen wollen und halten Sie die Taste gedrückt.
+1\) Using the mouse, click and hold the field you wish to enter into the column field section.
 
 ---
 
@@ -48,7 +48,7 @@ In den Bereich spaltenfelder ziehen Sie aus dem Sekundärbereich der Feldliste d
 
 ---
 
-2\) Ziehen Sie das Feld in den Bereich Spaltenfeld und lassen Sie die linke Maustaste los.
+2\) Drag this field into the column field area and release the mouse button.
 
 ---
 
@@ -56,7 +56,7 @@ In den Bereich spaltenfelder ziehen Sie aus dem Sekundärbereich der Feldliste d
 
 ---
 
-> **Hinweis**: Sie können weitere Felder aus dem Sekundärbereich der Feldliste in den Bereich spaltenfelder ziehen. Gehen Sie dazu wie oben beschrieben vor und platzieren Sie das Feld an der gewünschten Stelle und lassen Sie dann erst die linke Maustaste los. Das Feld wird an dieser Stelle eingefügt.
+> **Note:** Further fields may also be dragged from the secondary region of the field list. To do this, follow the above steps, place the field in the desired position, and release the mouse button. The field will be placed in the desired position.
 
 ---
 
@@ -64,9 +64,9 @@ In den Bereich spaltenfelder ziehen Sie aus dem Sekundärbereich der Feldliste d
 
 ---
 
-#### _Datenfelder_
+#### _Data Fields_
 
-In den Bereich Datenfelder ziehen Sie aus dem Sekundärbereich der Feldliste die Felder, welche Werte enthalten, die Sie gern aggregieren möchten. Mögliche Felder sind:
+In the data fields section, the fields containing the data you wish to aggregate are drawn from the secondary region of the field list. Possible fields are:
 
 * Profit
 * Cash
@@ -74,7 +74,7 @@ In den Bereich Datenfelder ziehen Sie aus dem Sekundärbereich der Feldliste die
 * Quantity
 * Value
 
-1\) Klicken Sie mit der linken Maustaste auf das Feld, welches Sie in den Bereich Datenfeld einfügen wollen und halten Sie die Taste gedrückt.
+1\) Using the mouse, click and hold the field you wish to enter into the data field section. 
 
 ---
 
@@ -82,7 +82,7 @@ In den Bereich Datenfelder ziehen Sie aus dem Sekundärbereich der Feldliste die
 
 ---
 
-2\) Ziehen Sie das Feld in den Bereich Datenfeld und lassen Sie die linke Maustaste los.
+2\) Drag this field into the data field section and release the mouse button.
 
 ---
 
@@ -90,7 +90,7 @@ In den Bereich Datenfelder ziehen Sie aus dem Sekundärbereich der Feldliste die
 
 ---
 
-> **Hinweis**: Sie können weitere Felder aus dem Sekundärbereich der Feldliste in den Bereich Datenfelder ziehen. Gehen Sie dazu wie oben beschrieben vor und platzieren Sie das Feld an der gewünschten Stelle und lassen Sie dann erst die linke Maustaste los. Das Feld wird an dieser Stelle eingefügt.
+> **Note:** Further fields may also be dragged from the secondary region of the field list and placed into the data field section. To do this, follow the steps detailed above and place the field in the desired position. The field will be placed in the desired position.
 
 ---
 
