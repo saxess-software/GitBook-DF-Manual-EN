@@ -1,4 +1,4 @@
-## Produktlinie
+## Product Line
 
-Alle Produktlinien, die im Excel-Client für ein Werk definiert wurden und für die Sie Zugriffsrechte erhalten haben, werden Ihnen angezeigt. Im Web-Client können Sie Produktlinien weder hinzufügen noch löschen noch bearbeiten.
+All product lines that have been defined for a work in the Excel client, and to which you have the access permissions, will be shown to you. Product lines cannot be added, deleted or edited in the web client.
 

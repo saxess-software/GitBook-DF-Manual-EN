@@ -1,8 +1,9 @@
 ### Navigation
 
-Durch Klick auf eine Fabrik werden Ihnen darunter die zugeordneten Produktlinien angezeigt. Hinter den Namen der Produktlinien finden Sie in Klammern stehend die ID der Produktlinien.
+If you click on a factory, all associated product lines will be shown. After the name of each product line, the product ID will be shown in brackets.
 
 ---
+
 ![](/assets/f2.png)
 
 ---
