@@ -1,9 +1,12 @@
-### Layout speichern
+### Saving a Layout 
 
-Wenn Sie ein Layout für Ihre Pivot-Tabelle und Ihr Pivot-Diagramm definiert haben, um Ihre Daten darzustellen, können Sie dieses durch Klicken auf den Button **Layout speichern** speichern. Wenn Sie die Fabrik oder sogar das Werk verlassen und es später wieder neu aufrufen, steht Ihnen dieses Layout weiterhin zur Verfügung.
+If you have defined a layout for your pivot table and your pivot chart to present your data, you can now save the layout by clicking on the **Save Layout** button. If you exit the factory or work and reopen it later, the new layout will remain.
 
 ---
+
 ![](/assets/f34.png)
 
 ---
+
+
 

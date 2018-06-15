@@ -105,7 +105,7 @@
       * [Pivot Table](der-web-client/fabrik/pivot-ansicht/pivot-tabelle.md)
         * [Design](der-web-client/fabrik/pivot-ansicht/pivot-tabelle/design.md)
         * [Sorting Function](der-web-client/fabrik/pivot-ansicht/pivot-tabelle/sortierfunktion.md)
-        * [Daten aktualisieren](der-web-client/fabrik/pivot-ansicht/pivot-tabelle/daten-aktualisieren.md)
+        * [Updating Data](der-web-client/fabrik/pivot-ansicht/pivot-tabelle/daten-aktualisieren.md)
       * [Pivot-Diagramm](der-web-client/fabrik/pivot-ansicht/pivot-diagramm.md)
       * [Layout speichern](der-web-client/fabrik/pivot-ansicht/layout-speichern.md)
       * [Nach Excel exportieren](der-web-client/fabrik/pivot-ansicht/nach-excel-exportieren.md)

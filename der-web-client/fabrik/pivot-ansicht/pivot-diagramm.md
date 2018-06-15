@@ -1,33 +1,36 @@
-### Pivot-Diagramm
+### Pivot Chart
 
-#### *Struktur*
-Die Struktur des Pivot-Diagramms entspricht der Struktur Ihrer Pivot-Tabelle. D.h. die Felder, die Sie in der Pivot-Tabelle als Zeilen-, Spalten- und Datenfelder definiert haben, finden Sie auch im Pivot-Diagramm wieder.
+#### _Structure _
 
-|Pivot-Tabelle|Entsprechung im Pivot-Diagramm|
-|-|-|
-|Zeilenfeld|Y-Achse/ vertikale Achse|
-|Spaltenfeld|X-Achse/ horizontale Achse|
-|Datenfeld|Graph/ Datenreihe|
+The structure of the pivot chart resembles that of the pivot table. This means that all fields defined in the pivot table as line, column and data fields will also be found in the pivot chart. 
 
-#### *Darstellung*
+| Pivot Table | Corresponding Element in the Pivot Chart |
+| --- | --- |
+| Line Field | Y-Axis/ Vertical Axis |
+| Column Field | X-Axis/ Horizontal Axis |
+| Data Field | Graph/ Data Series |
 
-Im Dropdown-Menü **Diagrammtyp** können Sie auswählen, in welcher Art Sie Ihre Werte graphisch darstellen wollen. Die Diagrammtypen, die Sie bereits aus Excel kennen, stehen Ihnen auch hier zur Verfügung wie bspw. Säulen- oder Balkendiagramme, Kreis- oder Ringdiagramme, etc.
+#### _Presentation_
 
-1) Klicken Sie auf die Dropdown-Auswahl und wählen Sie den von Ihnen gewünschten Diagrammtyp.
+In the **Chart Type** drop-down menu, you can select the manner in which you wish to graphically represent your values. All of the diagram types you know from Excel, such as bar graphs and pie charts, are also available here. 
+
+1\) Click on the drop-down selection and choose your desired chart type. 
 
 ---
+
 ![](/assets/f32.png)
 
 ---
 
-2) Das Diagramm wird entsprechen Ihrer Auswahl angepasst.
+2\) The chart will be created as per your selection.
 
 ---
+
 ![](/assets/f33.png)
 
 ---
 
-> **Hinweis**: Wenn Sie mit Ihrem Mauszeiger über die Graphen fahren, werden Ihnen die Werte zu diesen Graphen angezeigt.
+> **Note:** If you move the mouse cursor over the graphs, the values for the graphs will be shown.
 
 
 
