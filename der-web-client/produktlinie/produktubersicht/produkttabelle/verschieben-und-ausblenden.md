@@ -1,67 +1,72 @@
-### Verschieben und ausblenden
+### Moving and Hiding Columns
 
-Sie haben die Möglichkeit, das Layout Ihrer Produkttabelle anzupassen, indem Sie Spalten verschieben oder ausblenden.
+You have the option to customize the layout of your product table by moving or hiding columns.
 
-#### Spalten verschieben
+#### Moving Columns
 
-1) Klicken Sie mit der linken Maustaste in die Überschrift der Spalte, die Sie verschieben möchten und halten Sie die Maustaste gedrückt. Schieben Sie die Spalte an die gewünschte Stelle und lassen Sie die Maustaste los.
+1\) Click and hold the title of the column you wish to move. Drag the column to your desired location and release the mouse button.
 
 ---
+
 ![](/assets/wpl33.png)
 
 ---
 
-2) Die Spalte wurde an der gewünschten Stelle eingefügt.
+2\) The column was moved to the new location.
 
 ---
+
 ![](/assets/wpl34.png)
 
 ---
 
-#### Spalten aus- und einblenden
+#### Hiding and Showing Columns
 
-1) Klicken Sie mit der rechten Maustaste in die Überschrift der Spalte, die Sie ausblenden möchten und wählen Sie **Spalte ausblenden**.
-
----
-![](/assets/wpl35.png)
----
-
-2) Die gewünschte Spalte ist ausgeblendet.
+1\) Right-click on the name of the column you wish to hide and select **Hide Column**. 
 
 ---
+
+## ![](/assets/wpl35.png)
+
+2\) The column has now been hidden.
+
+---
+
 ![](/assets/wpl36.png)
 
 ---
 
-3) Alle ausgeblendeten Spalten werden Ihnen in der **Spaltenauswahl** angezeigt. Klicken Sie dazu mit der rechten Maustaste in Spaltenüberschrift und wählen Sie **Spaltenauswahl**. 
+3\) All hidden column will be shown in the **Column Selection**. To find this, right-click on the column title and select **Column Selection**.
 
 ---
+
 ![](/assets/wpl37.png)
 
 ---
 
-4) Es öffnet sich ein Fenster, welches alle ausgeblendeten Spaltenüberschriften enthält.
+4\) A window will open showing all hidden columns.
 
 ---
+
 ![](/assets/wpl38.png)
 
 ---
 
-5) Klicken Sie mit der rechten Maustaste auf das Attribut, welches Sie wieder als Spalte in Ihrer Produkttabelle aufnehmen wollen und wählen Sie **Spalte anzeigen**. 
+5\) Right-click on the attribute you would like to unhide as a column in the product table and select **Show Column**.
 
 ---
+
 ![](/assets/wpl39.png)
 
 ---
 
-6) Um das Fenster **Spaltenauswahl** zu schließen, klicken Sie auf das Kreuz in der oberen rechten Ecke des Fensters **Feldauswahl**
+6\) To close the **Column Selection** window click on the x in the upper right corner of the window. 
 
 ---
+
 ![](/assets/wpl40.png)
 
 ---
-
-
 
 
 

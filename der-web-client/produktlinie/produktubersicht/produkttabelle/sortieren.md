@@ -1,29 +1,34 @@
-### Sortieren
+### Sorting
 
-Sie können die Werte innerhalb eine Spalte Ihrer Produkttabelle auf- und absteigend sortieren. Wenn Sie die Produktlinie betreten, werden Ihnen die Produkte sortiert nach Ihrer Produkt-ID angezeigt.
+The data in each column can be sorted in ascending or descending order. When you access the product line, the products will be displayed as sorted by your product ID.
 
-Um die Werte innerhalb einer Spalte zu sortieren, gehen Sie wie folgt vor.
+To sort the data in a column, proceed as follows:
 
-1) Klicken Sie mit der rechten Maustaste auf die Überschrift der Spalte, in der Sie die Sortierung vornehmen wollen und wählen Sie **Aufsteigend sortieren/Absteigend sortieren**.
+1\) Right-click on the name of the column the values of which you wish to sort and select **Sort by Ascending** or **Sort by Descending.**
 
 ---
+
 ![](/assets/wpl41.png)
 
 ---
 
-2) Die Spalte wurde entsprechend sortiert. Das eine Sortierung vorliegt, können Sie an dem kleinen Pfeil rechts neben der Überschrift erkennen.
+2\) The column has now been sorted. A small arrow to the right of the column name indicates that sorting has taken place.
 
-> **Hinweis**: Durch Klick auf diesen kleinen Pfeil können Sie zwischen auf- und absteigend sortiert wechseln.
+> **Note:** By clicking on this arrow you can switch between ascending and descending order.
 
 ---
+
 ![](/assets/wpl43.png)
 
 ---
 
-3) Um die Sortierung zu entfernen, klicken Sie mit der rechten Maustaste auf die Überschrift der Spalte, in der Sie die Sortierung entfernen wollen und wählen Sie **Sortierung entfernen**.
+3\) To revert the sorting, right-click on the name of the sorted column and select **Undo Sort by…**.
 
 ---
+
 ![](/assets/wpl42.png)
 
 ---
+
+
 
