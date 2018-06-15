@@ -108,7 +108,7 @@
         * [Updating Data](der-web-client/fabrik/pivot-ansicht/pivot-tabelle/daten-aktualisieren.md)
       * [Pivot-Diagramm](der-web-client/fabrik/pivot-ansicht/pivot-diagramm.md)
       * [Layout speichern](der-web-client/fabrik/pivot-ansicht/layout-speichern.md)
-      * [Nach Excel exportieren](der-web-client/fabrik/pivot-ansicht/nach-excel-exportieren.md)
+      * [Exporting to Excel](der-web-client/fabrik/pivot-ansicht/nach-excel-exportieren.md)
   * [Produktlinie](der-web-client/produktlinie.md)
     * [Navigation](der-web-client/produktlinie/navigation.md)
     * [Produktübersicht](der-web-client/produktlinie/produktubersicht.md)

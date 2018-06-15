@@ -1,19 +1,22 @@
-### Nach Excel exportieren
+### Exporting to Excel
 
-Sie haben im Web-Client die Möglichkeit Ihre Pivot-Tabelle nach Excel zu exportieren.
+In the web client, you have the option to export your pivot table to Excel.
 
-1) Klicken Sie auf den Button **Nach Excel exportieren**.
+1\) Click on the **Export to Excel** button.
 
 ---
+
 ![](/assets/f35.png)
 
 ---
 
-2) Es öffnet sich ein Fenster, in dem Sie auswählen können, ob Sie die Daten in Excel direkt öffnen oder sie als Excel-Datei auf Ihrem Rechner speichern wollen. Bestätigen Sie Ihre Auswahl mit **OK**
+2\) A window will open in which you can select whether the data is to be opened directly in Excel, or saved to your computer as an Excel file. Confirm your selection with **OK**.
 
 ---
+
 ![](/assets/f36.png)
 
 ---
 
-3) In Excel können Sie Ihre Daten wie gewohnt bearbeiten.
+3\) The data can be processed in Excel as usual.
+
