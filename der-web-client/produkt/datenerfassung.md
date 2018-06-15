@@ -1,19 +1,20 @@
-## Datenerfassung  
+## Data Collection
 
-Der Web-Client bietet verschiedene Möglichkeiten der Datenerfassung. Sie können Daten manuell oder mithilfe des Rechners eingeben. Die Datenerfassung erfolgt im Wertebereich der Tabelle.  
+The web client offers several options for collecting data. Data can be added manually or with the help of a calculator. The data entry takes place in the values section of the table.
 
 ---
+
 ![](/assets/wp10.png)
 
 ---
 
-Sie können die Daten:
+Data can be entered into the values section:
 
-* manuell über Ihre Tastatur oder über Kopieren und Einfügen
-* mithilfe des Rechners
-* unter Verwendung der FlexSuche
+* manually over your keyboard, or by copying and pasting
+* with the help of a calculator
+* by use of FlexSearch.
 
-in den Wertebereich eingeben.
+> **Note:** All data collected by the user is only temporarily saved in the web browser. It is copied into the database when you click on the **Save** button.
 
 
-> **Hinweis**: Alle von Ihnen erfassten Daten sind zunächst nur temporär im Webbrowser gespeichert. Erst wenn Sie auf die Schaltfläche **Speichern** klicken, werden die Daten in die Datenbank übertragen.  
+

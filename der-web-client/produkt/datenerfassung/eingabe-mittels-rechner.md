@@ -1,217 +1,246 @@
-### Dateneingabe mittels Rechner   
+### Data Entry by Calculator
 
-Auch im Web-Client haben Sie die Möglichkeit, Ihre Daten komfortabel über einen Rechner einzugeben. Der Rechner bietet folgende Rechenoperationen.  
+Even in the web client, data can be added via a calculator. The calculator offers the following operations.
 
-|Rechenoperation|Beschreibung|
-| - | -: |
-|**=**|Fügt den angegebenen Wert in die markierte/n Zelle/n ein.|
-|**+**|Addiert den eingegebenen Wert zu jedem Wert in der/den markierten Zelle/n hinzu.|
-|**-**|Subtrahiert den eingegebenen Wert von jedem Wert in der/den markierten Zelle/n.|
-|*****|Multipliziert den eingegebenen Wert mit jedem Wert in der/den markierten Zelle/n.|
-|**/**|Dividiert jeden Wert in der/den markierten Zelle/n mit dem eingegebenen Wert.|
-|**Gleichverteilung**|Verteilt den eingegebenen Wert im gleichen Verhältnis auf die markierte/n Zelle/n.|
-|**Verhältnis**|Verteilt den eingegebenen Wert im Verhältnis der derzeit markierten Werte.|
-|**Datum**|Fügt in die markierten Zellen das ausgewählte Datum ein|
+| Operation | Description |
+| --- | ---: |
+| **=** | Places the entered value in the highlighted cell\(s\) |
+| **+** | Adds the entered value to each value in the highlighted cell\(s\) |
+| **-** | Subtracts the entered value from each value in the highlighted cell\(s\) |
+| **\*** | Multiples each value in the highlighted cell\(s\) by the entered value |
+| **/** | Divides each value in the highlighted cell\(s\) by the entered value |
+| **Equal Distribution** | Distributes the entered value equally over the highlighted cell\(s\) |
+| **Proportionate Distribution** | Distributes the entered value in proportion to the values in the highlighted cell\(s\) |
+| **Date** | Enters the selected date in the highlighted cell\(s\) |
 
-Sie finden den Rechner im Tabellenkopfbereich.
+The calculator can be found in the table header.
 
 ---
+
 ![](/assets/wp13.png)
 
 ---
 
-#### *Einfügen von Werten (=)* 
+#### _Entering Values \(=\)_
 
-Um Werte mit Hilfe des Rechners einzufügen, gehen Sie wie folgt vor: 
+To enter values with the help of the calculator, proceed as follows:
 
-1) Geben Sie im Feld **Wert** den Wert ein, den Sie einfügen wollen.  
+1\) In the** Value** field, type in the value you wish to enter.
 
 ---
+
 ![](/assets/wp15.png)
 
 ---
 
-2) Klicken Sie in das Feld im Wertebereich, in welches Sie Daten einpflegen wollen.
-> **Hinweis**: Wenn Sie in Schritt 1 mehrere Zellen markieren, wird der Wert in allen markierten Zellen eingefügt.
+2\) Click on the field in the values section in which you wish to enter the data.
+
+> **Note:** If you highlight more than one cell in Step 1, the value will be entered in all highlighted cells.
 
 ---
+
 ![](/assets/wp18.png)
 
 ---
 
-3) Klicken Sie auf den Button **Füllen**.  
+3\) Click on the **Fill** button.
 
 ---
+
 ![](/assets/wp16.png)
 
 ---
 
-4) Der eingegebene Wert wird in der markierten Zelle eingefügt.  
+4\) The highlighted cells will be populated with the entered value.
 
 ---
+
 ![](/assets/wp17.png)
 
 ---
 
-#### *Addition (+)*
+#### _Addition \(+\)_
 
-Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:  
+To add values with the help of a calculator, proceed as follows:
 
-1) Geben Sie im Feld **Wert** den Wert ein, den Sie Addieren wollen. 
+1\) Enter the value you wish to add in the **Value** field.
 
 ---
+
 ![](/assets/wp19.png)
 
 ---
 
-2) Markieren Sie die Zellen, zu denen Sie den Wert addieren wollen und klicken Sie auf den Button **+**.  
-   
+2\) Highlight the cells to which you wish to add the entered value, and click on the **+** button. 
+
 ---
+
 ![](/assets/wp20.png)
 
 ---
-3) Der eingegebene Wert wird jedem Wert in den markierten Zellen hinzu addiert.  
+
+3\) The entered value will be added to each value in the highlighted cells. 
 
 ---
+
 ![](/assets/wp21.png)
 
 ---
 
-#### *Subtraktion (-)*  
+#### _Subtraction \(-\)_
 
-1) Geben Sie im Feld **Wert** den Wert ein, den Sie subtrahieren wollen.  
+1\) Enter the value you wish to subtract in the **Value** field. 
 
 ---
+
 ![](/assets/wp22.png)
 
 ---
 
-2) Markieren Sie die Zellen, von denen Sie den Wert subtrahieren wollen und klicken Sie auf den Button **-**.  
+2\) Highlight the cells from which you wish to subtract the entered value and click on the **- **button.
 
 ---
+
 ![](/assets/wp23.png)
 
---- 
+---
 
-3) Der eingegebene Wert wird von jedem Wert in den markierten Zellen subtrahiert.  
+3\) The entered value will be subtracted from each value in the highlighted cells.
 
 ---
+
 ![](/assets/wp24.png)
 
 ---
 
-#### *Multiplikation ( ** )* 
+#### _Multiplication \(\*\*\)_
 
-1) Geben Sie im Feld **Wert** den Wert ein, mit dem Sie multiplizieren wollen.   
+1\) Enter the value by which you wish to multiply in the **Value** field.
 
 ---
+
 ![](/assets/wp25.png)
 
 ---
 
-2) Markieren Sie die Zellen, die mit dem Wert multipliziert werden sollen und klicken Sie auf den Button *.  
+2\) Highlight the cells you wish to multiply by the entered value and click on the \* button.
 
 ---
+
 ![](/assets/wp26.png)
 
----  
+---
 
-3) Der eingegebene Wert wird mit jedem Wert in den markierten Zellen multipliziert.  
+3\) The values in the highlighted cells will be multipled by the entered value.
 
 ---
+
 ![](/assets/wp27.png)
 
 ---
- 
-### *Division (/)* 
 
-1) Geben Sie im Feld **Wert** den Wert ein, durch den Sie dividieren wollen.  
+#### _Division \(/\)_
+
+1\) Enter the value by which you wish to divide in the **Value** field.
 
 ---
+
 ![](/assets/wp28.png)
 
 ---
-2) Markieren Sie die Zellen, die durch den Wert dividiert werden sollen und klicken Sie auf den Button **/**.  
+
+2\) Highlight the cells you wish to divide by the entered value and click on the / button. 
 
 ---
+
 ![](/assets/wp29.png)
 
 ---
 
-3) Jeder der markierten Werte wird durch den eingegebenen Wert dividiert. 
+3\) Each value in the highlighted cells will be divided by the entered value.
 
 ---
+
 ![](/assets/wp30.png)
 
 ---
 
-### *Gleichverteilung*  
+#### _Equal Distribution_
 
-1) Geben Sie im Feld **Wert** den Wert ein, den Sie gleichverteilen wollen.  
+1\)  Enter a value in the **Value** field that you wish to distribute.
 
 ---
+
 ![](/assets/wp31.png)
 
 ---
 
-2) Markieren Sie die Zellen, in denen Wert gleichverteilt werden soll und klicken Sie auf den Button **Gleichverteilung**.  
+2\) Highlight the cells into which the entered value is to be equally distributed and click on the **Distribute Equally **button.
 
 ---
+
 ![](/assets/wp32.png)
 
 ---
 
-3) Der eingegebene Wert wird in jede Zelle gleichverteilt. Werte, die sich zuvor in den markierten Zellen befanden, werden überschrieben. 
+3\) The entered value will be equally distributed into all highlighted cells. Any values already occupying the highlighted cells will be overwritten.
 
 ---
+
 ![](/assets/wp33.png)
 
 ---
 
-### *Verhältnis*  
+#### _Proportionate Distribution_
 
-1) Geben Sie im Feld **Wert** den Wert ein, den Sie verteilen wollen.  
+1\) In the **Value** field, enter the value you wish to distribute.
 
 ---
+
 ![](/assets/wp34.png)
 
 ---
 
-2) Markieren Sie die Zellen, deren Verhältnis Sie als Grundlage für die Verteilung nutzen wollen und klicken Sie auf den Button **Verhältnis**.  
+2\) Highlight the cells with the content you wish to use as a basis for distribution and click the **Proportionate Distribution** button. 
 
 ---
+
 ![](/assets/wp35.png)
 
 ---
 
-3) Der eingegebene Wert wird auf Basis des Verhältnisses der markierten Zellen verteilt.  
+3\) The entered value will distributed proportionately to the values in the highlighted cells. 
 
 ---
+
 ![](/assets/wp36.png)
 
 ---
 
-### *Datum*
+#### _Date_
 
-1) Markieren Sie die Zellen, in welche Sie ein Datum einfügen wollen und klicken Sie auf das **Kalender-Icon**. 
+1\) Highlight the cells in which you wish to enter a date and click on the **Calendar Icon**. 
 
 ---
+
 ![](/assets/wp37.png)
 
 ---
 
-2) Es öffnet sich der Kalender, in welchem Sie über die Pfeiltasten zwischen den Monaten und Jahren navigieren können. 
+2\) A calendar will open in which you can navigate between months and years via the arrow keys.
 
 ---
+
 ![](/assets/wp38.png)
 
 ---
 
-3) Navigieren Sie zu dem Datum, welches Sie einfügen wollen und klicken Sie es an. Es wird in die markierten Zellen eingefügt.
+3\) Navigate to the date you wish to enter and click on it. It will be inserted into the highlighted cells.
 
-> **Hinweis**: Wenn Sie im Kalender auf den Button **Heute** klicken, wird das aktuelle Tagesdatum eingefügt. Klicken Sie auf den Button **Löschen** wird der Kalender geschlossen und kein Datum eingefügt.
+> **Note: **If you click on the **Today** button in the calendar, the current date will be inserted. If you click on the Delete button, the calendar will close without entering a date.
 
 ---
+
 ![](/assets/wp39.png)
 
 ---
