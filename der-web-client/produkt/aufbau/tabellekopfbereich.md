@@ -1,48 +1,54 @@
-#### Tabellenkopfbereich
+#### Table Header
 
-Im Tabellenkopfbereich finden Sie ein **Erläuterungsfeld**, den **Rechner** zur Eingabe von Daten in den Tabellenbereich sowie **Buttons** zum Speichern, nach Excel exportieren und Kommentieren.
+In the table header you will find a **description field**, the **calculator **for the entry of data in tables, and **Buttons** to save, export to Excel, and make comments. 
 
-#### *Erläuterungsfeld*
+#### _Description Field_
 
-Hier haben Sie die Möglichkeit, den Inhalt Ihres Produkt näher zu beschreiben.
+A description of the product’s contents may be entered in this field.
 
 ---
+
 ![](/assets/wp4.png)
 
 ---
 
-#### *Buttons*
+#### _Buttons_
 
-***Speichern***
+_**Save**_
 
-Alle Änderungen, die Sie an den Daten vorgenommen haben, können Sie hierüber speichern.
+All changes made to the data are saved using this button.
 
 ---
+
 ![](/assets/wp5.png)
 
 ---
 
-***Nach Excel exportieren***
+_**Export to Excel**_
 
-Sie können die Daten des Templates nach Excel exportieren. Nach dem Klick auf den Button **Nach Excel exportieren** können Sie sich die Daten direkt in Excel anzeigen lassen oder die Daten als Datei speichern.
+Template data can be exported to Excel. After clicking on the **Export to Excel** button, you can set the data to be shown directly in Excel or save the data as files.
 
 ---
+
 ![](/assets/wp6.png)
 
 ---
 
-***Kommentare***
+_**Comments**_
 
-Wenn Sie auf den Button **Kommentare** klicken, öffnet sich ein Fenster, in welchem Ihnen alle Bemerkungen angezeigt werden, die Nutzer vermerkten, wenn Sie Daten im Excel- oder im Web-Client verändert und abgespeichert haben. In dem Fenster können Sie keine Daten eingeben.
+If you click on the **Comments** button, a window will open displaying all comments made by users who have changed and saved data in the Excel and web clients. You cannot enter data in this window.
 
 ---
+
 ![](/assets/wp7.png)
 
 ---
+
 ![](/assets/wp8.png)
 
 ---
 
-> **Hinweis**: Wie auch im Excel-Client, kann ein Nutzer dazu verpflichtet sein, jede Datenänderung durch einen kurzen Kommentar zu begründen. Diese Funktionalität hinterlegen Sie im Excel-Client direkt am Benutzer. 
+> **Note: **As in the Excel client, a user may be required to provide a comment with a reason for each change made in the data. This function can be set in the Excel client directly in the user properties.
+
 
 

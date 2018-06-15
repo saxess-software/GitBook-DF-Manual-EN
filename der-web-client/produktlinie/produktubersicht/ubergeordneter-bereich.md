@@ -1,82 +1,90 @@
-### Übergeordneter Bereich
+### Superordinate Area
 
-#### *Buttonleiste*
+#### _Toolbar_
 
-Hier finden Sie die folgenden Buttons:
+Here you will find the following buttons:
 
-|Button|Beschreibung|
-|-|-|
-|Speichern|Sichert alle Daten, die Sie innerhalb der Produkttabelle geändert haben. Eine detaillierte Beschreibung hierzu finden Sie im Kapitel **Produkttabelle**.
-|Layout speichern|Sichert alle Änderungen, die Sie am Layout der Produkttabelle vorgenommen haben. Eine detaillierte Beschreibung hierzu finden Sie im Kapitel **Layout ändern**.|
-|Neues Produkt anlegen|Ein neues Produkt wird innerhalb der Produkttabelle angelegt. Eine detaillierte Beschreibung hierzu finden Sie im Kapitel **Neues Produkt anlegen**.|
+| Button | Description |
+| --- | --- |
+| Save | Saves all changes made to the data in the product table. A detailed explanation can be found in the chapter **Product Table Body**.  |
+| Save Layout | Saves all changes made to the layout of the product table. A detailed explanation can be found in the chapter **Layout**. |
+| Create New Product | A new product is created in the product table. A detailed explanation can be found in the chapter **Creating a New Product**. |
 
-#### *Erläuterungszeile*
+#### _Description Line_
 
-Hier haben Sie die Möglichkeit, den Inhalt Ihrer Produktlinie näher zu beschreiben.
+Here you have the option to provide a more detailed description of the product line contents.
 
-#### *Suchleiste*
+#### _Search Bar_
 
-Hier können Sie einen Begriff eingeben, welchen Sie in der Produkttabelle suchen möchten. 
+Here you can enter a term or a keyword that you wish to search for in the product table. 
 
-Geben Sie den gesuchten Begriff in das Suchfeld ein. Ihnen werden automatisch alle Produkte angezeigt, welche den Suchbegriff enthalten.
+When you have entered the term in the search bar, all products containing the searched term will be shown in the search results.
 
 ---
+
 ![](/assets/wpl2.png)
 
 ---
 
-Sie können die Suchleiste auch ausblenden.
+The search bar can also be hidden.
 
-1) Klicken Sie mit der rechten Maustaste in eine Spaltenüberschrift im Produkttabellenbereich und wählen Sie **Suchleiste**.
+1\) Right-click on a column name in the product table and select the **Search Bar** option.
 
 ---
+
 ![](/assets/wpl22.png)
 
 ---
 
-2) Die Suchleiste ist nun ausgeblendet.
+2\) The search bar has now been hidden.
 
 ---
+
 ![](/assets/wpl23.png)
 
 ---
 
-> **Hinweis**: Nach dem gleichen Vorgehen können Sie die Suchleiste auch wieder einblenden.
+> **Note:** Using the same steps, the search bar can also be unhidden.
 
-#### *Fusszeile*
+#### _Fusszeile_
 
-In der Fusszeile können Sie sich zu jeder Spalte in Ihrer Produkttabelle Aggregrationsfunktion wie Anzahl, Minimun, Maximum  und Durchschnitt anzeigen lassen. Diese Funktion können Sie nutzen, wenn die Werte in Ihrer Spalte als Datentyp "Zahl" definiert sind.
+In the footer, you can choose to show aggregation functions such as quantity, minimum, maximum and average. This function can be used if the values in your column are defined as “Numeric”. 
 
-Um die Fusszeile einzublenden, gehen Sie wie folgt vor.
+To display the footer, proceed as follows:
 
-1) Klicken Sie mit der rechten Maustaste in eine Spaltenüberschrift im Tabellenkopf und wählen Sie **Fusszeile**.
+1\) Right-click on a column name in the spreadsheet header and select **Footer**. 
 
 ---
+
 ![](/assets/wpl56.png)
 
 ---
 
-2) Die Fusszeile wird Ihnen am unteren Ende Ihres Bildschirmfensters als grauer Balken eingeblendet.
+2\) The footer will be visible as a gray bar at the bottom of your screen.
 
 ---
+
 ![](/assets/wpl57.png)
 
 ---
 
-3) Klicken Sie mit der rechten Maustaste in eine Spalte der Fusszeile und wählen Sie die gewünschte Aggregationsfunktion aus.
+3\) Right-click in a column of the footer and select the desired aggregation function.
 
 ---
+
 ![](/assets/wpl58.png)
 
 ---
 
-4) Das Ergebnis wird Ihnen in der Fusszeile angezeigt.
+4\) The result will be displayed in the footer.
 
 ---
+
 ![](/assets/wpl59.png)
 
 ---
 
-> **Hinweis**: Die Fusszeile können Sie auf dem gleichen Weg wie in Schritt 1 beschrieben wieder entfernen.
+> **Note:** The footer can also be hidden using the method detailed in Step 1.
+
 
 

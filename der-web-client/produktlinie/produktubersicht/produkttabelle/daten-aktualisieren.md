@@ -1,12 +1,12 @@
-### Daten aktualisieren
+### Updating Data
 
-Wenn Sie eine Produktlinie betreten und sich die Produkttabelle anzeigen lassen, werden immer die aktuellen Daten aus der Datenbank in Ihren Produkttabellenbereich geladen. Werden jedoch Daten in DataFactory aktualisiert, während Sie sich in der Produktlinie befinden, werden Ihnen diese aktualisierten Werte nicht automatisch in Ihrer Produkttabelle angezeigt. Sie müssen die Aktualisierung der Daten dann manuell auslösen.
+If you access the product line and view the product table, the current data from your database will always be loaded in the product table. If data in DataFactory is updated while you are on the product line, the updated information will not immediately be shown in the product table. The data will then need to be manually updated. 
 
-1) Klicken Sie mit der rechten Maustaste in ein Feld der Produkttabelle. Es öffnet sich ein Feld mit der Option **Aktualisieren**.
+1\) Right-click on a cell in the product table. A window will open with the **Update** option. Click on this option.
 
 ---
-![](/assets/wpl53.png)
----
 
+## ![](/assets/wpl53.png)
 
-2) Die aktualisierten Daten werden Ihnen angezeigt.
+2\) The updated data will now be displayed.
+

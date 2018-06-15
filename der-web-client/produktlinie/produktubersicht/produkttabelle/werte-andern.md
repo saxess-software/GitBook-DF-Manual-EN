@@ -1,24 +1,30 @@
-### Werte ändern
+### Changing Values
 
-In der Produkttabelle können Sie alle Werte in allen Spalten ändern. 
+All values in all columns of the product table can be changed.
 
-1) Klicken Sie mit einem Doppelklick in das Feld, in welchem Sie Daten ändern wollen. Die enthalten Daten werden Ihnen nun zur Bearbeitung angezeigt.
+1\) Double-click in the cell in which you wish to change data. The current cell data can now be edited.
 
 ---
+
 ![](/assets/wpl50.png)
 
 ---
 
-2) Geben Sie Ihre neuen Daten eine und bestätigen Sie mit der Enter-Taste.
+2\)  Enter your new data and confirm by pressing the Enter key.
 
 ---
+
 ![](/assets/wpl52.png)
 
 ---
 
-3) Alle geänderten Felder werden **grün hinterlegt**.
+3\) All edited fields will be highlighted in **green**.
 
 ---
+
 ![](/assets/wpl51.png)
 
 ---
+
+
+

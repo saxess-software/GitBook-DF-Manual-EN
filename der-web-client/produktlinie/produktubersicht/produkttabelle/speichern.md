@@ -1,32 +1,31 @@
-### Speichern
+### Saving
 
-Ihnen stehen zwei Speicherfunktionen auf Ebene der Produktlinie zur Verfügung. Sie können:
+There are two save options on the product line level. You can either:
 
-* die in der Produkttabelle geänderten Daten
-* die am Layout vorgenommenen Änderungen
+* Save changes made to the data in the product table
+* Save changes made to the layout.
 
-speichern.
+#### Saving Data
 
-#### Daten speichern
+After your desired changes have been made to the data in the product table, these changes must be saved by clicking the **Save** button in the toolbar. The changes are then saved in the database. If you leave the product line without saving your changes, all changes will be lost.
 
-Nachdem Sie Daten in der Produkttabelle geändert haben, müssen Sie diese mit einem Klick auf den Button **Speichern** in der Buttonleiste speichern. Die Änderungen werden damit in der Datenbank abgespeichert. Wenn Sie die geänderten Daten nicht speichern und Sie verlassen die Produktlinie, gehen diese Änderungen verloren. 
-
-> **Hinweis**: Wenn Sie Daten geändert haben und Sie versuchen, die Produktlinie ohne Speicherung zu verlassen, erscheint ein Warnfenster, dass Sie darauf hinweist, dass Ihre Daten verloren gehen werden, wenn Sie nicht speichern.
+> **Note:** If changes have been made to the data and you try to leave the product line without saving, a warning will be displayed reminding you to save your changes so your data is not lost.
 
 ---
+
 ![](/assets/wpl54.png)
 
 ---
 
-#### Layout speichern
+#### Saving the Layout
 
-Wenn Sie Änderungen am Layout vorgenommen haben wie z.B. Gruppierungen, Spalten ausblenden, etc., dann können Sie diese Änderungen über **Layout speichern** in der Datenbank abspeichern. Wenn Sie die danach die Produktlinie neue betreten, wird Ihnen der Produkttabellenbereich sofort in Ihrem geänderten und gespeicherten Layout angezeigt. 
+If changes have been made to the layout itself, e.g. hiding columns, grouping etc., you can save these changes to the database by clicking **Save Layout**. The next time you access the product line, the product table will be shown with the new layout.
 
 ---
+
 ![](/assets/wpl55.png)
 
 ---
-
 
 
 

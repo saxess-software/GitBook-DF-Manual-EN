@@ -1,17 +1,20 @@
 ### Navigation
 
-Durch Klick auf das Symbol in der Icon-Spalte zu dem gewünschten Produkt gelangen Sie in das Produkt-Template.
+By clicking on the symbol of your chosed product in the Icon column, you will reach the **Product Template**. 
 
 ---
+
 ![](/assets/wp1.png)
 
 ---
 
-In der **Navigationsleiste** können Sie jederzeit nachvollziehen, in welchem Produkt Sie sich momentan befinden.
+You can check which product you are currently in at any time using the **navigation bar**.
 
 ---
+
 ![](/assets/wp2.png)
 
 ---
+
 
 
