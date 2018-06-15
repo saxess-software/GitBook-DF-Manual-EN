@@ -101,7 +101,7 @@
     * [Navigation](der-web-client/fabrik/navigation.md)
     * [Pivot View](der-web-client/fabrik/pivot-ansicht.md)
       * [Field List](der-web-client/fabrik/pivot-ansicht/feldliste.md)
-        * [Filter setzen](der-web-client/fabrik/pivot-ansicht/feldliste/filter-setzen.md)
+        * [Set Filter](der-web-client/fabrik/pivot-ansicht/feldliste/filter-setzen.md)
       * [Pivot-Tabelle](der-web-client/fabrik/pivot-ansicht/pivot-tabelle.md)
         * [Design](der-web-client/fabrik/pivot-ansicht/pivot-tabelle/design.md)
         * [Sortierfunktion](der-web-client/fabrik/pivot-ansicht/pivot-tabelle/sortierfunktion.md)

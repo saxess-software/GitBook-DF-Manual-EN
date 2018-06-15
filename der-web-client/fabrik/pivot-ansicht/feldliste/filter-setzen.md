@@ -1,26 +1,32 @@
-### Filter setzen
+### Set Filter
 
-Um sich für ein Feld nur bestimmte Werte in Ihrer Pivot-Tabelle anzeigen zu lassen, können Sie innerhalb des Feldes nach diesen Werten filtern.
+To display only certain values for a field in your pivot table, you can choose to filter by these values within the field. 
 
-1) Klicken Sie auf das Feld aus dem Sekundärbereich, in welchem Sie Filtern möchten. Es werden Ihnen zunächst alle möglichen Werte innerhalb des Feldes angezeigt.
+1\) Click on the field in the secondary region in which you wish to use a filter. All possible values will be presented to you in the field.
 
 ---
+
 ![](/assets/f9.png)
 
 ---
 
-2) Wählen Sie einen oder mehrere Werte aus, die Sie in Ihrem Filter aufnehmen wollen und Klicken Sie auf **Ok**
+2\) Select one or more values that you wish to filter by and click **OK**.
 
 ---
+
 ![](/assets/f11.png)
 
 ---
 
-3) Der gewünschte Filter wurde übernommen. Wenn ein Filter in einem Feld gesetzt wurde, ist der Pin des Feldes **gelb** markiert.
+3\) Your desired filter has been set. If a filter has been set on a field, the pin of the field will be highlighted in **yellow**.
 
 ---
+
 ![](/assets/f12.png)
 
 ---
 
-> **Hinweis** Filter können auch in Feldern gesetzt werden, die bereits in die Pivot-Tabelle gezogen wurden und dort als Zeilen-, Spalten- oder Datenfelder benutzt werden. Gehen Sie hier ebenfalls wie oben beschrieben vor.
+> **Note:** Filters can also be placed on fields that have been dragged into the pivot table and appled as line, column or data fields. To place filters on these fields, use the same steps detailed above.
+
+
+
