@@ -1,5 +1,6 @@
-### Pivot-Tabelle
+### Pivot Table
 
-Eine Pivot-Tabelle ist eine spezielle Tabellenart, mit der man die Möglichkeit hat, Daten in verschiedener Art und Weise darzustellen und auszuwerten, ohne die Ausgangsdaten bzw. -tabelle(n) dabei ändern zu müssen.
+A pivot table is a specialized type of table which offers the ability to present and evaluate data in a variety of ways without changing the output data or table\(s\). 
 
-Die Stärke einer Pivot-Tabelle ist darin zu sehen, dass Sie eine große Menge an Ausgangsdaten durch geschickte Aggregation verdichtet und auf eine überschaubare Größe reduzieren kann. Auf diese Weise lassen sich schnell einfache Auswertungen durchführen und wichtige Eigenschaften von Daten pointiert darstellen. Das führt zwar zu einem Verlust von Details, dem gegenüber steht aber ein großer Zugewinn an Übersichtlichkeit.
+The value of a pivot table lies in its ability to compress large quantities of output data using innovative aggregation functions, and reduce the data to a convenient size. In this manner, simple evaluations can be performed and important data characteristcs acutely presented. Although finer details are lost in this process, it also greatly benefits the conciseness and readability of the information.
+
