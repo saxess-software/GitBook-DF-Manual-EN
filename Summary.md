@@ -132,6 +132,6 @@
       * [Data Entry by Calculator](der-web-client/produkt/datenerfassung/eingabe-mittels-rechner.md)
       * [FlexSearch](der-web-client/produkt/datenerfassung/flexsuche.md)
   * [Authorization](der-web-client/berechtigung.md)
-* [Der neue Web-Client](der-neue-web-client.md)
-* [DataFactory-Datenbank](installation-der-datafactory-datenbank.md)
+* [The New Web Client](der-neue-web-client.md)
+* [DataFactory Database](installation-der-datafactory-datenbank.md)
 
