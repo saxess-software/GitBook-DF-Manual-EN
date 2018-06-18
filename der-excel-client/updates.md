@@ -2,9 +2,9 @@
 
 ### Updating the Excel Client
 
-The current release of the Excel client can be found at [https://planning-factory.com](https://planning-factory.com). Download the new Excel client file and install it as described in the chapter _**Installation 1.1 & 1.2**_.
+The current release of the Excel client can be found at [https://planning-factory.com](https://planning-factory.com). Download the new Excel client file and install it as described in the chapter [_**Installation 1.1 & 1.2**_](/der-excel-client/installation-und-update.md).
 
-You have already established the connection to your DataFactory database via your Excel client version. For every database connection you establish, a so-called “key file” will be created and deposited in the DataFactory folder +. Read more on this topic in the chapter _**Keys**_.
+You have already established the connection to your DataFactory database via your Excel client version. For every database connection you establish, a so-called “key file” will be created and deposited in the DataFactory folder +. Read more on this topic in the chapter [_**Keys**_](/der-excel-client/werk/keys.md).
 
 Using these key files, you can quickly and easily re-establish the database connection in your new Excel client version. Your key files have already been saved in your selected folder, as explained in the chapter Keys. The information detailing the location of the key files must now be saved into the new Excel client. This can be done as follows.
 
@@ -16,7 +16,7 @@ Using these key files, you can quickly and easily re-establish the database conn
 
 ---
 
-2\) A new window will open, in which you can select the folder containing your key files. Select this folder and click **OK**. 
+2\) A new window will open, in which you can select the folder containing your key files. Select this folder and click **OK**.
 
 ---
 
