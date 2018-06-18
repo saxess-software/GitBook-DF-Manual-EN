@@ -1,6 +1,6 @@
 ### Comments
 
-In the chapter **Work – User Management**, you learned that you have the option to require a comment from each user who reads or edits content in DataFactory for security and documentation purposes. 
+In the chapter [**Work – User Management**](/der-excel-client/werk/benutzer-verwalten.md), you learned that you have the option to require a comment from each user who reads or edits content in DataFactory for security and documentation purposes.
 
 #### _Entering Comments_
 
@@ -16,7 +16,7 @@ If the comment function has been activated for a user, a window will open upon c
 
 #### _Showing Comments_
 
-You may choose to show all comments entered by users within a product. 
+You may choose to show all comments entered by users within a product.
 
 1\) Click on the **…-Context Menu** within the product.
 
