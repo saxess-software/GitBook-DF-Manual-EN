@@ -32,7 +32,7 @@ To manage global attributes, proceed as follows:
 
 > **Note: **Assign the same global attribute to the same position in all product lines you wish to evaluate simultaneously \(e.g. Cost center as global attribute 1 in all product lines\).
 
-4\) You can define up to 25 custom global attributes by entering a name and, if applicable, assigning a list in the bottom section. How to define lists is explained in the chapter “Lists and Formats”.
+4\) You can define up to 25 custom global attributes by entering a name and, if applicable, assigning a list in the bottom section. How to define lists is explained in the chapter “[Lists and Formats](/der-excel-client/listen-und-formate.md)”.
 
 ---
 
@@ -46,7 +46,7 @@ To manage global attributes, proceed as follows:
 
 The product overview can be filtered based on the global attributes.
 
-1\) Click on the drop-down arrow in the column that contains the global attribute by which you wish to filter. 
+1\) Click on the drop-down arrow in the column that contains the global attribute by which you wish to filter.
 
 ---
 
