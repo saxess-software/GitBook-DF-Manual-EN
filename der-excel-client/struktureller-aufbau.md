@@ -8,9 +8,9 @@ The lowest level of the structure is the **product**. Data collection takes plac
 
 Products are aggregated on a product line while product lines are aggregated on a factory level. The highest aggregation level is the **work**.
 
-The access rights can be assigned on the factory and product line levels, meaning that the user can only read and edit certain factory and product line information. This subject is further discussed in the chapter _**User Management**_.
+The access rights can be assigned on the factory and product line levels, meaning that the user can only read and edit certain factory and product line information. This subject is further discussed in the chapter [_**User Management**_](/der-excel-client/werk/benutzer-verwalten.md).
 
-Lists and formats are managed on the work level and can be implemented in all levels of the hierarchy. A more detailed description is given in the chapter _**Lists and Formats**_.
+Lists and formats are managed on the work level and can be implemented in all levels of the hierarchy. A more detailed description is given in the chapter [_**Lists and Formats**_](/der-excel-client/listen-und-formate.md).
 
 ---
 
