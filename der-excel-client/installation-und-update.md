@@ -1,10 +1,10 @@
 ## Installation
 
-The scope of the required installation depends on whether your DataFactory database is to be kept on your own SQL server or whether it is to be hosted on our Cloud server. 
+The scope of the required installation depends on whether your DataFactory database is to be kept on your own SQL server or whether it is to be hosted on our Cloud server.
 
-In both cases, the Excel client must first be installed on your system. If you use your own SQL server, additional installation steps in SQL Management Studio will be required. If this is the case, these steps must be carried out by the system administrator. 
+In both cases, the Excel client must first be installed on your system. If you use your own SQL server, additional installation steps in SQL Management Studio will be required. If this is the case, these steps must be carried out by the system administrator.
 
-### Installation of the Excel Client 
+### Installation of the Excel Client
 
 At this time, you should already have received the installation file. If not, it is available for download at [https://planning-factory.com](https://planning-factory.com).
 
@@ -36,7 +36,7 @@ To download the Excel client, first you will need to register an account at **pl
 
 ---
 
-4\) A window will open. Select **Save File** and confirm by clicking **OK**. 
+4\) A window will open. Select **Save File** and confirm by clicking **OK**.
 
 ---
 
@@ -44,7 +44,7 @@ To download the Excel client, first you will need to register an account at **pl
 
 ---
 
-5\) Choose your desired save directory and confirm by clicking **OK**. 
+5\) Choose your desired save directory and confirm by clicking **OK**.
 
 ---
 
@@ -56,7 +56,7 @@ To download the Excel client, first you will need to register an account at **pl
 
 #### Decompressing and Opening the File
 
-1\) Open the save directory to which you saved the installation file. Right-click the .zip file and select the option **Extract All**. 
+1\) Open the save directory to which you saved the installation file. Right-click the .zip file and select the option **Extract All**.
 
 ---
 
@@ -64,7 +64,7 @@ To download the Excel client, first you will need to register an account at **pl
 
 ---
 
-2\) A window will open in which you can choose a destination folder for the decompressed files. Clicking the **Search** button will enable you to change the destination folder. When your desired folder is selected, click **Extract**. 
+2\) A window will open in which you can choose a destination folder for the decompressed files. Clicking the **Search** button will enable you to change the destination folder. When your desired folder is selected, click **Extract**.
 
 ---
 
@@ -80,7 +80,7 @@ To download the Excel client, first you will need to register an account at **pl
 
 ---
 
-If you click on the DataFactory Excel client in your folder, Excel will open with the spreadsheet that contains the XLS client. On the first startup you will need to enable macros by clicking the **Activate Contents** button found in the highlighted yellow column under the Navigation tab. This setting will remain activated for all future uses of the program, and will not need to be changed again. 
+If you click on the DataFactory Excel client in your folder, Excel will open with the spreadsheet that contains the XLS client. On the first startup you will need to enable macros by clicking the **Activate Contents** button found in the highlighted yellow column under the Navigation tab. This setting will remain activated for all future uses of the program, and will not need to be changed again.
 
 ---
 
@@ -88,11 +88,11 @@ If you click on the DataFactory Excel client in your folder, Excel will open wit
 
 ---
 
-You will now find yourself in the work overview, where you can establish a connection to your database, as described in the chapter **Connecting works**. Further installation steps are required should you choose to use an SQL server. You can now connect to a database in the Saxess Cloud. 
+You will now find yourself in the work overview, where you can establish a connection to your database, as described in the chapter **Connecting works**. Further installation steps are required should you choose to use an SQL server. You can now connect to a database in the Saxess Cloud.
 
 If you choose to use a DataFactory database stored on your own server, you must ask your system administrator to configure it for you. If you are the system administrator, refer to the chapter **Installation of the DataFactory Database**.
 
 ### Current Release of the Excel Client and Updates
 
-The current release of the Excel client can be found at [https://planning-factory.com](https://planning-factory.com). Download the new Excel client file and install it as described in the chapter **Updates**.
+The current release of the Excel client can be found at [https://planning-factory.com](https://planning-factory.com). Download the new Excel client file and install it as described in the chapter [**Updates**](/der-excel-client/updates.md).
 
