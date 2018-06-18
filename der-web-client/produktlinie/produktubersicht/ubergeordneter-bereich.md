@@ -6,9 +6,9 @@ Here you will find the following buttons:
 
 | Button | Description |
 | --- | --- |
-| Save | Saves all changes made to the data in the product table. A detailed explanation can be found in the chapter **Product Table Body**.  |
-| Save Layout | Saves all changes made to the layout of the product table. A detailed explanation can be found in the chapter **Layout**. |
-| Create New Product | A new product is created in the product table. A detailed explanation can be found in the chapter **Creating a New Product**. |
+| Save | Saves all changes made to the data in the product table. A detailed explanation can be found in the chapter [**Product Table Body**](/der-web-client/produktlinie/produktubersicht/produkttabelle.md). |
+| Save Layout | Saves all changes made to the layout of the product table. A detailed explanation can be found in the chapter [**Saving a** **Layout**.](/der-web-client/fabrik/pivot-ansicht/layout-speichern.md) |
+| Create New Product | A new product is created in the product table. A detailed explanation can be found in the chapter [**Adding or Deleting a New Product**.](/der-web-client/produktlinie/produktubersicht/produkttabelle/produkte-hinzufugen-oder-speicher.md) |
 
 #### _Description Line_
 
@@ -16,7 +16,7 @@ Here you have the option to provide a more detailed description of the product l
 
 #### _Search Bar_
 
-Here you can enter a term or a keyword that you wish to search for in the product table. 
+Here you can enter a term or a keyword that you wish to search for in the product table.
 
 When you have entered the term in the search bar, all products containing the searched term will be shown in the search results.
 
@@ -48,11 +48,11 @@ The search bar can also be hidden.
 
 #### _Fusszeile_
 
-In the footer, you can choose to show aggregation functions such as quantity, minimum, maximum and average. This function can be used if the values in your column are defined as “Numeric”. 
+In the footer, you can choose to show aggregation functions such as quantity, minimum, maximum and average. This function can be used if the values in your column are defined as “Numeric”.
 
 To display the footer, proceed as follows:
 
-1\) Right-click on a column name in the spreadsheet header and select **Footer**. 
+1\) Right-click on a column name in the spreadsheet header and select **Footer**.
 
 ---
 
